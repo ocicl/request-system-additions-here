@@ -5,15 +5,15 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for contributing to ocicl
+        Thank you for contributing to ocicl!
   - type: input
     id: project
     attributes:
       label: Name of the project
-      description: Name of the project, which may not be the namae of the system
+      description: Name of the project, which may not be the name of the system
       placeholder: ex. cl-myproject
     validations:
-      required: false
+      required: true
   - type: input
     id: systems
     attributes:
@@ -21,7 +21,7 @@ body:
       description: List of the systems provided by this project.
       placeholder: ex. mysystem myothersystem
     validations:
-      required: false
+      required: true
   - type: dropdown
     id: type
     attributes:
@@ -37,8 +37,12 @@ body:
     attributes:
       label: URL
       description: URL for the file or repo
+    validations:
+      required: true
   - type: input
     id: version
     attributes:
       label: Git commit hash or release version
       description: For git repos, provide a commit hash.  For files, identify the verion (eg. 3.2.1)
+    validations:
+      required: true
