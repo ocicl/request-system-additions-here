@@ -7,11 +7,19 @@ body:
       value: |
         Thank you for contributing to ocicl
   - type: input
-    id: system
+    id: project
     attributes:
       label: Name of the project
       description: Name of the project, which may not be the namae of the system
       placeholder: ex. cl-myproject
+    validations:
+      required: false
+  - type: input
+    id: systems
+    attributes:
+      label: List of systems
+      description: List of the systems provided by this project.
+      placeholder: ex. mysystem myothersystem
     validations:
       required: false
   - type: dropdown
