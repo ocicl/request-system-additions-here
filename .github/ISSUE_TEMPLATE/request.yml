@@ -28,8 +28,8 @@ body:
       label: Tarball or git
       description: Is the upstream source a tarball or git repo?
       options:
-        - tarball
         - git
+        - tarball
     validations:
       required: true
   - type: input
