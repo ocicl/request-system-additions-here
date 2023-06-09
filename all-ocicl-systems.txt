@@ -30,15 +30,18 @@ bknr.datastore
 blackbird
 bordeaux-threads
 bt-semaphore
+cambl
 ccl-compat
 cephes
 cffi
 cffi-grovel
 cffi-libffi
+cffi-ops
 cffi-toolchain
 cffi-uffi-compat
 chipz
 chirp
+chlorophyll
 chronicity
 chunga
 circular-streams
@@ -62,6 +65,7 @@ cl-change-case
 cl-clblas
 cl-colors
 cl-colors2
+cl-containers
 cl-cookie
 cl-cron
 cl-csv
@@ -79,6 +83,7 @@ cl-glu
 cl-glut
 cl-gpio
 cl-grnm
+cl-hooks
 cl-interpol
 clip
 cl-isaac
@@ -86,6 +91,7 @@ cl-json
 cl-keycloak
 cl-l10n
 cl-l10n-cldr
+cl-ledger
 cl-libuv
 cl-libuv-config
 cl-lzma
@@ -107,6 +113,7 @@ cl-org-mode
 closer-mop
 closure-common
 closure-html
+cl-package-locks
 cl-pass
 cl-paths
 cl-paths-ttf
@@ -119,6 +126,7 @@ cl-ppcre-unicode
 clpppssl
 cl-rdfxml
 cl-readline
+cl-reexport
 cl-schedule
 cl-sha1
 cl-simple-table
@@ -154,6 +162,7 @@ cl-webdav
 cl-with
 cl-yahoo-finance
 cl-zipper
+coalton
 collectors
 com.inuoe.jzon
 concrete-syntax-tree
@@ -164,7 +173,9 @@ cxml
 data-frame
 dbd-mysql
 dbd-posgres
+dbd-postgres
 dbd-sqlite3
+dbi
 definitions
 defpackage-plus
 def-properties
@@ -194,9 +205,11 @@ fare-utils
 fast-http
 fast-io
 fast-websocket
+fiveam
 flexi-streams
 float-features
 form-fiddle
+fprog
 fset
 f-underscore
 githappy
@@ -249,6 +262,7 @@ langutils
 let-plus
 lev
 lisp-namespace
+lisp-pay
 local-time
 log4cl
 logv
@@ -261,20 +275,25 @@ markup
 md5
 metabang-bind
 metap
+metatilities-base
 mfiano-utils
 mgl-pax
 mgl-pax.asdf
 misc-extensions
+mito
 more-conditions
 mt19937
 myway
 named-closure
 named-readtables
+net.didierverna.asdf-flv
 nibbles
 ningle
 num-utils
 nytpu.lisp-utils
 ocicl-sandbox
+optima
+optima.ppcre
 org.tfeb.conduit-packages
 origin
 papyrus
@@ -286,6 +305,8 @@ parse-number
 parser.common-rules
 parser.common-rules.operators
 parser.ini
+periods
+periods-series
 plump
 plump-dom
 plump-lexer
@@ -318,7 +339,9 @@ sentry-client
 sentry-client.async
 sentry-client.hunchentoot
 serapeum
+series
 sha1
+shasht
 simple-date
 simple-date-time
 simple-tasks
@@ -340,6 +363,8 @@ swank
 swap-bytes
 s-xml
 s-xml-rpc
+sxql
+symath
 symbol-munger
 testiere
 thread-pool
@@ -351,6 +376,7 @@ trivia.cffi
 trivial-backtrace
 trivial-cltl2
 trivial-custom-debugger
+trivial-do
 trivial-features
 trivial-file-size
 trivial-garbage
@@ -376,6 +402,7 @@ unix-opts
 url-rewrite
 usocket
 usocket-server
+utilities.print-items
 utilities.print-tree
 uuid
 veq
