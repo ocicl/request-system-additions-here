@@ -48,6 +48,7 @@ chirp
 chlorophyll
 chronicity
 chunga
+ciao
 circular-streams
 cl-aa
 cl-aa-misc
