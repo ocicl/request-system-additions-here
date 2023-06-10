@@ -32,6 +32,7 @@ bordeaux-threads
 bt-semaphore
 cambl
 ccl-compat
+ceigen-lite
 cephes
 cffi
 cffi-grovel
