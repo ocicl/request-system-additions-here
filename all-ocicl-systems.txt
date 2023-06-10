@@ -1,6 +1,7 @@
 1am
 access
 acclimation
+agutil
 alexandria
 alexandria_plus
 anaphora
@@ -13,6 +14,8 @@ arnesi
 array-operations
 array-utils
 arrow-macros
+arrows
+asdf-system-connections
 asd-generator
 asn1
 assoc-utils
@@ -74,9 +77,12 @@ cl-csv-clsql
 cl-csv-data-table
 cl-date-time-parser
 cl-dbi
+cl-environments
 cl-etcd
 cl-fad
 cl-ffc
+cl-forms
+cl-form-types
 cl-fsnotify
 cl-gd
 cl-glfw3
@@ -166,10 +172,12 @@ cl-zipper
 coalton
 collectors
 com.inuoe.jzon
+compiler-macro-notes
 concrete-syntax-tree
 concrete-syntax-tree-base
 concrete-syntax-tree-lambda-list
 contextl
+ctype
 cxml
 data-frame
 dbd-mysql
@@ -198,6 +206,9 @@ eclector
 eclector-concrete-syntax-tree
 esrap
 event-emitter
+extensible-compound-types
+extensible-compound-types-cl
+extensible-optimizing-coerce
 fare-mop
 fare-quasiquote
 fare-quasiquote-extras
@@ -209,6 +220,8 @@ fast-websocket
 fiveam
 flexi-streams
 float-features
+fmt
+fmt-time
 form-fiddle
 fprog
 fset
@@ -234,6 +247,7 @@ hu.dwim.def_plus_contextl
 hu.dwim.def_plus_hu.dwim.common
 hu.dwim.def_plus_swank
 hu.dwim.delico
+hu.dwim.stefil
 hu.dwim.syntax-sugar
 hu.dwim.util
 hu.dwim.util_plus_iolib
@@ -243,6 +257,7 @@ idna
 ieee-floats
 inferior-shell
 infix-math
+in-nomine
 introspect-environment
 iolib
 ironclad
@@ -312,6 +327,7 @@ plump
 plump-dom
 plump-lexer
 plump-parser
+polymorphic-functions
 postmodern
 proc-parse
 prometheus
