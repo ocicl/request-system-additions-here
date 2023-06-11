@@ -78,6 +78,7 @@ cl-csv-clsql
 cl-csv-data-table
 cl-date-time-parser
 cl-dbi
+cl-dot
 cl-environments
 cl-etcd
 cl-fad
@@ -102,6 +103,7 @@ cl-l10n-cldr
 cl-ledger
 cl-libuv
 cl-libuv-config
+cl-locale
 cl-lzma
 cl-markless
 cl-markup
@@ -150,6 +152,7 @@ cl-spidev
 clsql
 clss
 cl-steamworks
+cl-store
 cl-syntax
 cl-syntax-annot
 cl-syntax-anonfun
@@ -278,6 +281,7 @@ lack-util
 langutils
 let-plus
 lev
+lift
 lisp-namespace
 lisp-pay
 local-time
@@ -319,6 +323,8 @@ parenscript
 parse-declarations-1.0
 parse-float
 parse-number
+parser-combinators
+parser-combinators-cl-ppcre
 parser.common-rules
 parser.common-rules.operators
 parser.ini
