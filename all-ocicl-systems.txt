@@ -308,6 +308,7 @@ myway
 named-closure
 named-readtables
 net.didierverna.asdf-flv
+net.didierverna.clon
 nibbles
 ningle
 num-utils
@@ -315,6 +316,7 @@ nytpu.lisp-utils
 ocicl-sandbox
 optima
 optima.ppcre
+org.melusina.webmachine
 org.tfeb.conduit-packages
 origin
 papyrus
@@ -336,6 +338,7 @@ plump-lexer
 plump-parser
 polymorphic-functions
 postmodern
+prettier-builtins
 proc-parse
 prometheus
 prometheus.collectors.process
@@ -421,6 +424,7 @@ trivia.trivial
 type-i
 uax-15
 uffi
+unboxables
 unit-test
 unix-opts
 url-rewrite
