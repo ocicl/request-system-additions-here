@@ -106,15 +106,18 @@ clip
 cl-isaac
 cl-jpeg
 cl-json
+cl-jsonl
 cl-keycloak
 cl-l10n
 cl-l10n-cldr
 cl-ledger
+cl-lexer
 cl-libuv
 cl-libuv-config
 cl-libyaml
 cl-locale
 cl-lzma
+cl-m4
 cl-markless
 cl-markup
 cl-messagepack
@@ -182,6 +185,8 @@ cl-vectors
 cl-wavefront
 cl-webdav
 cl-with
+clws
+cl-xul
 cl-yahoo-finance
 cl-yaml
 cl-zipper
@@ -226,6 +231,7 @@ event-emitter
 extensible-compound-types
 extensible-compound-types-cl
 extensible-optimizing-coerce
+external-program
 fare-mop
 fare-quasiquote
 fare-quasiquote-extras
@@ -246,6 +252,7 @@ f-underscore
 githappy
 global-vars
 gravatar
+graylex
 graylog
 gtwiwtg
 gzip-stream
@@ -299,6 +306,7 @@ lisp-namespace
 lisp-pay
 local-time
 log4cl
+log5
 logv
 lparallel
 lquery
@@ -370,7 +378,10 @@ pythonic-string-reader
 quantile-estimator
 quri
 random-sample
+regex
 rfc2388
+rutils
+rutilsx
 rw-ut
 salza
 salza2
@@ -462,6 +473,7 @@ xpath
 xsubseq
 yacc
 yason
+yxorp
 zip
 zpb-ttf
 zs3
