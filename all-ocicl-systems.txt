@@ -446,10 +446,14 @@ hu.dwim.util
 hu.dwim.util_plus_iolib
 hu.dwim.walker
 huffman
+hunchensocket
 hunchentoot
+hunchentoot-multi-acceptor
 hyperspec
 idna
 ieee-floats
+illogical-pathnames
+incongruent-methods
 inferior-shell
 infix-math
 in-nomine
