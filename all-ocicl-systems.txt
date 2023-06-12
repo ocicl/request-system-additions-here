@@ -4,6 +4,9 @@
 3b-hdr
 3bmd
 3d-matrices
+3d-quaternions
+3d-spaces
+3d-transforms
 3d-vectors
 40ants-asdf-system
 access
@@ -13,9 +16,12 @@ advanced-readtable
 agutil
 alexandria
 alexandria_plus
+amazon-ecs
 anaphora
 anypool
 apply-argv
+april
+arc-compat
 architecture.builder-protocol
 architecture.builder-protocol.json
 architecture.builder-protocol.print-tree
@@ -26,6 +32,7 @@ arithmetic-operators-as-words
 arnesi
 array-operations
 array-utils
+arrival
 arrow-macros
 arrows
 asdf-dependency-graph
@@ -107,6 +114,7 @@ cl-ffc
 cl-forms
 cl-form-types
 cl-fsnotify
+cl-gamepad
 cl-gd
 cl-glfw3
 cl-glu
@@ -121,6 +129,7 @@ cl-isaac
 cl-jpeg
 cl-json
 cl-jsonl
+cl-json-pointer
 cl-keycloak
 cl-l10n
 cl-l10n-cldr
@@ -161,6 +170,7 @@ cl-postgres
 cl-ppcre
 cl-ppcre-unicode
 clpppssl
+cl-project
 cl-rdfxml
 cl-readline
 cl-reexport
@@ -225,6 +235,7 @@ dbi
 definitions
 defpackage-plus
 def-properties
+deploy
 dexador
 dissect
 distributions
@@ -258,14 +269,17 @@ fast-websocket
 fiveam
 flexi-streams
 float-features
+flow
 fmt
 fmt-time
+for
 form-fiddle
 fprog
 fset
 f-underscore
 githappy
 global-vars
+glsl-toolkit
 gravatar
 graylex
 graylog
@@ -314,12 +328,15 @@ lack-middleware-backtrace
 lack-request
 lack-response
 lack-util
+lambda-fiddle
+language-codes
 langutils
 let-plus
 lev
 lift
 lisp-namespace
 lisp-pay
+listopia
 local-time
 log4cl
 log5
@@ -332,6 +349,7 @@ map-set
 markup
 md5
 memory-regions
+messagebox
 metabang-bind
 metap
 metatilities-base
@@ -341,6 +359,7 @@ mgl-pax.asdf
 misc-extensions
 mito
 mmap
+moptilities
 more-conditions
 mt19937
 myway
@@ -355,6 +374,7 @@ ningle
 num-utils
 nytpu.lisp-utils
 ocicl-sandbox
+openapi-generator
 optima
 optima.ppcre
 org.melusina.webmachine
@@ -374,6 +394,7 @@ parser.ini
 pathname-utils
 periods
 periods-series
+piping
 plump
 plump-dom
 plump-lexer
@@ -388,6 +409,7 @@ prometheus.collectors.sbcl
 prometheus.exposers.hunchentoot
 prometheus.formats.text
 prometheus.pushgateway
+promise
 prove
 prove-asdf
 punycode
@@ -396,6 +418,7 @@ pythonic-string-reader
 quantile-estimator
 quri
 random-sample
+random-state
 regex
 rfc2388
 rutils
@@ -416,6 +439,7 @@ sha1
 shasht
 simple-date
 simple-date-time
+simplet
 simple-tasks
 slynk
 slynk-asdf
@@ -439,10 +463,12 @@ s-xml-rpc
 sxql
 symath
 symbol-munger
+system-locale
 testiere
 thread-pool
 timer-wheel
 tmpdir
+trial
 trivia
 trivia.balland2006
 trivia.cffi
@@ -450,6 +476,7 @@ trivial-backtrace
 trivial-cltl2
 trivial-custom-debugger
 trivial-do
+trivial-download
 trivial-extensible-sequences
 trivial-features
 trivial-file-size
@@ -483,10 +510,12 @@ utilities.print-items
 utilities.print-tree
 uuid
 veq
+verbose
 vom
 websocket-driver
 woo
 wu-decimal
+xml-mop
 xmls
 xpath
 xsubseq
@@ -495,4 +524,5 @@ yason
 yxorp
 zip
 zpb-ttf
+zpng
 zs3
