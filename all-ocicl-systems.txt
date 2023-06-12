@@ -3,6 +3,7 @@
 3bgl-shader
 3b-hdr
 3bmd
+3d-matrices
 3d-vectors
 40ants-asdf-system
 access
@@ -13,17 +14,26 @@ agutil
 alexandria
 alexandria_plus
 anaphora
+anypool
+apply-argv
 architecture.builder-protocol
 architecture.builder-protocol.json
 architecture.builder-protocol.print-tree
 architecture.builder-protocol.universal-builder
 architecture.builder-protocol.xpath
+archive
+arithmetic-operators-as-words
 arnesi
 array-operations
 array-utils
 arrow-macros
 arrows
+asdf-dependency-graph
+asdf-dependency-grovel
+asdf-encodings
+asdf-finalizers
 asdf-system-connections
+asdf-viz
 asd-generator
 asn1
 assoc-utils
@@ -36,6 +46,7 @@ babel
 base64
 big-string
 binary-io
+binary-structures
 binding-arrows
 bknr.datastore
 blackbird
@@ -87,9 +98,11 @@ cl-csv-data-table
 cl-date-time-parser
 cl-dbi
 cl-dot
+cl-emb
 cl-environments
 cl-etcd
 cl-fad
+cl-fast-ecs
 cl-ffc
 cl-forms
 cl-form-types
@@ -100,6 +113,7 @@ cl-glu
 cl-glut
 cl-gpio
 cl-grnm
+cl-hash-util
 cl-hooks
 cl-interpol
 clip
@@ -151,6 +165,7 @@ cl-rdfxml
 cl-readline
 cl-reexport
 cl-schedule
+cl-semver
 cl-sha1
 cl-simple-table
 cl-singleton-mixin
@@ -291,6 +306,7 @@ jonathan
 jpl-queues
 jpl-util
 jp-numeral
+json-mop
 jsown
 kebab
 lack
@@ -333,6 +349,7 @@ named-readtables
 native-lazy-seq
 net.didierverna.asdf-flv
 net.didierverna.clon
+net-telent-date
 nibbles
 ningle
 num-utils
@@ -354,6 +371,7 @@ parser-combinators-cl-ppcre
 parser.common-rules
 parser.common-rules.operators
 parser.ini
+pathname-utils
 periods
 periods-series
 plump
@@ -437,6 +455,7 @@ trivial-features
 trivial-file-size
 trivial-garbage
 trivial-gray-streams
+trivial-http
 trivial-indent
 trivial-macroexpand-all
 trivial-main-thread
