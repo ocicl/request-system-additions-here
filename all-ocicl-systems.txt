@@ -61,6 +61,7 @@ blackbird
 bordeaux-threads
 bt-semaphore
 cambl
+cari3s
 caveman2
 caveman2-db
 ccl-compat
@@ -258,8 +259,10 @@ contextl
 context-lite
 core-reader
 cover
+cqlcl
 croatoan
 crypto-shortcuts
+cserial-port
 css-lite
 csv-parser
 csv-validator
@@ -326,6 +329,7 @@ dynamic-classes
 dynamic-collect
 dynamic-mixins
 easing
+easy-audio
 easy-macros
 easy-routes
 easy-routes_plus_djula
@@ -395,6 +399,7 @@ form-fiddle
 fprog
 freesound
 froute
+frpc
 fset
 fsocket
 fsvd
@@ -533,6 +538,8 @@ liblmdb
 lichat-protocol
 lichat-serverlib
 lichat-tcp-client
+lichat-tcp-server
+lichat-ws-server
 lift
 lila
 linear-programming
@@ -616,6 +623,7 @@ modest-config
 modf
 modf-fset
 modularize
+moira
 montezuma
 moptilities
 more-conditions
