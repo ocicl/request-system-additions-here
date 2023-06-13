@@ -308,6 +308,7 @@ defrest
 defvariant
 delorean
 delta-debug
+deoxybyte-gzip
 deoxybyte-io
 deoxybyte-systems
 deoxybyte-unix
@@ -412,6 +413,7 @@ format-string-builder
 form-fiddle
 formlets
 fprog
+fred
 freesound
 froute
 frpc
@@ -1093,6 +1095,7 @@ weft
 westbrook
 what3words
 which
+whofields
 wild-package-inferred-system
 winhttp
 winlock
