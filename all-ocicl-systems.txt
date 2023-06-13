@@ -56,6 +56,8 @@ big-string
 binary-io
 binary-structures
 binding-arrows
+binfix
+binomial-heap
 bknr.datastore
 blackbird
 bordeaux-threads
@@ -100,6 +102,7 @@ cl-base64
 cl-bloom
 cl-bmp
 cl-bnf
+cl-ca
 cl-change-case
 cl-clblas
 cl-colors
@@ -114,6 +117,7 @@ cl-csv-data-table
 cl-date-time-parser
 cl-dbi
 cl-dot
+cl-dsl
 cl-emb
 cl-environments
 cl-etcd
@@ -220,6 +224,7 @@ cl-toml
 cl-tqdm
 cl-unac
 cl-unicode
+clunit2
 clustered-intset
 cl-utilities
 cl-vectors
@@ -281,6 +286,7 @@ cxml
 cxml-rpc
 cxml-stp
 daemon
+damn-fast-priority-queue
 database-migrations
 datafly
 data-frame
@@ -297,6 +303,7 @@ dbd-sqlite3
 dbi
 deeds
 defclass-std
+defconfig
 deferred
 define-json-expander
 definitions
@@ -308,6 +315,7 @@ defrest
 defvariant
 delorean
 delta-debug
+de-mock-racy
 deoxybyte-gzip
 deoxybyte-io
 deoxybyte-systems
@@ -330,12 +338,14 @@ documentation-utils
 documentation-utils-extensions
 donuts
 dotenv
+doubly-linked-list
 do-urlencode
 drakma
 draw-cons-tree
 dufy
 duologue
 duologue-readline
+dynamic-array
 dynamic-classes
 dynamic-collect
 dynamic-mixins
@@ -370,6 +380,7 @@ extensible-optimizing-coerce
 external-program
 external-symbol-not-found
 fact-base
+factory-alien
 fare-mop
 fare-quasiquote
 fare-quasiquote-extras
@@ -427,6 +438,7 @@ funds
 fuzzy-match
 gadgets
 garbage-pools
+generalized-reference
 generators
 generic-comparability
 generic-sequences
@@ -451,12 +463,15 @@ gooptest
 gravatar
 graylex
 graylog
+grid-formation
 group-by
 grovel-locally
 gtwiwtg
 gtype
 gzip-stream
 hash-set
+hash-table-ext
+hashtrie
 heap
 hermetic
 herodotus
@@ -501,6 +516,7 @@ hunchentoot-multi-acceptor
 hyperspec
 ia-hash-table
 id3v2
+identifier-pool
 idna
 ieee-floats
 illogical-pathnames
@@ -510,6 +526,7 @@ incongruent-methods
 inferior-shell
 infix-dollar-reader
 infix-math
+infix-reader
 injection
 inkwell
 inlined-generic-function
@@ -517,6 +534,7 @@ inner-conditional
 in-nomine
 inotify
 inquisitor
+instance-tracking
 intel-hex
 intercom
 interface
@@ -531,6 +549,7 @@ journal
 jpl-queues
 jpl-util
 jp-numeral
+json-lib
 json-mop
 json-streams
 jsown
@@ -552,6 +571,7 @@ language-codes
 langutils
 lassie
 latex-table
+latter-day-paypal
 lazy
 legion
 legit
@@ -574,6 +594,7 @@ lila
 lime
 linear-programming
 linedit
+lineva
 linewise-template
 lisa
 lisp-binary
@@ -621,6 +642,7 @@ mathkit
 matrix-case
 maxpc
 mbe
+mcase
 md5
 media-types
 mel-base
@@ -674,12 +696,15 @@ multiposter
 multival-plist
 music-spelling
 mutility
+mw-equiv
 myway
+nail
 named-closure
 named-read-macros
 named-readtables
 narrowed-types
 native-lazy-seq
+nclasses
 ndebug
 net.didierverna.asdf-flv
 net.didierverna.clon
@@ -750,11 +775,14 @@ percent-encoding
 periods
 periods-series
 perlre
+pero
 persistent-tables
 persistent-variables
 petit.package-utils
 petit.string-utils
 petri
+pettomato-deque
+pettomato-indexed-priority-queue
 phoe-toolbox
 phos
 physical-quantities
@@ -762,6 +790,7 @@ picl
 pileup
 piping
 pithy-xml
+pk-serialize
 plot
 pludeck
 plump
@@ -819,11 +848,14 @@ ql-checkout
 qlot
 qoi
 qt-libs
+quad-tree
 quadtree
 quantile-estimator
 quasiquote-2.0
 queues
 quickapp
+quicklisp-stats
+quick-patch
 quicksearch
 quri
 random-access-lists
@@ -839,6 +871,7 @@ rectangle-packing
 recur
 recursive-regex
 recursive-restart
+red-black-tree
 redirect-stream
 regex
 remote-js
@@ -852,6 +885,7 @@ rove
 rs-colors
 rs-json
 rt-events
+rucksack
 rutils
 rutilsx
 rw-ut
@@ -879,6 +913,7 @@ sento
 sentry-client
 sentry-client.async
 sentry-client.hunchentoot
+sequence-iterators
 serapeum
 serializable-object
 series
@@ -895,6 +930,7 @@ shop3
 should-test
 s-http-client
 s-http-server
+si-kanren
 simple-actors
 simple-config
 simple-currency
@@ -905,13 +941,17 @@ simple-rgb
 simplet
 simple-tasks
 simplified-types
+slite
 slot-extra-options
+slot-map
 slynk
 slynk-asdf
+smackjack
 smart-buffer
 snakes
 snooze
 south
+sparse-set
 spatial-trees
 special-functions
 specialized-function
@@ -933,11 +973,14 @@ statistics
 statusor
 stdutils
 stem
+stepster
 stl
 stopclock
 str
+strict-function
 string-case
 stripe
+stripe-against-the-modern-world
 structure-ext
 structy-defclass
 stumpwm
@@ -977,8 +1020,10 @@ the-cost-of-nothing
 thorn
 thread.comm.rendezvous
 thread-pool
+tile-grid
 time-interval
 timer-wheel
+tiny-routes
 tmpdir
 toadstool
 toot
@@ -1011,6 +1056,7 @@ trivial-do
 trivial-documentation
 trivial-download
 trivial-dump-core
+trivial-ed-functions
 trivial-escapes
 trivial-exe
 trivial-extensible-sequences
@@ -1022,6 +1068,7 @@ trivial-http
 trivialib.bdd
 trivialib.type-unify
 trivial-indent
+trivial-inspector-hook
 trivial-irc
 trivial-lazy
 trivial-ldap
@@ -1035,6 +1082,7 @@ trivial-nntp
 trivial-octet-streams
 trivial-open-browser
 trivial-package-local-nicknames
+trivial-package-locks
 trivial-package-manager
 trivial-raw-io
 trivial-rfc-1123
@@ -1054,6 +1102,8 @@ trivia.ppcre
 trivia.quasiquote
 trivia.trivial
 truetype-clx
+try
+tsqueue
 ttt
 twfy
 type-i
@@ -1077,6 +1127,7 @@ utilities.binary-dump
 utilities.print-items
 utilities.print-tree
 utility
+utils-kt
 utm
 uuid
 validate-list
@@ -1085,6 +1136,7 @@ veq
 verbose
 vertex
 vgplot
+vivid-colors
 vom
 vom-json
 vp-trees
@@ -1095,6 +1147,7 @@ weft
 westbrook
 what3words
 which
+whirlog
 whofields
 wild-package-inferred-system
 winhttp
