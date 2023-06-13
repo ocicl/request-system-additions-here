@@ -611,8 +611,12 @@ mp3-duration
 mpc
 mra-wavelet-plot
 mt19937
+mtif
 multilang-documentation
 multiposter
+multival-plist
+music-spelling
+mutility
 myway
 named-closure
 named-readtables
