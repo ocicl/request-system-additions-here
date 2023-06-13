@@ -839,9 +839,11 @@ recursive-regex
 recursive-restart
 redirect-stream
 regex
+remote-js
 repl-utilities
 resignal-bind
 restful
+restricted-functions
 rfc2388
 romreader
 rove
@@ -886,6 +888,7 @@ shadchen
 shasht
 sheeple
 shellpool
+shelly
 shop3
 should-test
 s-http-client
@@ -904,6 +907,7 @@ slot-extra-options
 slynk
 slynk-asdf
 smart-buffer
+snakes
 snooze
 south
 spatial-trees
@@ -935,6 +939,8 @@ stripe
 structure-ext
 structy-defclass
 stumpwm
+stumpwm-dynamic-float
+stumpwm-sndioctl
 s-utils
 swank
 swank.live
@@ -958,6 +964,7 @@ tclcs-code
 template
 temporal-functions
 temporary-file
+ten
 terminfo
 terrable
 testbild
@@ -978,6 +985,7 @@ towers
 trace-db
 trainable-object
 translate-client
+transparent-wrap
 treedb
 trees
 trestrul
@@ -993,6 +1001,7 @@ trivial-bit-streams
 trivial-channels
 trivial-clipboard
 trivial-cltl2
+trivial-compress
 trivial-coverage
 trivial-custom-debugger
 trivial-debug-console
