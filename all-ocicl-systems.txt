@@ -185,6 +185,7 @@ cl-readline
 cl-reexport
 cl-schedule
 cl-semver
+cl-ses4
 cl-sha1
 cl-simple-table
 cl-singleton-mixin
@@ -306,6 +307,7 @@ deoxybyte-systems
 deoxybyte-utilities
 deploy
 depot
+descriptions
 destructuring-bind-star
 dexador
 diff
@@ -361,6 +363,7 @@ fare-quasiquote
 fare-quasiquote-extras
 fare-quasiquote-readtable
 fare-utils
+fast-generic-functions
 fast-http
 fast-io
 fast-websocket
@@ -441,6 +444,7 @@ hh-redblack
 hl7-client
 hl7-parser
 horner
+house
 html-entities
 ht-simple-ajax
 http2
@@ -528,6 +532,7 @@ lassie
 latex-table
 lazy
 legion
+legit
 lense
 let-over-lambda
 let-plus
@@ -545,6 +550,7 @@ lila
 linear-programming
 linewise-template
 lisa
+lisp-binary
 lisp-chat
 lisp-critic
 lisp-executable
@@ -584,6 +590,7 @@ map-set
 marching-cubes
 markdown.cl
 markup
+mathkit
 matrix-case
 maxpc
 mbe
@@ -656,6 +663,7 @@ njson
 north
 nsort
 nsymbols
+null-package
 numpy-file-format
 num-utils
 nyaml
@@ -676,6 +684,7 @@ osicat
 oxenfurt
 pack
 packet
+packet-crafting
 paiprolog
 pango-markup
 papyrus
@@ -708,6 +717,7 @@ percent-encoding
 periods
 periods-series
 perlre
+persistent-tables
 persistent-variables
 petit.package-utils
 petit.string-utils
@@ -804,6 +814,7 @@ restful
 rfc2388
 romreader
 rove
+rs-colors
 rs-json
 rt-events
 rutils
@@ -846,6 +857,8 @@ sheeple
 shellpool
 shop3
 should-test
+s-http-client
+s-http-server
 simple-actors
 simple-config
 simple-currency
