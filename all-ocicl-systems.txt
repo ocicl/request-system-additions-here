@@ -420,9 +420,11 @@ genhash
 geodesic
 geowkt
 gettext
+git-file-history
 githappy
 glass
 glisph
+glkit
 global-vars
 glsl-packing
 glsl-toolkit
