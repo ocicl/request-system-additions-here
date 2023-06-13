@@ -93,9 +93,11 @@ cl-argparse
 classowary
 cl-autowrap
 clavier
+clawk
 cl-base32
 cl-base64
 cl-bloom
+cl-bmp
 cl-bnf
 cl-change-case
 cl-clblas
@@ -186,6 +188,7 @@ cl-sha1
 cl-simple-table
 cl-singleton-mixin
 cl-skip-list
+cl-skkserv
 cl-slice
 cl-slug
 cl-slugify
@@ -233,6 +236,7 @@ collectors
 colliflower
 colored
 com.clearly-useful.generic-collection-interface
+com.clearly-useful.iterator-protocol
 com.clearly-useful.protocols
 com.inuoe.jzon
 command-line-arguments
@@ -269,6 +273,7 @@ cxml-rpc
 cxml-stp
 daemon
 database-migrations
+datafly
 data-frame
 data-lens
 datamuse
@@ -377,6 +382,7 @@ float-features
 floating-point
 floating-point-contractions
 flow
+flute
 fmt
 fmt-time
 fn
@@ -395,6 +401,8 @@ fsvd
 functional-trees
 function-cache
 f-underscore
+funds
+fuzzy-match
 gadgets
 garbage-pools
 generic-comparability
@@ -465,6 +473,7 @@ id3v2
 idna
 ieee-floats
 illogical-pathnames
+illusion
 immutable-struct
 incongruent-methods
 inferior-shell
@@ -522,6 +531,7 @@ lev
 lhstats
 liblmdb
 lichat-protocol
+lichat-serverlib
 lichat-tcp-client
 lift
 lila
@@ -597,6 +607,7 @@ mito
 mito-auth
 mk-string-metrics
 mmap
+mnas-graph
 mnas-hash-table
 mnas-path
 mnas-string
@@ -778,6 +789,7 @@ xsubseq
 yacc
 yason
 yxorp
+zeromq
 zip
 zpb-ttf
 zpng
