@@ -93,6 +93,7 @@ cl-annot
 cl-anonfun
 cl-ansi-text
 cl-argparse
+cl-ascii-table
 classowary
 cl-async
 cl-async-await
@@ -206,6 +207,7 @@ cl-slug
 cl-slugify
 cl-smt-lib
 cl-smtp
+cl-spark
 cl-sparql
 cl-speedy-queue
 cl-spidev
@@ -350,6 +352,7 @@ doubly-linked-list
 do-urlencode
 drakma
 draw-cons-tree
+duckdb
 dufy
 duologue
 duologue-readline
@@ -438,6 +441,7 @@ fred
 freesound
 froute
 frpc
+frugal-uuid
 fset
 fsocket
 fsvd
