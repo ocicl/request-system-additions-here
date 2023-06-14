@@ -94,6 +94,9 @@ cl-anonfun
 cl-ansi-text
 cl-argparse
 classowary
+cl-async
+cl-async-await
+cl-async-future
 cl-autowrap
 clavier
 clawk
@@ -246,12 +249,14 @@ codata-recommended-values
 collectors
 colliflower
 colored
+colorize
 com.clearly-useful.generic-collection-interface
 com.clearly-useful.iterator-protocol
 com.clearly-useful.protocols
 com.inuoe.jzon
 command-line-arguments
 common-doc
+commondoc-markdown
 common-doc-plump
 common-html
 common-tones
@@ -381,6 +386,8 @@ external-program
 external-symbol-not-found
 fact-base
 factory-alien
+fare-csv
+fare-memoization
 fare-mop
 fare-quasiquote
 fare-quasiquote-extras
@@ -460,6 +467,7 @@ glsl-toolkit
 glu-tessellate
 glyphs
 gooptest
+graph
 gravatar
 graylex
 graylog
@@ -481,6 +489,7 @@ hl7-client
 hl7-parser
 horner
 house
+html-encode
 html-entities
 ht-simple-ajax
 http2
@@ -601,6 +610,7 @@ lisp-binary
 lisp-chat
 lisp-critic
 lisp-executable
+lisp-interface-library
 lisp-namespace
 lisp-pay
 lisp-preprocessor
@@ -689,6 +699,7 @@ more-conditions
 mp3-duration
 mpc
 mra-wavelet-plot
+mstrings
 mt19937
 mtif
 multilang-documentation
@@ -710,6 +721,7 @@ net.didierverna.asdf-flv
 net.didierverna.clon
 net-telent-date
 network-addresses
+nfiles
 nhooks
 nibbles
 nibbles-streams
@@ -735,6 +747,7 @@ optima.ppcre
 org.melusina.webmachine
 org.tfeb.conduit-packages
 origin
+osc
 osicat
 oxenfurt
 pack
@@ -791,6 +804,7 @@ pileup
 piping
 pithy-xml
 pk-serialize
+planks
 plot
 pludeck
 plump
@@ -1137,6 +1151,7 @@ verbose
 vertex
 vgplot
 vivid-colors
+vivid-diff
 vom
 vom-json
 vp-trees
@@ -1171,6 +1186,7 @@ xpath
 xsubseq
 yacc
 yaclml
+yah
 yason
 youtube
 yxorp
@@ -1178,6 +1194,7 @@ zaws
 zeromq
 zip
 ziz
+zlib
 zpb-ttf
 zpng
 zs3
