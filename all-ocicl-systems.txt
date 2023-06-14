@@ -118,10 +118,12 @@ cl-cron
 cl-csv
 cl-csv-clsql
 cl-csv-data-table
+cl-ctrnn
 cl-date-time-parser
 cl-dbi
 cl-dot
 cl-dsl
+cl-earley-parser
 cl-emb
 cl-environments
 cl-etcd
@@ -140,6 +142,7 @@ cl-gpio
 cl-grnm
 cl-hash-util
 cl-hooks
+cl-id3
 cl-interpol
 clip
 cl-isaac
