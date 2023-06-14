@@ -488,6 +488,7 @@ green-threads
 grid-formation
 group-by
 grovel-locally
+grph
 gtwiwtg
 gtype
 gzip-stream
@@ -1168,6 +1169,8 @@ validate-list
 vas-string-metrics
 veq
 verbose
+verrazano
+verrazano-runtime
 vertex
 vgplot
 vivid-colors
@@ -1200,6 +1203,7 @@ xarray
 xcat
 xhtmlgen
 x.let-star
+xlsx
 xml-emitter
 xml.location
 xml-mop
