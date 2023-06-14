@@ -163,6 +163,7 @@ cl-markless
 cl-markup
 cl-messagepack
 cl-minify-css
+cl-mixed
 cl-murmurhash
 cl-mysql
 cl-oauth
@@ -227,6 +228,7 @@ cl-tidy
 cl-tls
 cl-toml
 cl-tqdm
+clump
 cl-unac
 cl-unicode
 clunit2
@@ -361,6 +363,7 @@ dynamic-classes
 dynamic-collect
 dynamic-mixins
 easing
+easter-gauss
 easy-audio
 easy-macros
 easy-routes
@@ -540,6 +543,7 @@ illogical-pathnames
 illusion
 imago
 immutable-struct
+incf-cl
 incongruent-methods
 inferior-shell
 infix-dollar-reader
@@ -1031,6 +1035,7 @@ tailrec
 tap-unit-test
 targa
 tclcs-code
+teddy
 template
 temporal-functions
 temporary-file
@@ -1089,6 +1094,7 @@ trivial-features
 trivial-file-size
 trivial-garbage
 trivial-gray-streams
+trivial-hashtable-serialize
 trivial-http
 trivialib.bdd
 trivialib.type-unify
@@ -1179,6 +1185,7 @@ wild-package-inferred-system
 winhttp
 winlock
 with-cached-reader-conditionals
+with-contexts
 with-c-syntax
 with-user-abort
 woo
