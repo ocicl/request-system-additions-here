@@ -317,6 +317,7 @@ defpackage-plus
 def-properties
 defrec
 defrest
+defstar
 defvariant
 delorean
 delta-debug
@@ -473,6 +474,7 @@ graph
 gravatar
 graylex
 graylog
+green-threads
 grid-formation
 group-by
 grovel-locally
@@ -532,6 +534,7 @@ idna
 ieee-floats
 illogical-pathnames
 illusion
+imago
 immutable-struct
 incongruent-methods
 inferior-shell
@@ -616,11 +619,13 @@ lisp-interface-library
 lisp-namespace
 lisp-pay
 lisp-preprocessor
+lisp-stat
 lisp-unit
 lisp-unit2
 list-named-class
 listopia
 literate-lisp
+litterae
 local-package-aliases
 local-time
 local-time-duration
@@ -1173,6 +1178,7 @@ with-cached-reader-conditionals
 with-c-syntax
 with-user-abort
 woo
+wookie
 wordnet
 wu-decimal
 wu-sugar
@@ -1193,6 +1199,7 @@ yason
 youtube
 yxorp
 zaws
+zenekindarl
 zeromq
 zip
 ziz
