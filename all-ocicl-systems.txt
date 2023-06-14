@@ -331,6 +331,7 @@ depot
 descriptions
 destructuring-bind-star
 dexador
+dfio
 diff
 disposable
 dissect
@@ -338,6 +339,7 @@ distributions
 djula
 dlist
 dns-client
+docbrowser
 docparser
 documentation-utils
 documentation-utils-extensions
