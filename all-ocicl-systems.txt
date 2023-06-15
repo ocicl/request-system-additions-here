@@ -786,6 +786,7 @@ north
 nsort
 nsymbols
 null-package
+numcl
 numpy-file-format
 num-utils
 nyaml
