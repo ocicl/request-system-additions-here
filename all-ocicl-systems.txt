@@ -19,6 +19,7 @@ alexandria
 alexandria_plus
 amazon-ecs
 anaphora
+antik
 anypool
 apply-argv
 april
@@ -82,12 +83,14 @@ chronicity
 chunga
 ciao
 circular-streams
+cl21
 cl4store
 cl-aa
 cl-aa-misc
 clack
 clack-socket
 cl-all
+cl-ana
 cl-android
 cl-annot
 cl-anonfun
@@ -135,7 +138,9 @@ cl-form-types
 cl-fsnotify
 cl-gamepad
 cl-gd
+cl-glfw
 cl-glfw3
+cl-glfw-opengl-core
 cl-glu
 cl-glut
 cl-gpio
@@ -396,6 +401,8 @@ extensible-compound-types-cl
 extensible-optimizing-coerce
 external-program
 external-symbol-not-found
+f2cl
+f2cl-asdf
 fact-base
 factory-alien
 fare-csv
@@ -439,6 +446,7 @@ folio
 folio2
 font-discovery
 for
+foreign-array
 format-string-builder
 form-fiddle
 formlets
@@ -489,6 +497,7 @@ grid-formation
 group-by
 grovel-locally
 grph
+gsll
 gtwiwtg
 gtype
 gzip-stream
@@ -817,6 +826,7 @@ pettomato-deque
 pettomato-indexed-priority-queue
 phoe-toolbox
 phos
+physical-dimension
 physical-quantities
 picl
 pileup
@@ -935,6 +945,7 @@ sb-fastcgi
 sb-vector-io
 schannel
 scheduler
+science-data
 screamer
 scriba
 sealable-metaobjects
