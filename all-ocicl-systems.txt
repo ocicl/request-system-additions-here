@@ -49,6 +49,7 @@ assoc-utils
 astonish
 async-process
 atomics
+auxin
 aws-sdk
 aws-sign4
 babel
@@ -89,6 +90,7 @@ cl-aa
 cl-aa-misc
 clack
 clack-socket
+cl-actors
 cl-all
 cl-ana
 cl-android
@@ -157,6 +159,7 @@ cl-jsonl
 cl-json-pointer
 cl-jsx
 cl-keycloak
+cl-ktx
 cl-l10n
 cl-l10n-cldr
 cl-ledger
@@ -170,6 +173,7 @@ cl-m4
 cl-markless
 cl-markup
 cl-messagepack
+cl-mimeparse
 cl-minify-css
 cl-mixed
 clml
@@ -245,7 +249,9 @@ cl-spidev
 clsql
 clss
 cl-steamworks
+cl-stomp
 cl-store
+cl-svg
 cl-syntax
 cl-syntax-annot
 cl-syntax-anonfun
@@ -571,6 +577,7 @@ hunchentools
 hunchentoot
 hunchentoot-auth
 hunchentoot-cgi
+hunchentoot-errors
 hunchentoot-multi-acceptor
 hyperspec
 ia-hash-table
@@ -631,6 +638,7 @@ lake
 lambda-fiddle
 language-codes
 langutils
+lass
 lassie
 latex-table
 latter-day-paypal
@@ -953,6 +961,7 @@ restful
 restricted-functions
 rfc2388
 romreader
+routes
 rove
 rs-colors
 rs-json
@@ -1183,6 +1192,7 @@ ttt
 twfy
 type-i
 type-r
+typo
 uax-14
 uax-15
 uax-9
@@ -1241,6 +1251,7 @@ wu-decimal
 wu-sugar
 xarray
 xcat
+xhtmlambda
 xhtmlgen
 x.let-star
 xlsx
