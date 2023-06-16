@@ -408,6 +408,7 @@ easy-routes_plus_errors
 eazy-documentation
 eazy-gnuplot
 ec2
+ec2-price-finder
 eclector
 eclector-concrete-syntax-tree
 eco
