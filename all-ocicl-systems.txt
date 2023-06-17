@@ -781,6 +781,7 @@ named-read-macros
 named-readtables
 narrowed-types
 native-lazy-seq
+nbd
 nclasses
 ndebug
 net.didierverna.asdf-flv
@@ -960,6 +961,7 @@ remote-js
 repl-utilities
 resignal-bind
 restas
+restas.file-publisher
 restful
 restricted-functions
 rfc2388
@@ -1158,6 +1160,7 @@ trivialib.type-unify
 trivial-indent
 trivial-inspector-hook
 trivial-irc
+trivial-json-codec
 trivial-lazy
 trivial-ldap
 trivial-macroexpand-all
@@ -1165,13 +1168,16 @@ trivial-main-thread
 trivial-method-combinations
 trivial-mimes
 trivial-mmap
+trivial-monitored-thread
 trivial-msi
 trivial-nntp
+trivial-object-lock
 trivial-octet-streams
 trivial-open-browser
 trivial-package-local-nicknames
 trivial-package-locks
 trivial-package-manager
+trivial-pooled-database
 trivial-raw-io
 trivial-rfc-1123
 trivial-shell
@@ -1183,6 +1189,7 @@ trivial-timeout
 trivial-types
 trivial-update
 trivial-utf-8
+trivial-utilities
 trivial-with-current-source-form
 trivial-ws
 trivial-yenc
@@ -1221,6 +1228,7 @@ utm
 uuid
 validate-list
 vas-string-metrics
+vectors
 veq
 verbose
 verrazano
@@ -1229,6 +1237,7 @@ vertex
 vgplot
 vivid-colors
 vivid-diff
+vk
 vom
 vom-json
 vp-trees
