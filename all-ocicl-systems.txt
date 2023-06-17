@@ -640,6 +640,7 @@ lambda-fiddle
 language-codes
 langutils
 lass
+lass-flexbox
 lassie
 latex-table
 latter-day-paypal
@@ -958,6 +959,7 @@ regex
 remote-js
 repl-utilities
 resignal-bind
+restas
 restful
 restricted-functions
 rfc2388
@@ -1033,6 +1035,7 @@ smackjack
 smart-buffer
 snakes
 snooze
+softdrink
 south
 sparse-set
 spatial-trees
