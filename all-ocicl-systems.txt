@@ -3,6 +3,7 @@
 3bgl-shader
 3b-hdr
 3bmd
+3bz
 3d-matrices
 3d-quaternions
 3d-spaces
@@ -198,6 +199,7 @@ clml.svm
 clml.text
 clml.time-series
 clml.utility
+cl-modio
 cl-murmurhash
 cl-mysql
 cl-oauth
@@ -351,6 +353,7 @@ defclass-std
 defconfig
 deferred
 define-json-expander
+definer
 definitions
 defmemo
 defpackage-plus
@@ -545,6 +548,7 @@ hh-redblack
 hl7-client
 hl7-parser
 horner
+horse-html
 house
 html-encode
 html-entities
@@ -1274,6 +1278,7 @@ xml-mop
 xmls
 xpath
 xsubseq
+xuriella
 yacc
 yaclml
 yah
@@ -1284,6 +1289,7 @@ zaws
 zenekindarl
 zeromq
 zip
+zippy
 ziz
 zlib
 zpb-ttf
