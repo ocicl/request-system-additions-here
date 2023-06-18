@@ -125,6 +125,7 @@ cl-csv
 cl-csv-clsql
 cl-csv-data-table
 cl-ctrnn
+cl-custom-hash-table
 cl-date-time-parser
 cl-dbi
 cl-dot
@@ -503,6 +504,7 @@ gadgets
 garbage-pools
 generalized-reference
 generators
+generic-cl
 generic-comparability
 generic-sequences
 geneva
@@ -873,6 +875,7 @@ phos
 physical-dimension
 physical-quantities
 picl
+piggyback-parameters
 pileup
 piping
 pithy-xml
@@ -940,6 +943,10 @@ quadtree
 quantile-estimator
 quasiquote-2.0
 queues
+queues.priority-cqueue
+queues.priority-queue
+queues.simple-cqueue
+queues.simple-queue
 quickapp
 quicklisp-stats
 quick-patch
@@ -1246,6 +1253,7 @@ vom
 vom-json
 vp-trees
 wallstreetflets
+wasm-encoder
 water
 websocket-driver
 weft
