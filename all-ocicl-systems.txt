@@ -427,6 +427,7 @@ enchant
 envy
 epigraph
 equals
+ernestine
 esrap
 esrap-liquid
 event-emitter
@@ -833,6 +834,7 @@ org.tfeb.conduit-packages
 origin
 osc
 osicat
+ospm
 oxenfurt
 pack
 packet
