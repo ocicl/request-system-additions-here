@@ -65,6 +65,7 @@ bknr.datastore
 blackbird
 bordeaux-threads
 bt-semaphore
+calispel
 cambl
 cari3s
 caveman2
@@ -128,6 +129,7 @@ cl-ctrnn
 cl-custom-hash-table
 cl-date-time-parser
 cl-dbi
+cl-difflib
 cl-dot
 cl-dsl
 cl-earley-parser
@@ -147,10 +149,12 @@ cl-glfw3
 cl-glfw-opengl-core
 cl-glu
 cl-glut
+cl-gopher
 cl-gpio
 cl-grnm
 cl-hash-util
 cl-hooks
+cl-html-diff
 cl-id3
 cl-interpol
 clip
@@ -227,7 +231,9 @@ cl-postgres
 cl-ppcre
 cl-ppcre-unicode
 clpppssl
+cl-prevalence
 cl-project
+cl-qrencode
 cl-randist
 cl-rdfxml
 cl-readline
@@ -264,6 +270,7 @@ cl-syntax-interpol
 cl-syntax-markup
 cl-template
 cl-tidy
+cl-tld
 cl-tls
 cl-toml
 cl-tqdm
@@ -416,6 +423,7 @@ ec2-price-finder
 eclector
 eclector-concrete-syntax-tree
 eco
+enchant
 envy
 epigraph
 equals
@@ -801,6 +809,7 @@ nibbles
 nibbles-streams
 ningle
 njson
+nkeymaps
 north
 nsort
 nsymbols
