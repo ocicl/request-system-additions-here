@@ -547,6 +547,7 @@ hermetic
 herodotus
 hh-aws
 hh-redblack
+history-tree
 hl7-client
 hl7-parser
 horner
