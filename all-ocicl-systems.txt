@@ -67,6 +67,7 @@ blackbird
 bordeaux-threads
 bt-semaphore
 calispel
+calm
 cambl
 cari3s
 caveman2
@@ -168,6 +169,7 @@ cl-bloom
 cl-bmp
 cl-bnf
 cl-ca
+cl-cairo2
 cl-change-case
 cl-clblas
 cl-colors
@@ -195,14 +197,18 @@ cl-fast-ecs
 cl-ffc
 cl-forms
 cl-form-types
+cl-freetype2
 cl-fsnotify
 cl-gamepad
 cl-gd
+cl-git
+cl-github-v3
 cl-glfw
 cl-glfw3
 cl-glfw-opengl-core
 cl-glu
 cl-glut
+cl-gobject-introspection
 cl-gopher
 cl-gpio
 cl-grnm
@@ -1073,6 +1079,9 @@ scheduler
 science-data
 screamer
 scriba
+sdl2
+sdl2-image
+sdl2-mixer
 sealable-metaobjects
 secret-values
 secure-random
@@ -1211,6 +1220,7 @@ trial
 trivia
 trivia.balland2006
 trivia.cffi
+trivia.fset
 trivial-arguments
 trivial-backtrace
 trivial-battery
@@ -1229,6 +1239,8 @@ trivial-download
 trivial-dump-core
 trivial-ed-functions
 trivial-escapes
+trivia.level0
+trivia.level1
 trivial-exe
 trivial-extensible-sequences
 trivial-features
