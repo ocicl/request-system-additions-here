@@ -172,6 +172,7 @@ cl-ca
 cl-cairo2
 cl-change-case
 cl-clblas
+cl-collider
 cl-colors
 cl-colors2
 cl-cont
@@ -450,6 +451,7 @@ dissect
 distributions
 djula
 dlist
+dml
 dns-client
 docbrowser
 docparser
@@ -591,6 +593,7 @@ glass
 glisph
 glkit
 global-vars
+glop
 glsl-packing
 glsl-toolkit
 glu-tessellate
@@ -680,6 +683,7 @@ inlined-generic-function
 inner-conditional
 in-nomine
 inotify
+input-event-codes
 inquisitor
 instance-tracking
 intel-hex
@@ -755,6 +759,7 @@ lisp-chat
 lisp-critic
 lisp-executable
 lisp-interface-library
+lisp-invocation
 lisp-namespace
 lisp-pay
 lisp-preprocessor
@@ -825,6 +830,7 @@ minilem
 misc-extensions
 mito
 mito-auth
+mixalot
 mk-string-metrics
 mmap
 mnas-graph
@@ -1081,6 +1087,7 @@ screamer
 scriba
 sdl2
 sdl2-image
+sdl2kit
 sdl2-mixer
 sealable-metaobjects
 secret-values
@@ -1226,6 +1233,7 @@ trivial-backtrace
 trivial-battery
 trivial-benchmark
 trivial-bit-streams
+trivial-build
 trivial-channels
 trivial-clipboard
 trivial-cltl2
