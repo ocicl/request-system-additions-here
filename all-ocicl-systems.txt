@@ -59,6 +59,7 @@ base64
 big-string
 binary-io
 binary-structures
+binascii
 binding-arrows
 binfix
 binomial-heap
@@ -1081,6 +1082,7 @@ s-base64
 sb-cga
 sb-fastcgi
 sb-vector-io
+sc-extensions
 schannel
 scheduler
 science-data
