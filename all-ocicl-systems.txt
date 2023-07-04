@@ -471,6 +471,7 @@ dynamic-array
 dynamic-classes
 dynamic-collect
 dynamic-mixins
+eager-future2
 easing
 easter-gauss
 easy-audio
@@ -1292,6 +1293,7 @@ trivial-types
 trivial-update
 trivial-utf-8
 trivial-utilities
+trivial-variable-bindings
 trivial-with-current-source-form
 trivial-ws
 trivial-yenc
