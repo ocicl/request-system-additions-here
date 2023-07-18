@@ -16,6 +16,7 @@ acclimation
 action-list
 adhoc
 advanced-readtable
+agnostic-lizard
 agutil
 alexandria
 alexandria_plus
@@ -185,6 +186,7 @@ cl-csv-clsql
 cl-csv-data-table
 cl-ctrnn
 cl-custom-hash-table
+cl-data-structures
 cl-date-time-parser
 cl-dbi
 cl-difflib
@@ -218,6 +220,7 @@ cl-hash-util
 cl-hooks
 cl-html-diff
 cl-id3
+cl-indentify
 cl-interpol
 clip
 cl-isaac
@@ -226,6 +229,7 @@ cl-json
 cl-jsonl
 cl-json-pointer
 cl-jsx
+cl-jwk
 cl-keycloak
 cl-ktx
 cl-l10n
@@ -341,6 +345,7 @@ cl-unac
 cl-unicode
 clunit2
 clustered-intset
+clusters
 cl-utilities
 cl-vectors
 cl-wavefront
@@ -371,6 +376,7 @@ common-doc
 commondoc-markdown
 common-doc-plump
 common-html
+common-lisp-jupyter
 common-tones
 com-on
 compiler-macro-notes
@@ -402,6 +408,7 @@ curry-compose-reader-macros
 cxml
 cxml-rpc
 cxml-stp
+cytoscape-clj
 daemon
 damn-fast-priority-queue
 database-migrations
@@ -484,6 +491,7 @@ eazy-documentation
 eazy-gnuplot
 ec2
 ec2-price-finder
+eclecticse.iso-8601-date
 eclector
 eclector-concrete-syntax-tree
 eco
@@ -491,6 +499,7 @@ enchant
 envy
 epigraph
 equals
+erjoalgo-webutil
 ernestine
 esrap
 esrap-liquid
@@ -614,6 +623,7 @@ gsll
 gtwiwtg
 gtype
 gzip-stream
+harmony
 hash-set
 hash-table-ext
 hashtrie
@@ -714,6 +724,7 @@ js-parser
 jwacs
 kdtree-jk
 kebab
+kekule-clj
 kenzo
 kons-9
 laap
@@ -751,6 +762,7 @@ lichat-ws-server
 lift
 lila
 lime
+linear-algebra
 linear-programming
 linedit
 lineva
@@ -833,6 +845,7 @@ misc-extensions
 mito
 mito-auth
 mixalot
+mk-defsystem
 mk-string-metrics
 mmap
 mnas-graph
@@ -895,6 +908,7 @@ nyaml
 nytpu.lisp-utils
 ocicl-sandbox
 oe-encode
+one-more-re-nightmare
 openapi-generator
 openid-key
 open-location-code
@@ -1041,6 +1055,7 @@ random-access-lists
 random-sample
 random-state
 rate-monotonic
+ratify
 ratmath
 re
 read-as-string
@@ -1061,6 +1076,7 @@ restas.file-publisher
 restful
 restricted-functions
 rfc2388
+roan
 romreader
 routes
 rove
@@ -1161,6 +1177,7 @@ static-vectors
 statistics
 statusor
 stdutils
+stealth-mixin
 stem
 stepster
 stl
@@ -1329,12 +1346,16 @@ utilities.binary-dump
 utilities.print-items
 utilities.print-tree
 utility
+utility-arguments
 utils-kt
 utm
 uuid
 validate-list
 vas-string-metrics
 vectors
+vellum
+vellum-csv
+vellum-postmodern
 veq
 verbose
 verrazano
