@@ -66,6 +66,7 @@ binfix
 binomial-heap
 bknr.datastore
 blackbird
+bobbin
 bordeaux-threads
 bt-semaphore
 calispel
@@ -221,6 +222,7 @@ cl-hooks
 cl-html-diff
 cl-id3
 cl-indentify
+clingon
 cl-interpol
 clip
 cl-isaac
@@ -290,6 +292,8 @@ cl-package-locks
 cl-pass
 cl-paths
 cl-paths-ttf
+cl-pdf
+cl-pdf-parser
 cl-plus-c
 cl-plus-ssl
 cl_plus_ssl
@@ -305,6 +309,7 @@ cl-rdfxml
 cl-readline
 cl-reexport
 cl-schedule
+cl-scribble-subset-parser
 cl-semver
 cl-ses4
 cl-sha1
@@ -341,6 +346,7 @@ cl-tld
 cl-tls
 cl-toml
 cl-tqdm
+cl-typesetting
 clump
 cl-unac
 cl-unicode
@@ -667,6 +673,7 @@ hu.dwim.util
 hu.dwim.util_plus_iolib
 hu.dwim.walker
 huffman
+humbler
 hunchensocket
 hunchentools
 hunchentoot
@@ -926,6 +933,8 @@ org.melusina.webmachine
 org.tfeb.conduit-packages
 origin
 osc
+osh-autodoc-base
+osh-autodoc-pdf
 osicat
 ospm
 oxenfurt
