@@ -326,6 +326,7 @@ clss
 cl-steamworks
 cl-stomp
 cl-store
+cl-strings
 cl-svg
 cl-syntax
 cl-syntax-annot
@@ -675,6 +676,7 @@ hunchentoot-errors
 hunchentoot-multi-acceptor
 hyperspec
 ia-hash-table
+iclendar
 id3v2
 identifier-pool
 idna
@@ -825,6 +827,7 @@ mel-base
 memory-regions
 messagebox
 message-oo
+meta
 metabang-bind
 metalock
 metap
@@ -898,6 +901,9 @@ ningle
 njson
 nkeymaps
 north
+north-core
+north-dexador
+north-drakma
 nsort
 nsymbols
 null-package
@@ -1104,6 +1110,7 @@ scheduler
 science-data
 screamer
 scriba
+scribble
 sdl2
 sdl2-image
 sdl2kit
@@ -1189,6 +1196,7 @@ stripe
 stripe-against-the-modern-world
 structure-ext
 structy-defclass
+studio-client
 stumpwm
 stumpwm-dynamic-float
 stumpwm-sndioctl
