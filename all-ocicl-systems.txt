@@ -196,6 +196,7 @@ cl-dsl
 cl-earley-parser
 cl-emb
 cl-environments
+clesh
 cl-etcd
 cl-fad
 cl-fast-ecs
@@ -288,10 +289,12 @@ cl-org-mode
 closer-mop
 closure-common
 closure-html
+cl-pack
 cl-package-locks
 cl-pass
 cl-paths
 cl-paths-ttf
+cl-pattern
 cl-pdf
 cl-pdf-parser
 cl-plus-c
@@ -793,6 +796,7 @@ list-named-class
 listopia
 literate-lisp
 litterae
+lla
 local-package-aliases
 local-time
 local-time-duration
@@ -939,6 +943,7 @@ osicat
 ospm
 oxenfurt
 pack
+package-renaming
 packet
 packet-crafting
 paiprolog
@@ -1004,6 +1009,7 @@ plump-lexer
 plump-parser
 plump-sexp
 plump-tex
+png
 png-read
 poler
 policy-cond
