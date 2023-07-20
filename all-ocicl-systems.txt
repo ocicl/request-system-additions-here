@@ -747,6 +747,8 @@ lack-response
 lack-util
 lake
 lambda-fiddle
+lambda-reader
+lambda-reader-8bit
 language-codes
 langutils
 lass
@@ -925,6 +927,7 @@ nyaml
 nytpu.lisp-utils
 ocicl-sandbox
 oe-encode
+olc
 one-more-re-nightmare
 openapi-generator
 openid-key
@@ -1261,6 +1264,7 @@ tooter
 towers
 trace-db
 trainable-object
+translate
 translate-client
 transparent-wrap
 treedb
