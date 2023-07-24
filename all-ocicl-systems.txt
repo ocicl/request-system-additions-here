@@ -295,6 +295,7 @@ cl-pass
 cl-paths
 cl-paths-ttf
 cl-pattern
+cl-pcg
 cl-pdf
 cl-pdf-parser
 cl-plus-c
@@ -350,6 +351,7 @@ cl-tls
 cl-toml
 cl-tqdm
 cl-typesetting
+cluffer
 clump
 cl-unac
 cl-unicode
@@ -380,6 +382,7 @@ colorize
 com.clearly-useful.generic-collection-interface
 com.clearly-useful.iterator-protocol
 com.clearly-useful.protocols
+com.google.base
 com.inuoe.jzon
 command-line-arguments
 common-doc
@@ -879,6 +882,7 @@ modularize-interfaces
 moira
 montezuma
 moptilities
+mop-utils
 more-conditions
 mp3-duration
 mpc
@@ -906,6 +910,7 @@ net.didierverna.asdf-flv
 net.didierverna.clon
 net-telent-date
 network-addresses
+new-op
 nfiles
 nhooks
 nibbles
@@ -925,6 +930,7 @@ numpy-file-format
 num-utils
 nyaml
 nytpu.lisp-utils
+nyxt
 ocicl-sandbox
 oe-encode
 olc
@@ -992,6 +998,7 @@ petit.string-utils
 petri
 pettomato-deque
 pettomato-indexed-priority-queue
+pg
 phoe-toolbox
 phos
 physical-dimension
@@ -1044,6 +1051,7 @@ prometheus.exposers.hunchentoot
 prometheus.formats.text
 prometheus.pushgateway
 promise
+prompter
 prompt-for
 protest
 prove
@@ -1052,8 +1060,10 @@ pseudonyms
 punycode
 puri
 purl
+pvars
 py4cl
 py4cl2-cffi
+py-configparser
 pythonic-string-reader
 pzmq
 qbase64
@@ -1167,6 +1177,7 @@ simple-date
 simple-date-time
 simple-inferiors
 simple-rgb
+simple-routes
 simplet
 simple-tasks
 simplified-types
@@ -1376,6 +1387,7 @@ utility
 utility-arguments
 utils-kt
 utm
+utm-ups
 uuid
 validate-list
 vas-string-metrics
