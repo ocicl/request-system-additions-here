@@ -52,6 +52,7 @@ assoc-utils
 astonish
 async-process
 atomics
+automaton
 auxin
 aws-sdk
 aws-sign4
@@ -932,6 +933,7 @@ nyaml
 nytpu.lisp-utils
 nyxt
 ocicl-sandbox
+oclcl
 oe-encode
 olc
 one-more-re-nightmare
@@ -1054,6 +1056,7 @@ promise
 prompter
 prompt-for
 protest
+protobuf
 prove
 prove-asdf
 pseudonyms
@@ -1085,6 +1088,7 @@ quicklisp-stats
 quick-patch
 quicksearch
 quri
+random
 random-access-lists
 random-sample
 random-state
@@ -1116,6 +1120,7 @@ routes
 rove
 rs-colors
 rs-json
+rt
 rt-events
 rucksack
 rutils
@@ -1146,6 +1151,7 @@ sdl2-mixer
 sealable-metaobjects
 secret-values
 secure-random
+seedable-rng
 select
 semantic-spinneret
 sento
@@ -1181,6 +1187,7 @@ simple-routes
 simplet
 simple-tasks
 simplified-types
+sip-hash
 slite
 slot-extra-options
 slot-map
@@ -1231,6 +1238,7 @@ stumpwm-dynamic-float
 stumpwm-sndioctl
 s-utils
 swank
+swank-client
 swank.live
 swank-protocol
 swap-bytes
