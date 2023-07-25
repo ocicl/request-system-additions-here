@@ -23,6 +23,7 @@ alexandria_plus
 amazon-ecs
 anaphora
 antik
+antik-base
 anypool
 apply-argv
 april
@@ -65,6 +66,7 @@ binascii
 binding-arrows
 binfix
 binomial-heap
+bit-smasher
 bknr.datastore
 blackbird
 bobbin
@@ -168,6 +170,7 @@ cl-autowrap
 clavier
 clawk
 cl-base32
+cl-base58
 cl-base64
 cl-bloom
 cl-bmp
@@ -487,6 +490,7 @@ drakma
 draw-cons-tree
 duckdb
 dufy
+dungen
 duologue
 duologue-readline
 dynamic-array
@@ -515,6 +519,7 @@ epigraph
 equals
 erjoalgo-webutil
 ernestine
+erudite
 esrap
 esrap-liquid
 event-emitter
@@ -602,7 +607,17 @@ garbage-pools
 generalized-reference
 generators
 generic-cl
+generic-cl.arithmetic
+generic-cl.collector
+generic-cl.comparison
 generic-cl.container
+generic-cl.iterator
+generic-cl.lazy-seq
+generic-cl.map
+generic-cl.math
+generic-cl.sequence
+generic-cl.set
+generic-cl.util
 generic-comparability
 generic-sequences
 geneva
@@ -1092,6 +1107,7 @@ random
 random-access-lists
 random-sample
 random-state
+random-uuid
 rate-monotonic
 ratify
 ratmath
@@ -1239,6 +1255,7 @@ stumpwm-sndioctl
 s-utils
 swank
 swank-client
+swank-crew
 swank.live
 swank-protocol
 swap-bytes
