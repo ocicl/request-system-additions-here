@@ -526,6 +526,7 @@ cl-tld
 cl-tls
 cl-toml
 cl-tqdm
+cl-transit
 cl-transmission
 cl-trie
 cl-tulip-graph
@@ -595,6 +596,7 @@ concrete-syntax-tree
 concrete-syntax-tree-base
 concrete-syntax-tree-lambda-list
 conf
+configuration.options
 conium
 consix
 constantfold
@@ -608,6 +610,7 @@ croatoan
 crypto-shortcuts
 cserial-port
 css-lite
+css-selectors
 csv-parser
 csv-validator
 ctype
@@ -701,6 +704,7 @@ easy-routes_plus_djula
 easy-routes_plus_errors
 eazy-documentation
 eazy-gnuplot
+eazy-process
 ec2
 ec2-price-finder
 eclecticse.iso-8601-date
@@ -845,6 +849,7 @@ grph
 gsll
 gtwiwtg
 gtype
+gute
 gzip-stream
 harmony
 hash-set
@@ -897,6 +902,7 @@ hunchentoot-auth
 hunchentoot-cgi
 hunchentoot-errors
 hunchentoot-multi-acceptor
+hunchentoot-single-signon
 hyperspec
 ia-hash-table
 iclendar
@@ -1108,6 +1114,7 @@ multival-plist
 music-spelling
 mutility
 mw-equiv
+mystic
 myway
 nail
 named-closure
@@ -1148,6 +1155,7 @@ oclcl
 oe-encode
 olc
 one-more-re-nightmare
+oook
 openapi-generator
 openid-key
 open-location-code
@@ -1271,6 +1279,7 @@ protobuf
 prove
 prove-asdf
 pseudonyms
+psychiq
 punycode
 puri
 purl
@@ -1298,6 +1307,7 @@ quickapp
 quicklisp-stats
 quick-patch
 quicksearch
+quickutil
 quri
 random
 random-access-lists
@@ -1467,6 +1477,7 @@ system-locale
 tagger
 taglib
 tailrec
+talcl
 tap-unit-test
 targa
 tclcs-code
@@ -1479,6 +1490,7 @@ terminfo
 terrable
 testbild
 testiere
+test-utils
 texp
 textery
 the-cost-of-nothing
@@ -1563,6 +1575,7 @@ trivial-package-manager
 trivial-pooled-database
 trivial-raw-io
 trivial-rfc-1123
+trivial-sanitize
 trivial-shell
 trivial-signal
 trivial-sockets
@@ -1596,6 +1609,7 @@ ucons
 uffi
 ugly-tiny-infix-macro
 unboxables
+uncursed
 unit-test
 universal-config
 unix-options
