@@ -423,6 +423,7 @@ cue-parser
 curly
 curry-compose-reader-macros
 cxml
+cxml-rng
 cxml-rpc
 cxml-stp
 cytoscape-clj
@@ -800,6 +801,7 @@ linear-programming
 linedit
 lineva
 linewise-template
+linux-packaging
 lisa
 lisp-binary
 lisp-chat
@@ -875,6 +877,7 @@ mgl-pax.asdf
 micmac
 millet
 minheap
+mini-cas
 minilem
 misc-extensions
 mito
@@ -1321,6 +1324,7 @@ trivial-channels
 trivial-clipboard
 trivial-cltl2
 trivial-compress
+trivial-continuation
 trivial-coverage
 trivial-custom-debugger
 trivial-debug-console
@@ -1348,6 +1352,7 @@ trivial-irc
 trivial-json-codec
 trivial-lazy
 trivial-ldap
+trivial-left-pad
 trivial-macroexpand-all
 trivial-main-thread
 trivial-method-combinations
