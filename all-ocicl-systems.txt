@@ -111,6 +111,7 @@ cffi-libffi
 cffi-ops
 cffi-toolchain
 cffi-uffi-compat
+chameleon
 chipz
 chirp
 chlorophyll
