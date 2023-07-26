@@ -23,6 +23,7 @@ alexandria_plus
 also-alsa
 amazon-ecs
 anaphora
+ansi-escape
 antik
 antik-base
 anypool
@@ -608,6 +609,7 @@ core-reader
 cover
 cqlcl
 croatoan
+croatoan-ncurses
 crypto-shortcuts
 cserial-port
 css-lite
@@ -1204,6 +1206,7 @@ parser-combinators-cl-ppcre
 parser.common-rules
 parser.common-rules.operators
 parser.ini
+parsnip
 pathnames
 pathname-utils
 path-parse
@@ -1313,6 +1316,7 @@ quickproject
 quicksearch
 quickutil
 quri
+quux-time
 random
 random-access-lists
 random-sample
