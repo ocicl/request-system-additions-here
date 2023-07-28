@@ -686,6 +686,7 @@ copy-directory
 core-reader
 cover
 cqlcl
+crane
 croatoan
 croatoan-ncurses
 crypto-shortcuts
@@ -758,6 +759,7 @@ dml
 dns-client
 docbrowser
 docparser
+docs-builder
 documentation-utils
 documentation-utils-extensions
 donuts
@@ -792,6 +794,7 @@ eclecticse.iso-8601-date
 eclector
 eclector-concrete-syntax-tree
 eco
+elb-log
 enchant
 envy
 epigraph
@@ -1012,6 +1015,7 @@ inotify
 input-event-codes
 inquisitor
 instance-tracking
+integral
 intel-hex
 intercom
 interface
@@ -1023,6 +1027,7 @@ iolib.conf
 ironclad
 ironclad-text
 iterate
+jingoh
 jonathan
 jose
 journal
@@ -1031,6 +1036,7 @@ jpl-util
 jp-numeral
 json-lib
 json-mop
+jsonrpc
 json-streams
 jsown
 jsown-utils
@@ -1099,6 +1105,7 @@ lisp-stat
 lisp-unit
 lisp-unit2
 list-named-class
+listoflist
 listopia
 literate-lisp
 litterae
@@ -1387,6 +1394,7 @@ quad-tree
 quadtree
 quantile-estimator
 quasiquote-2.0
+query-repl
 queues
 queues.priority-cqueue
 queues.priority-queue
