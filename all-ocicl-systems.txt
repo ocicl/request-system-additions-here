@@ -11,6 +11,7 @@
 3d-transforms
 3d-vectors
 40ants-asdf-system
+40ants-doc
 access
 acclimation
 action-list
@@ -117,6 +118,7 @@ cffi-libffi
 cffi-ops
 cffi-toolchain
 cffi-uffi-compat
+chain
 chameleon
 changed-stream
 chanl
@@ -376,6 +378,7 @@ cl-isaac
 clite
 cl-iterative
 clj
+clj-con
 cl-jpeg
 cl-json
 cl-json-helper
@@ -1073,6 +1076,7 @@ lichat-tcp-client
 lichat-tcp-server
 lichat-ws-server
 lift
+lil
 lila
 lime
 linear-algebra
@@ -1121,6 +1125,7 @@ macro-html
 madeira-port
 magic-ed
 maiden
+maidenhead
 mailbox
 mailgun
 make-hash
@@ -1147,6 +1152,7 @@ metap
 meta-sexp
 metatilities
 metatilities-base
+metering
 method-combination-utilities
 method-hooks
 mexpr
@@ -1332,6 +1338,7 @@ pooler
 portable-condition-system
 portable-threads
 portal
+posix-shm
 postmodern
 postmodernity
 postmodern-localtime
@@ -1420,11 +1427,13 @@ restas
 restas.file-publisher
 restful
 restricted-functions
+rfc2109
 rfc2388
 roan
 romreader
 routes
 rove
+rpm
 rs-colors
 rs-json
 rt
@@ -1496,6 +1505,7 @@ simple-routes
 simplet
 simple-tasks
 simplified-types
+single-threaded-ccl
 sip-hash
 slite
 slot-extra-options
@@ -1507,6 +1517,7 @@ smart-buffer
 snakes
 snooze
 softdrink
+solid-engine
 south
 sparse-set
 spatial-trees
