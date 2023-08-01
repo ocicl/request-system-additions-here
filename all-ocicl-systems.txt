@@ -398,6 +398,8 @@ cl-las
 cl-ledger
 cl-lex
 cl-lexer
+cl-liballegro
+cl-liballegro-nuklear
 cl-libsvm-format
 cl-libuv
 cl-libuv-config
@@ -1109,6 +1111,7 @@ listoflist
 listopia
 literate-lisp
 litterae
+livesupport
 lla
 local-package-aliases
 local-time
@@ -1377,6 +1380,7 @@ prove-asdf
 pseudonyms
 psychiq
 punycode
+purgatory
 puri
 purl
 pvars
@@ -1407,6 +1411,7 @@ quickproject
 quicksearch
 quickutil
 quri
+quux-hunchentoot
 quux-time
 random
 random-access-lists
@@ -1429,6 +1434,7 @@ red-black-tree
 redirect-stream
 regex
 remote-js
+replic
 repl-utilities
 resignal-bind
 restas
@@ -1472,6 +1478,7 @@ sdl2
 sdl2-image
 sdl2kit
 sdl2-mixer
+sdl2-ttf
 sealable-metaobjects
 secret-values
 secure-random
@@ -1500,6 +1507,7 @@ shop3
 should-test
 s-http-client
 s-http-server
+shuffletron
 si-kanren
 simple-actors
 simple-config
@@ -1508,6 +1516,7 @@ simple-date
 simple-date-time
 simple-inferiors
 simple-neural-network
+simple-parallel-tasks
 simple-rgb
 simple-routes
 simplet
@@ -1688,6 +1697,7 @@ trivial-sockets
 trivial-tco
 trivial-thumbnail
 trivial-timeout
+trivial-timer
 trivial-types
 trivial-update
 trivial-utf-8
@@ -1712,6 +1722,8 @@ uax-15
 uax-9
 ubiquitous
 ucons
+ucw
+ucw-core
 uffi
 ugly-tiny-infix-macro
 unboxables
@@ -1736,6 +1748,7 @@ validate-list
 vas-string-metrics
 vectors
 vellum
+vellum-binary
 vellum-csv
 vellum-postmodern
 veq
@@ -1770,6 +1783,7 @@ with-user-abort
 woo
 wookie
 wordnet
+workout-timer
 wu-decimal
 wu-sugar
 xarray
