@@ -523,6 +523,7 @@ cl-qrencode
 cl-quickcheck
 cl-randist
 cl-random-forest
+cl-raylib
 cl-rdfxml
 cl-readline
 cl-redis
