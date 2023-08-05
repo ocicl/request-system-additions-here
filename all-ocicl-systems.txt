@@ -12,10 +12,12 @@
 3d-vectors
 40ants-asdf-system
 40ants-doc
+abstract-arrays
 access
 acclimation
 action-list
 adhoc
+adp
 advanced-readtable
 agnostic-lizard
 agutil
@@ -23,6 +25,7 @@ alexandria
 alexandria_plus
 also-alsa
 amazon-ecs
+amb
 anaphora
 ansi-escape
 antik
@@ -63,8 +66,10 @@ audio-tag
 authenticated-encryption
 autoexport
 automaton
+auto-restart
 auxin
 avatar-api
+avl-tree
 aws-foundation
 aws-sdk
 aws-sign4
@@ -75,6 +80,7 @@ basic-binary-ipc
 bdef
 big-string
 binary-io
+binary-search-tree
 binary-structures
 binary-types
 binascii
@@ -89,6 +95,7 @@ bit-smasher
 bknr.datastore
 bk-tree
 blackbird
+black-tie
 bnf
 bobbin
 bordeaux-threads
@@ -102,6 +109,7 @@ cacle
 calispel
 calm
 cambl
+cardiogram
 cari3s
 carrier
 caveman2
@@ -110,11 +118,13 @@ caveman2-widgets
 ccl-compat
 ccldoc
 ceigen-lite
+cells
 cephes
 cerberus
 cffi
 cffi-grovel
 cffi-libffi
+cffi-object
 cffi-ops
 cffi-toolchain
 cffi-uffi-compat
@@ -148,6 +158,7 @@ clack-socket
 clack-static-asset-middleware
 cl-acronyms
 cl-actors
+cl-advice
 cl-algebraic-data-type
 cl-all
 cl-ana
@@ -242,11 +253,13 @@ cl-beanstalk
 cl-bip39
 cl-bloggy
 cl-bloom
+cl-bloom-filter
 cl-bmp
 cl-bnf
 cl-bootstrap
 cl-bplustree
 cl-bson
+cl-bus
 cl-ca
 cl-cache-tables
 cl-cairo2
@@ -256,7 +269,9 @@ cl-change-case
 cl-charms
 cl-cheshire-cat
 cl-clblas
+cl-cli
 cl-cognito
+cl-coinpayments
 cl-collider
 cl-colors
 cl-colors2
@@ -285,6 +300,8 @@ cl-diceware
 cl-difflib
 cl-diskspace
 cl-disque
+cl-djula-svg
+cl-djula-tailwind
 cl-dot
 cl-dotenv
 cl-drawille
@@ -308,6 +325,7 @@ cl-ewkb
 cl-fad
 cl-fast-ecs
 cl-ffc
+cl-fix
 cl-fixtures
 cl-flac
 cl-flowd
@@ -331,6 +349,7 @@ cl-gendoc
 cl-generator
 cl-geometry
 cl-getopt
+cl-getx
 cl-gimei
 cl-gists
 cl-git
@@ -347,6 +366,7 @@ cl-gopher
 cl-gpio
 clgplot
 cl-graph
+cl-grip
 cl-grnm
 cl-growl
 cl-gss
@@ -364,11 +384,13 @@ cl-httpsqs
 cl-hue
 clickr
 cl-id3
+cl-incognia
 cl-indentify
 clinenoise
 cl-inflector
 cl-influxdb
 clingon
+cl-ini
 cl-intbytes
 cl-interpol
 cl-interval
@@ -380,6 +402,7 @@ cl-iterative
 clj
 clj-con
 cl-jpeg
+clj-re
 cl-json
 cl-json-helper
 cl-jsonl
@@ -390,6 +413,7 @@ cl-junit-xml
 cl-jwk
 cl-keycloak
 cl-kraken
+cl-ksuid
 cl-ktx
 cl-l10n
 cl-l10n-cldr
@@ -418,6 +442,7 @@ cl-markup
 cl-match
 cl-mathstats
 cl-maxminddb
+cl-mdb
 cl-mechanize
 cl-mediawiki
 cl-memcached
@@ -469,15 +494,18 @@ cl-oclapi
 clods-export
 clog
 clog-ace
+clog-collection
 clog-plotly
 clog-terminal
 cl-oju
+cl-olefs
 cl-one-time-passwords
 cl-online-learning
 cl-opencl
 cl-opengl
 cl-opensearch-query-builder
 cl-opsresearch
+cl-opus
 cl-org-mode
 clos-diff
 closer-mop
@@ -596,6 +624,7 @@ cl-syslog
 cl-table
 cl-tasukete
 cltcl
+cl-telebot
 cl-telegram-bot
 cl-template
 cl-textmagic
@@ -797,6 +826,7 @@ eclecticse.iso-8601-date
 eclector
 eclector-concrete-syntax-tree
 eco
+edit-distance
 elb-log
 enchant
 envy
@@ -842,6 +872,7 @@ ffa
 fiasco
 file-attributes
 file-local-variable
+file-lock
 file-notify
 file-select
 filesystem-utils
@@ -1210,6 +1241,7 @@ multiposter
 multival-plist
 music-spelling
 mutility
+mutils
 mw-equiv
 mystic
 myway
@@ -1260,6 +1292,7 @@ ops5
 opticl-core
 optima
 optima.ppcre
+org.melusina.rashell
 org.melusina.webmachine
 org.tfeb.conduit-packages
 origin
@@ -1550,6 +1583,8 @@ srfi-1
 srfi-23
 srfi-6
 srfi-98
+sse-client
+sse-server
 s-sql
 s-sysdeps
 staple
@@ -1559,6 +1594,7 @@ statistics
 statusor
 stdutils
 stealth-mixin
+stefil
 stem
 stepster
 stl
@@ -1731,6 +1767,7 @@ unboxables
 uncursed
 unit-test
 universal-config
+universal-tween-engine
 unix-options
 unix-opts
 url-rewrite
@@ -1777,6 +1814,7 @@ whofields
 wild-package-inferred-system
 winhttp
 winlock
+with-branching
 with-cached-reader-conditionals
 with-contexts
 with-c-syntax
