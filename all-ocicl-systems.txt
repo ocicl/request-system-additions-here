@@ -12,17 +12,21 @@
 3d-vectors
 40ants-asdf-system
 40ants-doc
+able
 abstract-arrays
 access
 acclimation
+a-cl-logger
 action-list
 adhoc
 adp
 advanced-readtable
 agnostic-lizard
 agutil
+ahungry-fleece
 alexandria
 alexandria_plus
+algebraic-data-library
 also-alsa
 amazon-ecs
 amb
@@ -61,6 +65,7 @@ asn1
 assoc-utils
 astonish
 async-process
+atdoc
 atomics
 audio-tag
 authenticated-encryption
@@ -117,6 +122,7 @@ carrier
 caveman2
 caveman2-db
 caveman2-widgets
+caveman2-widgets-bootstrap
 ccl-compat
 ccldoc
 ceigen-lite
@@ -268,6 +274,7 @@ cl-cache-tables
 cl-cairo2
 cl-case-control
 cl-catmull-rom-spline
+cl-cffi-gtk
 cl-change-case
 cl-charms
 cl-cheshire-cat
@@ -294,6 +301,7 @@ cl-csv
 cl-csv-clsql
 cl-csv-data-table
 cl-ctrnn
+cl-cuda
 cl-custom-hash-table
 cl-darksky
 cl-data-structures
@@ -342,6 +350,7 @@ cl-form-types
 cl-freetype2
 cl-fsnotify
 clfswm
+cl-fuse
 cl-fuzz
 cl-fxml
 cl-gamepad
@@ -363,6 +372,7 @@ cl-github-v3
 cl-glfw
 cl-glfw3
 cl-glfw-opengl-core
+cl-glib
 cl-gltf
 cl-glu
 cl-glut
@@ -397,6 +407,7 @@ cl-inflector
 cl-influxdb
 clingon
 cl-ini
+cl-inotify
 cl-intbytes
 cl-interpol
 cl-interval
@@ -406,6 +417,7 @@ cl-irregsexp
 cl-isaac
 clite
 cl-iterative
+cl-itertools
 clj
 clj-con
 cl-jpeg
@@ -451,6 +463,7 @@ cl-markup
 cl-match
 cl-mathstats
 cl-maxminddb
+cl-maxsat
 cl-mdb
 cl-mechanize
 cl-mediawiki
@@ -458,6 +471,7 @@ cl-memcached
 cl-messagepack
 cl-messagepack-rpc
 cl-migratum
+cl-mime
 cl-mime-from-string
 cl-mimeparse
 cl-minify-css
@@ -497,8 +511,10 @@ cl-murmurhash
 cl-mustache
 cl-myriam
 cl-mysql
+cl-naive-store
 cl-neovim
 cl-netstrings
+cl-notebook
 clnuplot
 cl-oauth
 clobber
@@ -510,12 +526,15 @@ clog-ace
 clog-collection
 clog-plotly
 clog-terminal
+cl-ohm
 cl-oju
 cl-olefs
 cl-one-time-passwords
 cl-online-learning
 clonsigna
+cl-openal
 cl-opencl
+cl-opencl-utils
 cl-opengl
 cl-opensearch-query-builder
 cl-opsresearch
@@ -582,6 +601,8 @@ cl-s3
 cl-sam
 cl-sandbox
 cl-sat
+cl-sat.glucose
+cl-sat.minisat
 cl-schedule
 cl-scribble-subset-parser
 cl-scribd
@@ -592,6 +613,7 @@ cl-ses4
 cl-setlocale
 cl-sha1
 cl-shellwords
+cl-simple-concurrent-jobs
 cl-simple-table
 cl-singleton-mixin
 cl-skip-list
@@ -654,6 +676,7 @@ cl-tqdm
 cl-transit
 cl-transmission
 cl-trie
+cl-tui
 cl-tulip-graph
 cl-tuples
 cl-twitter
@@ -672,6 +695,7 @@ clusters
 cl-utilities
 cl-variates
 cl-vectors
+cl-vhdl
 cl-video
 cl-virtualbox
 cl-vorbis
@@ -709,6 +733,7 @@ colorize
 com.clearly-useful.generic-collection-interface
 com.clearly-useful.iterator-protocol
 com.clearly-useful.protocols
+com.elbeno.vector
 com.google.base
 com.inuoe.jzon
 command-line-arguments
@@ -736,6 +761,7 @@ core-reader
 cover
 cqlcl
 crane
+cricket
 croatoan
 croatoan-ncurses
 crypto-shortcuts
@@ -855,6 +881,7 @@ erudite
 escalator
 esrap
 esrap-liquid
+esrap-peg
 event-emitter
 eventfd
 event-glue
@@ -965,6 +992,7 @@ git-file-history
 githappy
 glacier
 glass
+glaw
 glisph
 glkit
 global-vars
@@ -1068,6 +1096,7 @@ input-event-codes
 inquisitor
 instance-tracking
 integral
+integral-rest
 intel-hex
 intercom
 interface
@@ -1218,6 +1247,8 @@ method-combination-utilities
 method-hooks
 mexpr
 mfiano-utils
+mgl
+mgl-mat
 mgl-pax
 mgl-pax.asdf
 mgrs
@@ -1249,6 +1280,7 @@ moira
 montezuma
 moptilities
 mop-utils
+more-cffi
 more-conditions
 mp3-duration
 mpc
@@ -1293,6 +1325,7 @@ north-dexador
 north-drakma
 nsort
 nsymbols
+nuclblog
 null-package
 numcl
 numpy-file-format
@@ -1540,6 +1573,7 @@ sdl2-mixer
 sdl2-ttf
 s-dot2
 sealable-metaobjects
+secp256k1
 secret-values
 secure-random
 seedable-rng
@@ -1584,6 +1618,8 @@ simple-tasks
 simplified-types
 single-threaded-ccl
 sip-hash
+sketch
+sketch-examples
 slite
 slot-extra-options
 slot-map
@@ -1657,9 +1693,11 @@ taglib
 tailrec
 talcl
 tap-unit-test
+tar-file
 targa
 tclcs-code
 teddy
+teepeedee2
 template
 temporal-functions
 temporary-file
@@ -1817,6 +1855,7 @@ vellum-csv
 vellum-postmodern
 veq
 verbose
+vernacular
 verrazano
 verrazano-runtime
 vertex
