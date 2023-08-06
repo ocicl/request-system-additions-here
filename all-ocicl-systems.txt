@@ -90,6 +90,7 @@ binomial-heap
 binpack
 birch
 bitfield
+bitfield-schema
 bit-ops
 bit-smasher
 bknr.datastore
@@ -99,6 +100,7 @@ black-tie
 bnf
 bobbin
 bordeaux-threads
+bst
 btrie
 bt-semaphore
 buildnode
@@ -259,6 +261,7 @@ cl-bnf
 cl-bootstrap
 cl-bplustree
 cl-bson
+cl-buchberger
 cl-bus
 cl-ca
 cl-cache-tables
@@ -281,6 +284,7 @@ cl-containers
 cl-cookie
 cl-coroutine
 cl-coveralls
+cl-cpus
 cl-cram
 cl-crc64
 cl-creditcard
@@ -296,6 +300,7 @@ cl-data-structures
 cl-date-time-parser
 cl-dbi
 cl-debug-print
+cl-dejavu
 cl-diceware
 cl-difflib
 cl-diskspace
@@ -336,6 +341,7 @@ cl-forms
 cl-form-types
 cl-freetype2
 cl-fsnotify
+clfswm
 cl-fuzz
 cl-fxml
 cl-gamepad
@@ -396,6 +402,7 @@ cl-interpol
 cl-interval
 clip
 cl-ipfs-api2
+cl-irregsexp
 cl-isaac
 clite
 cl-iterative
@@ -411,6 +418,7 @@ cl-json-schema
 cl-jsx
 cl-junit-xml
 cl-jwk
+cl-kanren
 cl-keycloak
 cl-kraken
 cl-ksuid
@@ -436,6 +444,7 @@ cl-ltsv
 cl-lzma
 cl-m4
 cl-mango
+cl-markdown
 cl-markless
 cl-marklogic
 cl-markup
@@ -482,15 +491,19 @@ cl-mongo-id
 cl-monitors
 cl-mop
 cl-moss
+cl-mount-info
 cl-mpg123
 cl-murmurhash
 cl-mustache
+cl-myriam
 cl-mysql
 cl-neovim
 cl-netstrings
+clnuplot
 cl-oauth
 clobber
 cl-oclapi
+cl-octet-streams
 clods-export
 clog
 clog-ace
@@ -501,6 +514,7 @@ cl-oju
 cl-olefs
 cl-one-time-passwords
 cl-online-learning
+clonsigna
 cl-opencl
 cl-opengl
 cl-opensearch-query-builder
@@ -609,6 +623,7 @@ cl-stream
 cl-strftime
 cl-string-complete
 cl-string-generator
+cl-string-match
 cl-strings
 cl-svg
 cl-svm
@@ -648,12 +663,14 @@ cl-uglify-js
 clump
 cl-unac
 cl-unicode
+cl-unification
 cl-union-find
 clunit
 clunit2
 clustered-intset
 clusters
 cl-utilities
+cl-variates
 cl-vectors
 cl-video
 cl-virtualbox
@@ -868,6 +885,7 @@ fast-http
 fast-io
 fast-websocket
 feeder
+femlisp
 ffa
 fiasco
 file-attributes
@@ -1202,6 +1220,7 @@ mexpr
 mfiano-utils
 mgl-pax
 mgl-pax.asdf
+mgrs
 micmac
 millet
 minheap
@@ -1267,6 +1286,7 @@ nibbles-streams
 ningle
 njson
 nkeymaps
+nodgui
 north
 north-core
 north-dexador
@@ -1285,6 +1305,7 @@ oclcl
 oe-encode
 olc
 one-more-re-nightmare
+ook
 oook
 openapi-generator
 openid-key
@@ -1297,6 +1318,7 @@ org.melusina.rashell
 org.melusina.webmachine
 org.tfeb.conduit-packages
 origin
+orizuru-orm
 osc
 osh-autodoc-base
 osh-autodoc-pdf
@@ -1425,6 +1447,7 @@ py-configparser
 pythonic-string-reader
 pzmq
 qbase64
+qbook
 ql-checkout
 qlot
 qoi
@@ -1478,6 +1501,7 @@ restful
 restricted-functions
 rfc2109
 rfc2388
+rfc2388-binary
 roan
 romreader
 routes
@@ -1514,6 +1538,7 @@ sdl2-image
 sdl2kit
 sdl2-mixer
 sdl2-ttf
+s-dot2
 sealable-metaobjects
 secret-values
 secure-random
