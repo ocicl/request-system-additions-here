@@ -412,6 +412,7 @@ cl-intbytes
 cl-interpol
 cl-interval
 clip
+cli-parser
 cl-ipfs-api2
 cl-irregsexp
 cl-isaac
@@ -1347,6 +1348,7 @@ ops5
 opticl-core
 optima
 optima.ppcre
+org.melusina.confidence
 org.melusina.rashell
 org.melusina.webmachine
 org.tfeb.conduit-packages
