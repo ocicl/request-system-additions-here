@@ -11,6 +11,7 @@
 3d-transforms
 3d-vectors
 40ants-asdf-system
+40ants-ci
 40ants-doc
 able
 abstract-arrays
@@ -341,6 +342,7 @@ cl-events
 cl-ewkb
 cl-fad
 cl-fast-ecs
+cl-feedparser
 cl-ffc
 cl-fix
 cl-fixtures
@@ -410,6 +412,7 @@ cl-indentify
 clinenoise
 cl-inflector
 cl-influxdb
+cl-info
 clingon
 cl-ini
 cl-inotify
@@ -471,6 +474,7 @@ cl-mathstats
 cl-maxminddb
 cl-maxsat
 cl-mdb
+cl-mecab
 cl-mechanize
 cl-mediawiki
 cl-memcached
@@ -745,6 +749,7 @@ com.clearly-useful.iterator-protocol
 com.clearly-useful.protocols
 com.elbeno.vector
 com.gigamonkeys.binary-data
+com.gigamonkeys.json
 com.gigamonkeys.macro-utilities
 com.gigamonkeys.markup
 com.gigamonkeys.parser
@@ -1547,6 +1552,7 @@ quad-tree
 quadtree
 quantile-estimator
 quasiquote-2.0
+query-fs
 query-repl
 queues
 queues.priority-cqueue
