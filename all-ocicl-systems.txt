@@ -355,6 +355,7 @@ cl-freetype2
 cl-fsnotify
 clfswm
 cl-fuse
+cl-fuse-meta-fs
 cl-fuzz
 cl-fxml
 cl-gamepad
@@ -534,6 +535,7 @@ clog-terminal
 cl-ohm
 cl-oju
 cl-olefs
+cl-oneliner
 cl-one-time-passwords
 cl-online-learning
 clonsigna
@@ -743,7 +745,10 @@ com.clearly-useful.protocols
 com.elbeno.vector
 com.gigamonkeys.binary-data
 com.gigamonkeys.macro-utilities
+com.gigamonkeys.markup
+com.gigamonkeys.parser
 com.gigamonkeys.pathnames
+com.gigamonkeys.test-framework
 com.gigamonkeys.utilities
 com.google.base
 com.inuoe.jzon
@@ -795,6 +800,7 @@ daemon
 damn-fast-priority-queue
 database-migrations
 datafly
+data-format-validation
 data-frame
 data-lens
 dataloader
@@ -808,6 +814,7 @@ dbd-posgres
 dbd-postgres
 dbd-sqlite3
 dbi
+decimals
 deeds
 defclass-std
 defconfig
@@ -848,6 +855,7 @@ dns-client
 docbrowser
 docparser
 docs-builder
+docs-config
 documentation-utils
 documentation-utils-extensions
 donuts
@@ -880,6 +888,7 @@ eazy-process
 ec2
 ec2-price-finder
 eclecticse.iso-8601-date
+eclecticse.slk-581
 eclector
 eclector-concrete-syntax-tree
 eco
@@ -975,6 +984,7 @@ frugal-uuid
 fset
 fsocket
 fsvd
+fs-watcher
 functional-trees
 function-cache
 f-underscore
@@ -1126,6 +1136,7 @@ iolib.conf
 ironclad
 ironclad-text
 iterate
+jingle
 jingoh
 jonathan
 jose
@@ -1247,6 +1258,7 @@ map-set
 marching-cubes
 markdown.cl
 markup
+marshal
 math
 mathkit
 matrix-case
@@ -1301,6 +1313,7 @@ modularize
 modularize-hooks
 modularize-interfaces
 moira
+monkeylib-text-output
 montezuma
 moptilities
 mop-utils
@@ -1334,6 +1347,7 @@ net.didierverna.asdf-flv
 net.didierverna.clon
 net-telent-date
 network-addresses
+neural-classifier
 new-op
 nfiles
 nhooks
@@ -1419,6 +1433,8 @@ pathname-utils
 path-parse
 path-string
 patron
+pcall
+pcall-queue
 peppol
 percent-encoding
 periods
@@ -1650,6 +1666,7 @@ sketch
 sketch-examples
 skippy
 skippy-renderer
+slack-client
 slite
 slot-extra-options
 slot-map
@@ -1658,6 +1675,12 @@ slynk-asdf
 smackjack
 smart-buffer
 snakes
+snark-auxiliary-packages
+snark-dpll
+snark-implementation
+snark-infix-reader
+snark-loads
+snark-pkg
 snooze
 softdrink
 solid-engine
@@ -1844,6 +1867,10 @@ trivial-yenc
 trivia.ppcre
 trivia.quasiquote
 trivia.trivial
+trucler
+trucler-base
+trucler-native
+trucler-reference
 truetype-clx
 try
 tsqueue
@@ -1860,6 +1887,7 @@ ucons
 ucw
 ucw-core
 uffi
+ufo
 ugly-tiny-infix-macro
 unboxables
 uncursed
