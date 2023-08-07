@@ -57,6 +57,7 @@ asdf-dependency-grovel
 asdf-encodings
 asdf-finalizers
 asdf-linguist
+asdf-manager
 asdf-package-system
 asdf-system-connections
 asdf-viz
@@ -251,6 +252,7 @@ clawk
 claw-olm
 claxy
 cl-azure
+clazy
 cl-base16
 cl-base32
 cl-base58
@@ -556,6 +558,7 @@ cl-paths
 cl-paths-ttf
 cl-pattern
 cl-patterns
+cl-paymill
 cl-paypal
 cl-pcg
 cl-pdf
@@ -607,6 +610,7 @@ cl-sat.minisat
 cl-schedule
 cl-scribble-subset-parser
 cl-scribd
+cl-scrobbler
 cl-scsu
 cl-semver
 cl-sentiment
@@ -735,6 +739,7 @@ com.clearly-useful.generic-collection-interface
 com.clearly-useful.iterator-protocol
 com.clearly-useful.protocols
 com.elbeno.vector
+com.gigamonkeys.binary-data
 com.google.base
 com.inuoe.jzon
 command-line-arguments
@@ -787,6 +792,7 @@ database-migrations
 datafly
 data-frame
 data-lens
+dataloader
 datamuse
 data-sift
 data-table
@@ -804,6 +810,7 @@ deferred
 define-json-expander
 definer
 definitions
+deflate
 defmemo
 defpackage-plus
 def-properties
@@ -872,6 +879,8 @@ eclector-concrete-syntax-tree
 eco
 edit-distance
 elb-log
+electron-tools
+elf
 enchant
 envy
 epigraph
@@ -941,6 +950,7 @@ flute
 fmt
 fmt-time
 fn
+fof
 folio
 folio2
 font-discovery
@@ -1079,6 +1089,7 @@ idna
 ieee-floats
 illogical-pathnames
 illusion
+image
 imago
 immutable-struct
 incf-cl
@@ -1119,6 +1130,7 @@ jp-numeral
 json-lib
 json-mop
 jsonrpc
+json-schema
 json-streams
 jsown
 jsown-utils
@@ -1128,6 +1140,7 @@ kdtree-jk
 kebab
 kekule-clj
 kenzo
+kl-verify
 kons-9
 laap
 lack
@@ -1215,6 +1228,7 @@ macrodynamics
 macro-html
 madeira-port
 magic-ed
+magicffi
 maiden
 maidenhead
 mailbox
@@ -1534,10 +1548,12 @@ restas
 restas.file-publisher
 restful
 restricted-functions
+retrospectiff
 rfc2109
 rfc2388
 rfc2388-binary
 roan
+rock
 romreader
 routes
 rove
@@ -1622,6 +1638,8 @@ single-threaded-ccl
 sip-hash
 sketch
 sketch-examples
+skippy
+skippy-renderer
 slite
 slot-extra-options
 slot-map
@@ -1661,6 +1679,7 @@ stealth-mixin
 stefil
 stem
 stepster
+st-json
 stl
 stopclock
 str
@@ -1761,6 +1780,7 @@ trivia.level0
 trivia.level1
 trivial-exe
 trivial-extensible-sequences
+trivial-extract
 trivial-features
 trivial-file-size
 trivial-garbage
@@ -1787,6 +1807,7 @@ trivial-nntp
 trivial-object-lock
 trivial-octet-streams
 trivial-open-browser
+trivial-openstack
 trivial-package-local-nicknames
 trivial-package-locks
 trivial-package-manager
@@ -1797,6 +1818,7 @@ trivial-sanitize
 trivial-shell
 trivial-signal
 trivial-sockets
+trivial-ssh
 trivial-tco
 trivial-thumbnail
 trivial-timeout
@@ -1871,6 +1893,7 @@ vp-trees
 wallstreetflets
 wasm-encoder
 water
+webapi
 websocket-driver
 weft
 westbrook
