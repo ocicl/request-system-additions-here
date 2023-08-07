@@ -14,6 +14,7 @@
 40ants-doc
 able
 abstract-arrays
+abstract-classes
 access
 acclimation
 a-cl-logger
@@ -243,6 +244,7 @@ classowary
 cl-async
 cl-async-await
 cl-async-future
+cl-async-ssl
 clath
 cl-autorepo
 cl-autowrap
@@ -740,6 +742,9 @@ com.clearly-useful.iterator-protocol
 com.clearly-useful.protocols
 com.elbeno.vector
 com.gigamonkeys.binary-data
+com.gigamonkeys.macro-utilities
+com.gigamonkeys.pathnames
+com.gigamonkeys.utilities
 com.google.base
 com.inuoe.jzon
 command-line-arguments
@@ -850,6 +855,7 @@ dotenv
 doubly-linked-list
 do-urlencode
 drakma
+drakma-async
 draw-cons-tree
 duckdb
 dufy
@@ -1229,6 +1235,9 @@ macro-html
 madeira-port
 magic-ed
 magicffi
+magicl
+magicl-gen
+magicl-transcendental
 maiden
 maidenhead
 mailbox
@@ -1635,6 +1644,7 @@ simplet
 simple-tasks
 simplified-types
 single-threaded-ccl
+singleton-classes
 sip-hash
 sketch
 sketch-examples
