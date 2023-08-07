@@ -616,6 +616,7 @@ cl-scribble-subset-parser
 cl-scribd
 cl-scrobbler
 cl-scsu
+cl-selenium
 cl-semver
 cl-sentiment
 cl-ses4
@@ -784,6 +785,7 @@ crypto-shortcuts
 cserial-port
 css-lite
 css-selectors
+csv
 csv-parser
 csv-validator
 ctype
@@ -798,6 +800,10 @@ cxml-stp
 cytoscape-clj
 daemon
 damn-fast-priority-queue
+darts.lib.message-pack
+darts.lib.sequence-metrics
+darts.lib.tools
+darts.lib.uuid
 database-migrations
 datafly
 data-format-validation
@@ -878,6 +884,7 @@ eager-future2
 easing
 easter-gauss
 easy-audio
+easy-bind
 easy-macros
 easy-routes
 easy-routes_plus_djula
@@ -898,6 +905,7 @@ electron-tools
 elf
 enchant
 envy
+eos
 epigraph
 equals
 erjoalgo-webutil
@@ -939,6 +947,7 @@ fast-websocket
 feeder
 femlisp
 ffa
+fft
 fiasco
 file-attributes
 file-local-variable
@@ -991,8 +1000,10 @@ f-underscore
 funds
 future
 fuzzy-match
+fxml
 gadgets
 garbage-pools
+geco
 generalized-reference
 generators
 generic-cl
@@ -1157,6 +1168,9 @@ kdtree-jk
 kebab
 kekule-clj
 kenzo
+khazern-extrinsic
+khazern-intrinsic
+khazern-sequence-intrinsic
 kl-verify
 kons-9
 laap
@@ -1167,6 +1181,7 @@ lack-response
 lack-util
 lake
 lambda-fiddle
+lambdalite
 lambda-reader
 lambda-reader-8bit
 language-codes
@@ -1224,6 +1239,7 @@ literate-lisp
 litterae
 livesupport
 lla
+l-math
 local-package-aliases
 local-time
 local-time-duration
@@ -1338,6 +1354,7 @@ nail
 named-closure
 named-read-macros
 named-readtables
+napa-fft3
 narrowed-types
 native-lazy-seq
 nbd
@@ -1609,6 +1626,8 @@ science-data
 screamer
 scriba
 scribble
+scriptl
+scriptl-util
 sdl2
 sdl2-image
 sdl2kit
@@ -1621,6 +1640,7 @@ secret-values
 secure-random
 seedable-rng
 select
+selenium
 semantic-spinneret
 sento
 sentry-client
