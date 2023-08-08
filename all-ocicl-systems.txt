@@ -4,6 +4,7 @@
 3b-hdr
 3bmd
 3bmd-ext-code-blocks
+3b-swf
 3bz
 3d-matrices
 3d-quaternions
@@ -678,6 +679,8 @@ cltcl
 cl-telebot
 cl-telegram-bot
 cl-template
+cl-termbox
+cl-tetris3d
 cl-textmagic
 cl-tga
 cl-tidy
@@ -1270,6 +1273,7 @@ l-system
 ltk
 luckless
 lw-compat
+lzlib
 macrodynamics
 macro-html
 madeira-port
