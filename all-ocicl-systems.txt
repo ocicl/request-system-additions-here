@@ -747,6 +747,7 @@ colorize
 com.clearly-useful.generic-collection-interface
 com.clearly-useful.iterator-protocol
 com.clearly-useful.protocols
+com.elbeno.curve
 com.elbeno.vector
 com.gigamonkeys.binary-data
 com.gigamonkeys.json
@@ -805,10 +806,12 @@ cxml-stp
 cytoscape-clj
 daemon
 damn-fast-priority-queue
+darts.lib.hashtrie
 darts.lib.message-pack
 darts.lib.sequence-metrics
 darts.lib.tools
 darts.lib.uuid
+darts.lib.wbtree
 database-migrations
 datafly
 data-format-validation
@@ -901,6 +904,7 @@ eazy-process
 ec2
 ec2-price-finder
 eclecticse.iso-8601-date
+eclecticse.omer
 eclecticse.slk-581
 eclector
 eclector-concrete-syntax-tree
@@ -1071,6 +1075,7 @@ hermetic
 herodotus
 hh-aws
 hh-redblack
+hh-web
 history-tree
 hl7-client
 hl7-parser
@@ -1228,6 +1233,7 @@ linewise-template
 linux-packaging
 lisa
 lisp-binary
+lispbuilder-sdl
 lisp-chat
 lisp-critic
 lisp-executable
@@ -1467,6 +1473,8 @@ perlre
 pero
 persistent-tables
 persistent-variables
+petalisp
+petalisp.utilities
 petit.package-utils
 petit.string-utils
 petri
@@ -1570,6 +1578,7 @@ quickutil
 quri
 quux-hunchentoot
 quux-time
+rail
 random
 random-access-lists
 random-sample
@@ -1780,6 +1789,7 @@ targa
 tclcs-code
 teddy
 teepeedee2
+telnetlib
 template
 temporal-functions
 temporary-file
@@ -1939,6 +1949,7 @@ utm-ups
 uuid
 validate-list
 vas-string-metrics
+vecto
 vectors
 vellum
 vellum-binary
