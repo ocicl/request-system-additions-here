@@ -881,6 +881,7 @@ dufy
 dungen
 duologue
 duologue-readline
+dweet
 dynamic-array
 dynamic-classes
 dynamic-collect
@@ -1008,6 +1009,7 @@ fuzzy-match
 fxml
 gadgets
 garbage-pools
+gcm
 geco
 generalized-reference
 generators
@@ -1823,6 +1825,7 @@ trivial-bit-streams
 trivial-build
 trivial-channels
 trivial-clipboard
+trivial-clock
 trivial-cltl2
 trivial-compress
 trivial-continuation
