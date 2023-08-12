@@ -782,6 +782,7 @@ consix
 constantfold
 contextl
 context-lite
+convolution-kernel
 copy-directory
 core-reader
 cover
@@ -1040,8 +1041,10 @@ geodesic
 geowkt
 getopt
 gettext
+gfxmath
 git-file-history
 githappy
+github-api-cl
 glacier
 glass
 glaw
@@ -1049,6 +1052,7 @@ glisph
 glkit
 global-vars
 glop
+glsl-metadata
 glsl-packing
 glsl-toolkit
 glu-tessellate
@@ -1346,6 +1350,7 @@ modularize
 modularize-hooks
 modularize-interfaces
 moira
+monkeylib-text-languages
 monkeylib-text-output
 montezuma
 moptilities
@@ -1820,6 +1825,7 @@ tooter
 towers
 trace-db
 trainable-object
+transducers
 translate
 translate-client
 transparent-wrap
@@ -1921,6 +1927,7 @@ ttt
 twfy
 type-i
 type-r
+type-templates
 typo
 uax-14
 uax-15
