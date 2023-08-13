@@ -6,6 +6,7 @@
 3bmd-ext-code-blocks
 3b-swf
 3bz
+3d-math
 3d-matrices
 3d-quaternions
 3d-spaces
@@ -432,6 +433,7 @@ clj
 clj-con
 cl-jpeg
 clj-re
+cl-js
 cl-json
 cl-json-helper
 cl-jsonl
@@ -524,6 +526,7 @@ cl-myriam
 cl-mysql
 cl-naive-store
 cl-neovim
+cl-netstring_plus
 cl-netstrings
 cl-notebook
 clnuplot
@@ -592,6 +595,7 @@ cl-progress-bar
 cl-project
 cl-prolog2
 cl-punch
+clpython
 cl-qprint
 cl-qrencode
 cl-quickcheck
@@ -664,6 +668,7 @@ cl-string-match
 cl-strings
 cl-svg
 cl-svm
+cl-swagger
 cl-sxml
 cl-syntax
 cl-syntax-annot
@@ -729,6 +734,8 @@ cl-webdriver-client
 cl-who
 cl-why
 cl-with
+cl-wol.cli
+cl-wol.core
 cl-wordcut
 clws
 clx
@@ -748,6 +755,7 @@ colliflower
 colored
 colorize
 com.clearly-useful.generic-collection-interface
+com.clearly-useful.iterate_plus
 com.clearly-useful.iterator-protocol
 com.clearly-useful.protocols
 com.elbeno.curve
@@ -761,6 +769,7 @@ com.gigamonkeys.pathnames
 com.gigamonkeys.test-framework
 com.gigamonkeys.utilities
 com.google.base
+com.google.flag
 com.inuoe.jzon
 command-line-arguments
 common-doc
@@ -907,6 +916,7 @@ eazy-gnuplot
 eazy-process
 ec2
 ec2-price-finder
+ecclesia
 eclecticse.iso-8601-date
 eclecticse.omer
 eclecticse.slk-581
@@ -972,12 +982,14 @@ filesystem-utils
 file-types
 filtered-functions
 find-port
+finite-state-machine
 firephp
 fiveam
 fiveam-asdf
 fiveam-matchers
 fixed
 flare
+flat-tree
 flexichain
 flexi-streams
 float-features
@@ -985,6 +997,7 @@ floating-point
 floating-point-contractions
 flow
 flute
+fmarshal
 fmt
 fmt-time
 fn
@@ -1019,6 +1032,7 @@ gadgets
 garbage-pools
 gcm
 geco
+general-accumulator
 generalized-reference
 generators
 generic-cl
@@ -1060,14 +1074,17 @@ glyphs
 gooptest
 graph
 gravatar
+graven-image
 graylex
 graylog
 green-threads
 grid-formation
 group-by
+groupby
 grovel-locally
 grph
 gsll
+gt
 gtwiwtg
 gtype
 gute
@@ -1165,7 +1182,10 @@ iolib.common-lisp
 iolib.conf
 ironclad
 ironclad-text
+issr
+issr-core
 iterate
+jenkins.api
 jingle
 jingoh
 jonathan
@@ -1182,7 +1202,11 @@ json-streams
 jsown
 jsown-utils
 js-parser
+just-getopt-parser
 jwacs
+kanren-trs
+kaputt
+kdl
 kdtree-jk
 kebab
 kekule-clj
@@ -1249,6 +1273,7 @@ lisp-invocation
 lisp-namespace
 lisp-pay
 lisp-preprocessor
+lispqr
 lisp-stat
 lisp-unit
 lisp-unit2
@@ -1384,6 +1409,9 @@ nclasses
 ndebug
 net.didierverna.asdf-flv
 net.didierverna.clon
+net.didierverna.tfm
+net.didierverna.tfm.core
+net.didierverna.tfm.setup
 net-telent-date
 network-addresses
 neural-classifier
@@ -1407,19 +1435,25 @@ null-package
 numcl
 numpy-file-format
 num-utils
+nxt
+nxt-proxy
 nyaml
 nytpu.lisp-utils
 nyxt
 ocicl-sandbox
 oclcl
+odesk
 oe-encode
 olc
 one-more-re-nightmare
 ook
 oook
 openapi-generator
+openapi-parser
 openid-key
 open-location-code
+open-vrp
+open-vrp-lib
 ops5
 opticl-core
 optima
@@ -1499,6 +1533,7 @@ piggyback-parameters
 pileup
 piping
 pithy-xml
+pixman
 pk-serialize
 planks
 plot
@@ -1520,6 +1555,7 @@ pooler
 portable-condition-system
 portable-threads
 portal
+portmanteau
 posix-shm
 postmodern
 postmodernity
@@ -1571,6 +1607,7 @@ quad-tree
 quadtree
 quantile-estimator
 quasiquote-2.0
+queen
 query-fs
 query-repl
 queues
@@ -1640,6 +1677,7 @@ safety-params
 salza
 salza2
 sandalphon.lambda-list
+sanitize
 sanity-clause
 s-base64
 sb-cga
@@ -1668,6 +1706,8 @@ seedable-rng
 select
 selenium
 semantic-spinneret
+semz.decompress
+sendgrid
 sento
 sentry-client
 sentry-client.async
@@ -1697,6 +1737,7 @@ simple-config
 simple-currency
 simple-date
 simple-date-time
+simple-finalizer
 simple-inferiors
 simple-neural-network
 simple-parallel-tasks
@@ -1736,6 +1777,7 @@ spatial-trees
 special-functions
 specialized-function
 speechless
+spell
 spellcheck
 spinneret
 split-sequence
@@ -1749,6 +1791,7 @@ sse-server
 s-sql
 s-sysdeps
 staple
+stars
 static-dispatch
 static-vectors
 statistics
@@ -1787,6 +1830,7 @@ sycamore
 symath
 symbol-munger
 synonyms
+sysexits
 system-locale
 tagger
 taglib
@@ -1941,11 +1985,13 @@ ufo
 ugly-tiny-infix-macro
 unboxables
 uncursed
+unit-formulas
 unit-test
 universal-config
 universal-tween-engine
 unix-options
 unix-opts
+unix-sockets
 url-rewrite
 usocket
 usocket-server
@@ -1976,6 +2022,7 @@ vgplot
 vivid-colors
 vivid-diff
 vk
+voipms
 vom
 vom-json
 vp-trees
@@ -1990,6 +2037,7 @@ what3words
 which
 whirlog
 whofields
+wilbur
 wild-package-inferred-system
 winhttp
 winlock
@@ -2006,8 +2054,11 @@ wu-decimal
 wu-sugar
 xarray
 xcat
+xecto
+xembed
 xhtmlambda
 xhtmlgen
+xkeyboard
 x.let-star
 xlsx
 xml-emitter
@@ -2030,7 +2081,10 @@ zip
 zippy
 ziz
 zlib
+zmq
+zmq-examples
 zpb-ttf
 zpng
 zs3
 zsort
+zstd
