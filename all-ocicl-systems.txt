@@ -16,6 +16,7 @@
 40ants-ci
 40ants-doc
 able
+abnf
 abstract-arrays
 abstract-classes
 access
@@ -88,6 +89,8 @@ babel
 base64
 basic-binary-ipc
 bdef
+bencode
+bibtex
 big-string
 binary-io
 binary-search-tree
@@ -107,6 +110,7 @@ bknr.datastore
 bk-tree
 blackbird
 black-tie
+bmas
 bnf
 bobbin
 bordeaux-threads
@@ -235,6 +239,7 @@ cl-annot-revisit
 cl-anonfun
 cl-ansi-term
 cl-ansi-text
+cl-apertium-stream
 cl-apple-plist
 cl-arff-parser
 cl-argparse
@@ -331,6 +336,7 @@ cl-dsl
 cl-durian
 cl-earley-parser
 cl-egl
+cl-elastic
 clem
 cl-emacs-if
 cl-emb
@@ -560,6 +566,7 @@ closer-mop
 clos-fixtures
 closure-common
 closure-html
+closure-template
 cl-out123
 cl-pack
 cl-package-locks
@@ -800,6 +807,7 @@ crane
 cricket
 croatoan
 croatoan-ncurses
+crypt
 crypto-shortcuts
 cserial-port
 css-lite
@@ -816,6 +824,7 @@ cxml
 cxml-rng
 cxml-rpc
 cxml-stp
+cxx
 cytoscape-clj
 daemon
 damn-fast-priority-queue
@@ -836,11 +845,13 @@ data-sift
 data-table
 date-calc
 datum-comments
+db3
 dbd-mysql
 dbd-posgres
 dbd-postgres
 dbd-sqlite3
 dbi
+dct
 decimals
 deeds
 defclass-std
@@ -931,14 +942,18 @@ enchant
 envy
 eos
 epigraph
+epmd
 equals
 erjoalgo-webutil
+erlang-term
+erlang-term-trivia
 ernestine
 erudite
 escalator
 esrap
 esrap-liquid
 esrap-peg
+ev
 event-emitter
 eventfd
 event-glue
@@ -1146,6 +1161,7 @@ hunchentoot-single-signon
 hyperspec
 ia-hash-table
 iclendar
+iconv
 id3v2
 identifier-pool
 idna
@@ -1185,6 +1201,7 @@ ironclad-text
 issr
 issr-core
 iterate
+ixf
 jenkins.api
 jingle
 jingoh
@@ -1458,6 +1475,7 @@ ops5
 opticl-core
 optima
 optima.ppcre
+org.melusina.atelier
 org.melusina.confidence
 org.melusina.rashell
 org.melusina.webmachine
