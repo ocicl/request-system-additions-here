@@ -140,6 +140,7 @@ ccldoc
 ceigen-lite
 cells
 cephes
+ceramic
 cerberus
 cffi
 cffi-grovel
@@ -423,6 +424,7 @@ cl-hue
 cl-i18n
 clickr
 cl-id3
+clim-lisp
 cl-incognia
 cl-indentify
 clinenoise
@@ -438,6 +440,7 @@ cl-interval
 clip
 cli-parser
 cl-ipfs-api2
+clipper
 cl-irregsexp
 cl-isaac
 clite
@@ -1014,6 +1017,7 @@ fiveam
 fiveam-asdf
 fiveam-matchers
 fixed
+flac-metadata
 flare
 flat-tree
 flexichain
@@ -1354,6 +1358,7 @@ maidenhead
 mailbox
 mailgun
 make-hash
+manifest
 manifolds
 map-set
 marching-cubes
@@ -1366,6 +1371,7 @@ matrix-case
 maxpc
 mbe
 mcase
+mcclim
 md5
 media-types
 mel-base
@@ -1415,6 +1421,7 @@ modularize-hooks
 modularize-interfaces
 moira
 monkeylib-html
+monkeylib-markup-html
 monkeylib-text-languages
 monkeylib-text-output
 montezuma
@@ -1784,6 +1791,7 @@ secret-values
 secure-random
 seedable-rng
 select
+select-file
 selenium
 semantic-spinneret
 semz.decompress
@@ -2092,6 +2100,7 @@ vecto
 vectors
 vellum
 vellum-binary
+vellum-clim
 vellum-csv
 vellum-postmodern
 veq
