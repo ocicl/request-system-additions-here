@@ -90,9 +90,11 @@ base64
 basic-binary-ipc
 bdef
 bencode
+bert
 bibtex
 big-string
 binary-io
+binary-parser
 binary-search-tree
 binary-structures
 binary-types
@@ -104,6 +106,7 @@ binpack
 birch
 bitfield
 bitfield-schema
+bitio
 bit-ops
 bit-smasher
 bknr.datastore
@@ -151,6 +154,7 @@ changed-stream
 chanl
 check-bnf
 check-it
+checkl
 chillax
 chipz
 chirp
@@ -170,6 +174,9 @@ cl-aa
 cl-aa-misc
 clache
 clack
+clack-handler-hunchentoot
+clack-handler-toot
+clack-handler-wookie
 clack-pretend
 clack-socket
 clack-static-asset-middleware
@@ -527,6 +534,7 @@ cl-mop
 cl-moss
 cl-mount-info
 cl-mpg123
+cl-mtgnet
 cl-murmurhash
 cl-mustache
 cl-myriam
@@ -758,6 +766,7 @@ cmd
 cmu-infix
 coalton
 codata-recommended-values
+coleslaw
 collectors
 colliflower
 colored
@@ -962,6 +971,7 @@ everblocking-stream
 evol
 exit-hooks
 exponential-backoff
+ext-blog
 extended-reals
 extensible-compound-types
 extensible-compound-types-cl
@@ -1030,6 +1040,7 @@ formlets
 fprog
 fred
 freesound
+fresnel
 froute
 frpc
 frugal-uuid
@@ -1291,6 +1302,7 @@ lisa
 lisp-binary
 lispbuilder-sdl
 lisp-chat
+lispcord
 lisp-critic
 lisp-executable
 lisp-interface-library
@@ -1342,6 +1354,7 @@ maidenhead
 mailbox
 mailgun
 make-hash
+manifolds
 map-set
 marching-cubes
 markdown.cl
@@ -1401,6 +1414,7 @@ modularize
 modularize-hooks
 modularize-interfaces
 moira
+monkeylib-html
 monkeylib-text-languages
 monkeylib-text-output
 montezuma
@@ -1487,6 +1501,7 @@ open-location-code
 open-vrp
 open-vrp-lib
 ops5
+opticl
 opticl-core
 optima
 optima.ppcre
@@ -1495,6 +1510,7 @@ org.melusina.confidence
 org.melusina.rashell
 org.melusina.webmachine
 org.tfeb.conduit-packages
+org.tfeb.dsm
 org.tfeb.hax
 org.tfeb.hax.abstract-classes
 org.tfeb.hax.binding
@@ -1562,6 +1578,7 @@ parser.common-rules
 parser.common-rules.operators
 parser.ini
 parsnip
+patchwork
 pathnames
 pathname-utils
 path-parse
@@ -1712,6 +1729,7 @@ replic
 repl-utilities
 resignal-bind
 restas
+restas-directory-publisher
 restas.file-publisher
 restful
 restricted-functions
@@ -1862,6 +1880,7 @@ statusor
 stdutils
 stealth-mixin
 stefil
+stefil_plus
 stem
 stepster
 st-json
