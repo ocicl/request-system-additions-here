@@ -24,6 +24,7 @@ acclimation
 a-cl-logger
 action-list
 adhoc
+adopt
 adp
 advanced-readtable
 agnostic-lizard
@@ -64,6 +65,7 @@ asdf-finalizers
 asdf-linguist
 asdf-manager
 asdf-package-system
+asdf-release-ops
 asdf-system-connections
 asdf-viz
 asd-generator
@@ -86,6 +88,7 @@ aws-sdk
 aws-sign4
 ayah-captcha
 babel
+babylon
 base64
 basic-binary-ipc
 bdef
@@ -268,6 +271,7 @@ clavatar
 clavier
 clawk
 claw-olm
+claw-utils
 claxy
 cl-azure
 clazy
@@ -626,6 +630,7 @@ cl-readline
 cl-redis
 cl-reexport
 cl-replica
+cl-resect
 cl-rethinkdb
 cl-rfc2047
 cl-rfc4251
@@ -808,6 +813,7 @@ conf
 configuration.options
 conium
 consix
+console
 constantfold
 contextl
 context-lite
@@ -891,6 +897,7 @@ deoxybyte-unix
 deoxybyte-utilities
 deploy
 depot
+deptree
 descriptions
 destructuring-bind-star
 dexador
@@ -1028,6 +1035,7 @@ floating-point-contractions
 flow
 flute
 fmarshal
+fmcs
 fmt
 fmt-time
 fn
@@ -1174,6 +1182,7 @@ hunchentoot-cgi
 hunchentoot-errors
 hunchentoot-multi-acceptor
 hunchentoot-single-signon
+hyperlattices
 hyperspec
 ia-hash-table
 iclendar
@@ -1811,6 +1820,7 @@ sha3
 shadchen
 shasht
 sheeple
+sheet-clj
 shellpool
 shelly
 shlex
@@ -1927,6 +1937,9 @@ taglib
 tailrec
 talcl
 tap-unit-test
+tar
+tar-cli
+tar-cli-asdf
 tar-file
 targa
 tclcs-code
