@@ -70,6 +70,7 @@ asdf-system-connections
 asdf-viz
 asd-generator
 asn1
+assertion-error
 assoc-utils
 astonish
 async-process
@@ -119,6 +120,8 @@ black-tie
 bmas
 bnf
 bobbin
+bodge-memory
+bodge-utilities
 bordeaux-threads
 bst
 btrie
@@ -1866,6 +1869,7 @@ slynk
 slynk-asdf
 smackjack
 smart-buffer
+smug
 snakes
 snark-auxiliary-packages
 snark-dpll
