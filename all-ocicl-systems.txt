@@ -1110,6 +1110,7 @@ github-api-cl
 glacier
 glass
 glaw
+glfw
 glisph
 glkit
 global-vars
