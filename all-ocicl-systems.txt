@@ -2064,6 +2064,7 @@ trivial-tco
 trivial-thumbnail
 trivial-timeout
 trivial-timer
+trivial-toplevel-prompt
 trivial-types
 trivial-update
 trivial-utf-8
