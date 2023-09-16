@@ -1074,6 +1074,7 @@ function-cache
 f-underscore
 funds
 future
+fuzzy-dates
 fuzzy-match
 fxml
 gadgets
@@ -1345,6 +1346,7 @@ litterae
 livesupport
 lla
 l-math
+lmdb
 local-package-aliases
 local-time
 local-time-duration
