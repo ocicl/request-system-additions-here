@@ -89,6 +89,7 @@ aws-sdk
 aws-sign4
 ayah-captcha
 babel
+babel-streams
 babylon
 base64
 basic-binary-ipc
@@ -2145,6 +2146,10 @@ verrazano-runtime
 vertex
 vgplot
 vivid-colors
+vivid-colors.content
+vivid-colors.queue
+vivid-colors.shared
+vivid-colors.stream
 vivid-diff
 vk
 voipms
