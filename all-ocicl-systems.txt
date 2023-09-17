@@ -490,6 +490,7 @@ cl-libxml2
 cl-libyaml
 cl-locale
 cl-locatives
+cl-log
 cl-logic
 cl-ltsv
 cl-lzma
@@ -1340,6 +1341,7 @@ lisp-stat
 lisp-unit
 lisp-unit2
 list-named-class
+list-of
 listoflist
 listopia
 literate-lisp
@@ -1454,6 +1456,7 @@ more-conditions
 mp3-duration
 mpc
 mra-wavelet-plot
+mssql
 mstrings
 mt19937
 mtif
@@ -1631,6 +1634,7 @@ petri
 pettomato-deque
 pettomato-indexed-priority-queue
 pg
+pgloader
 phoe-toolbox
 phos
 physical-dimension
@@ -1710,6 +1714,7 @@ qbase64
 qbook
 ql-checkout
 qlot
+qmynd
 qoi
 qt-libs
 quad-tree
