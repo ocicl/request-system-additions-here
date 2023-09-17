@@ -569,6 +569,7 @@ clog-collection
 clog-plotly
 clog-terminal
 cl-ohm
+clohost
 cl-oju
 cl-olefs
 cl-oneliner
