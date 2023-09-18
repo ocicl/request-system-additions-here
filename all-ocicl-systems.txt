@@ -1247,6 +1247,7 @@ jingoh
 jonathan
 jose
 journal
+jpeg-turbo
 jpl-queues
 jpl-util
 jp-numeral
@@ -1470,6 +1471,7 @@ mutils
 mw-equiv
 mystic
 myway
+myweb
 nail
 named-closure
 named-read-macros
@@ -1621,6 +1623,7 @@ pcall
 pcall-queue
 peppol
 percent-encoding
+perceptual-hashes
 periods
 periods-series
 perlre
