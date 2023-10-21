@@ -38,6 +38,7 @@ amazon-ecs
 amb
 anaphora
 ansi-escape
+ansi-test-harness
 antik
 antik-base
 anypool
@@ -583,6 +584,7 @@ cl-opencl
 cl-opencl-utils
 cl-opengl
 cl-opensearch-query-builder
+cl-opentelemetry
 cl-opsresearch
 cl-opus
 cl-org-mode
@@ -970,6 +972,7 @@ elb-log
 electron-tools
 elf
 enchant
+enhanced-unwind-protect
 envy
 eos
 epigraph
@@ -1584,6 +1587,7 @@ ospm
 overlord
 oxenfurt
 pack
+package-doc-dump
 package-renaming
 packet
 packet-crafting
@@ -1704,6 +1708,7 @@ prove
 prove-asdf
 pseudonyms
 psychiq
+ptc
 punycode
 purgatory
 puri
@@ -2023,6 +2028,7 @@ trivial-continuation
 trivial-coverage
 trivial-custom-debugger
 trivial-debug-console
+trivial-deprecate
 trivial-do
 trivial-documentation
 trivial-download
