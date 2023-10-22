@@ -736,6 +736,7 @@ cl-trie
 cl-tui
 cl-tulip-graph
 cl-tuples
+cl-turbojpeg
 cl-twitter
 cl-typesetting
 cluffer
@@ -1156,6 +1157,7 @@ herodotus
 hh-aws
 hh-redblack
 hh-web
+hiccl
 history-tree
 hl7-client
 hl7-parser
