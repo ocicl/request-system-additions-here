@@ -26,6 +26,7 @@ action-list
 adhoc
 adopt
 adp
+adp-plain
 advanced-readtable
 agnostic-lizard
 agutil
@@ -723,6 +724,7 @@ cl-termbox
 cl-tetris3d
 cl-textmagic
 cl-tga
+cl-theora
 cl-tidy
 cl-tiled
 cl-tk
@@ -1201,6 +1203,7 @@ hunchentoot-cgi
 hunchentoot-errors
 hunchentoot-multi-acceptor
 hunchentoot-single-signon
+hunchentoot-stuck-connection-monitor
 hyperlattices
 hyperspec
 ia-hash-table
