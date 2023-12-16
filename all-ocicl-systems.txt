@@ -26,6 +26,7 @@ action-list
 adhoc
 adopt
 adp
+adp-github
 adp-plain
 advanced-readtable
 agnostic-lizard
@@ -556,7 +557,10 @@ cl-murmurhash
 cl-mustache
 cl-myriam
 cl-mysql
+cl-naive-deprecation
+cl-naive-ptrees
 cl-naive-store
+cl-naive-tests
 cl-neovim
 cl-netstring_plus
 cl-netstrings
@@ -639,6 +643,7 @@ cl-random-forest
 cl-raylib
 cl-rdfxml
 cl-readline
+cl-reddit
 cl-redis
 cl-reexport
 cl-replica
@@ -833,6 +838,7 @@ console
 constantfold
 contextl
 context-lite
+convex-covering
 convolution-kernel
 copy-directory
 core-reader
@@ -1379,6 +1385,7 @@ ltk
 luckless
 lw-compat
 lzlib
+machine-state
 macrodynamics
 macro-html
 madeira-port
@@ -1528,6 +1535,7 @@ nxt-proxy
 nyaml
 nytpu.lisp-utils
 nyxt
+ocicl-manage
 ocicl-sandbox
 oclcl
 odesk
@@ -1630,6 +1638,7 @@ path-string
 patron
 pcall
 pcall-queue
+peltadot
 peppol
 percent-encoding
 perceptual-hashes
@@ -1673,6 +1682,7 @@ plump-tex
 png
 pngload
 png-read
+point-polygon
 poler
 policy-cond
 polisher
@@ -1697,6 +1707,7 @@ print-html
 print-licenses
 printv
 priority-queue
+privacy-output-stream
 proc-parse
 prometheus
 prometheus.collectors.process
@@ -1744,6 +1755,7 @@ queues.priority-queue
 queues.simple-cqueue
 queues.simple-queue
 quickapp
+quickhull
 quicklisp-stats
 quick-patch
 quickproject
@@ -2005,6 +2017,7 @@ toot
 tooter
 towers
 trace-db
+tracer
 trainable-object
 transducers
 translate
@@ -2143,6 +2156,8 @@ utils-kt
 utm
 utm-ups
 uuid
+vacietis
+vacietis.vcc
 validate-list
 vas-string-metrics
 vecto
