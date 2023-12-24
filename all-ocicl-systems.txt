@@ -112,6 +112,7 @@ binfix
 binomial-heap
 binpack
 birch
+bitcoin-rpc
 bitfield
 bitfield-schema
 bitio
@@ -460,6 +461,7 @@ cl-isaac
 clite
 cl-iterative
 cl-itertools
+clith
 clj
 clj-con
 cl-jpeg
@@ -1370,6 +1372,7 @@ local-package-aliases
 local-time
 local-time-duration
 log4cl
+log4cl-extras
 log5
 logv
 loop-continue
@@ -1519,6 +1522,7 @@ ningle
 njson
 nkeymaps
 nodgui
+noisy
 north
 north-core
 north-dexador
@@ -1549,6 +1553,7 @@ openapi-generator
 openapi-parser
 openid-key
 open-location-code
+openrpc-client
 open-vrp
 open-vrp-lib
 ops5
@@ -1709,6 +1714,7 @@ printv
 priority-queue
 privacy-output-stream
 proc-parse
+progressons
 prometheus
 prometheus.collectors.process
 prometheus.collectors.sbcl
@@ -2206,6 +2212,7 @@ with-branching
 with-cached-reader-conditionals
 with-contexts
 with-c-syntax
+with-output-to-stream
 with-user-abort
 woo
 wookie
