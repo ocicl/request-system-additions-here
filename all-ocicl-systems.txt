@@ -186,10 +186,12 @@ cl-aa
 cl-aa-misc
 clache
 clack
+clack-cors
 clack-handler-hunchentoot
 clack-handler-toot
 clack-handler-wookie
 clack-pretend
+clack-prometheus
 clack-socket
 clack-static-asset-middleware
 cl-acronyms
@@ -1291,7 +1293,9 @@ kl-verify
 kons-9
 laap
 lack
+lack-component
 lack-middleware-backtrace
+lack-middleware-mount
 lack-request
 lack-response
 lack-util
@@ -1554,6 +1558,7 @@ openapi-parser
 openid-key
 open-location-code
 openrpc-client
+openrpc-server
 open-vrp
 open-vrp-lib
 ops5
@@ -1720,6 +1725,7 @@ prometheus.collectors.process
 prometheus.collectors.sbcl
 prometheus.exposers.hunchentoot
 prometheus.formats.text
+prometheus-gc
 prometheus.pushgateway
 promise
 prompter
