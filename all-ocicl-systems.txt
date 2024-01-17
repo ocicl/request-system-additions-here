@@ -465,6 +465,7 @@ cl-iterative
 cl-itertools
 clith
 clj
+clj-arrows
 clj-con
 cl-jpeg
 clj-re
@@ -789,6 +790,7 @@ clws
 clx
 cl-xkb
 cl-xkeysym
+cl-xmlspam
 cl-xul
 cl-yahoo-finance
 cl-yaml
@@ -798,6 +800,7 @@ cmd
 cmu-infix
 coalton
 codata-recommended-values
+codex
 coleslaw
 collectors
 colliflower
@@ -896,6 +899,7 @@ dbd-posgres
 dbd-postgres
 dbd-sqlite3
 dbi
+dbus
 dct
 decimals
 deeds
@@ -1527,6 +1531,7 @@ njson
 nkeymaps
 nodgui
 noisy
+nontrivial-gray-streams
 north
 north-core
 north-dexador
@@ -1916,6 +1921,7 @@ slynk
 slynk-asdf
 smackjack
 smart-buffer
+smoothers
 smug
 snakes
 snark-auxiliary-packages
