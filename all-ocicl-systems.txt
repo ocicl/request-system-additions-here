@@ -1715,6 +1715,7 @@ pounds
 ppath
 pp-toml
 prbs
+pregexp
 prettier-builtins
 pretty-function
 primecount
