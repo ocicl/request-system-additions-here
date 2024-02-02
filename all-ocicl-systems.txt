@@ -794,6 +794,7 @@ cl-xmlspam
 cl-xul
 cl-yahoo-finance
 cl-yaml
+cl-yesql
 cl-zipper
 cmake-parser
 cmd
@@ -891,6 +892,7 @@ dataloader
 datamuse
 data-sift
 data-table
+data-table-clsql
 date-calc
 datum-comments
 db3
@@ -2119,6 +2121,7 @@ trivial-tco
 trivial-thumbnail
 trivial-timeout
 trivial-timer
+trivial-toplevel-commands
 trivial-toplevel-prompt
 trivial-types
 trivial-update
