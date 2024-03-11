@@ -35,6 +35,7 @@ ahungry-fleece
 alexandria
 alexandria_plus
 algebraic-data-library
+allioli
 also-alsa
 amazon-ecs
 amb
@@ -489,6 +490,7 @@ cl-l10n
 cl-l10n-cldr
 cl-lambdacalc
 cl-las
+cl-lc
 cl-ledger
 cl-lex
 cl-lexer
@@ -1262,6 +1264,7 @@ iolib
 iolib.asdf
 iolib.common-lisp
 iolib.conf
+ip-management
 ironclad
 ironclad-text
 issr
@@ -1869,6 +1872,7 @@ rail
 random
 random-access-lists
 random-sample
+random-sampling
 random-state
 random-uuid
 rate-monotonic
@@ -2123,6 +2127,7 @@ trace-db
 tracer
 trainable-object
 transducers
+transit
 translate
 translate-client
 transparent-wrap
@@ -2130,6 +2135,8 @@ treedb
 trees
 trestrul
 trial
+trial-assets
+trial-workbench
 trivia
 trivia.balland2006
 trivia.cffi
@@ -2199,6 +2206,7 @@ trivial-shell
 trivial-signal
 trivial-sockets
 trivial-ssh
+trivial-system-loader
 trivial-tco
 trivial-thumbnail
 trivial-timeout
