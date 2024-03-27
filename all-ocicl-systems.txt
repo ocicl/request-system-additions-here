@@ -37,6 +37,7 @@ alexandria_plus
 algebraic-data-library
 allioli
 also-alsa
+alternate-asdf-system-connections
 amazon-ecs
 amb
 anaphora
@@ -173,6 +174,7 @@ chillax
 chipz
 chirp
 chlorophyll
+chroma
 chrome-native-messaging
 chronicity
 chtml-matcher
@@ -805,6 +807,7 @@ cmake-parser
 cmd
 cmu-infix
 coalton
+cocoas
 codata-recommended-values
 codex
 coleslaw
@@ -839,6 +842,7 @@ common-lisp-jupyter
 common-tones
 com-on
 compiler-macro-notes
+completions
 computable-reals
 concrete-syntax-tree
 concrete-syntax-tree-base
@@ -995,6 +999,7 @@ edit-distance
 elb-log
 electron-tools
 elf
+embeddings
 enchant
 enhanced-unwind-protect
 envy
@@ -1644,6 +1649,7 @@ omg
 one-more-re-nightmare
 ook
 oook
+openai
 openapi-generator
 openapi-parser
 openid-key
