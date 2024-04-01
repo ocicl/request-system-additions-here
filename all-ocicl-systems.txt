@@ -819,6 +819,7 @@ com.clearly-useful.generic-collection-interface
 com.clearly-useful.iterate_plus
 com.clearly-useful.iterator-protocol
 com.clearly-useful.protocols
+com.djhaskin.nrdl
 com.elbeno.curve
 com.elbeno.vector
 com.gigamonkeys.binary-data
