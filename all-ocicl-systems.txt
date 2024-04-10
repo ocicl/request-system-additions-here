@@ -167,6 +167,7 @@ chameleon
 changed-stream
 chanl
 charje.documentation
+chat
 check-bnf
 check-it
 checkl
@@ -1273,6 +1274,7 @@ iolib.conf
 ip-management
 ironclad
 ironclad-text
+isolated
 issr
 issr-core
 iterate
@@ -1550,6 +1552,8 @@ mito-auth
 mixalot
 mk-defsystem
 mk-string-metrics
+mlep
+mlep-add
 mmap
 mnas-graph
 mnas-hash-table
@@ -1845,6 +1849,7 @@ py4cl
 py4cl2-cffi
 py-configparser
 pythonic-string-reader
+python-venv
 pzmq
 qbase64
 qbook
@@ -2117,6 +2122,7 @@ testiere
 test-utils
 texp
 textery
+text-splitter
 the-cost-of-nothing
 thorn
 thread.comm.rendezvous
@@ -2308,6 +2314,7 @@ wallstreetflets
 wasm-encoder
 water
 webapi
+web-chat
 websocket-driver
 websocket-driver-client
 websocket-driver-server
