@@ -588,6 +588,7 @@ clog
 clog-ace
 clog-collection
 clog-plotly
+clog_slash_tools
 clog-terminal
 cl-ohm
 clohost
@@ -661,6 +662,7 @@ cl-redis
 cl-reexport
 cl-replica
 cl-resect
+cl-resvg
 cl-rethinkdb
 cl-rfc2047
 cl-rfc4251
@@ -1048,6 +1050,7 @@ fare-utils
 fast-generic-functions
 fast-http
 fast-io
+fast-mpsc-queue
 fast-websocket
 feeder
 femlisp
@@ -1480,6 +1483,7 @@ loop-continue
 lorem-ipsum
 lowlight
 lparallel
+lqn
 lquery
 lredis
 lru-cache
@@ -1773,6 +1777,7 @@ phoe-toolbox
 phos
 physical-dimension
 physical-quantities
+piccolo
 picl
 piggyback-parameters
 pileup
