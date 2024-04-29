@@ -325,6 +325,7 @@ cl-coinpayments
 cl-collider
 cl-colors
 cl-colors2
+cl-concord
 cl-conspack
 cl-cont
 cl-containers
@@ -608,6 +609,7 @@ cl-opsresearch
 cl-opus
 cl-org-mode
 clos-diff
+clos-encounters
 closer-mop
 clos-fixtures
 closure-common
