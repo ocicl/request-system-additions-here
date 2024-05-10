@@ -192,6 +192,7 @@ cl-aa-misc
 clache
 clack
 clack-cors
+clack-errors
 clack-handler-hunchentoot
 clack-handler-toot
 clack-handler-wookie
@@ -332,6 +333,7 @@ cl-containers
 cl-cookie
 cl-coroutine
 cl-coveralls
+cl-covid19
 cl-cpus
 cl-cram
 cl-crc64
@@ -800,6 +802,7 @@ cl-wol.core
 cl-wordcut
 clws
 clx
+cl-xdg
 cl-xkb
 cl-xkeysym
 cl-xmlspam
@@ -809,6 +812,7 @@ cl-yaml
 cl-yesql
 cl-zipper
 cmake-parser
+cmark
 cmd
 cmu-infix
 coalton
@@ -1031,6 +1035,7 @@ evol
 exit-hooks
 exponential-backoff
 ext-blog
+extended-comma
 extended-reals
 extensible-compound-types
 extensible-compound-types-cl
@@ -1554,6 +1559,7 @@ mini-cas
 minilem
 misc-extensions
 mito
+mito-attachment
 mito-auth
 mixalot
 mk-defsystem
@@ -1653,6 +1659,8 @@ nyxt
 ocicl-manage
 ocicl-sandbox
 oclcl
+oct
+octi
 odesk
 oe-encode
 olc
@@ -1820,6 +1828,7 @@ ppath
 pp-toml
 prbs
 pregexp
+prepl
 prettier-builtins
 pretty-function
 primecount
@@ -2229,6 +2238,7 @@ trivial-ssh
 trivial-system-loader
 trivial-tco
 trivial-thumbnail
+trivial-time
 trivial-timeout
 trivial-timer
 trivial-toplevel-commands
