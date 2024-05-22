@@ -148,6 +148,7 @@ caveman2
 caveman2-db
 caveman2-widgets
 caveman2-widgets-bootstrap
+cbor
 ccl-compat
 ccldoc
 ceigen-lite
@@ -155,6 +156,7 @@ cells
 cephes
 ceramic
 cerberus
+cf
 cffi
 cffi-grovel
 cffi-libffi
@@ -1257,6 +1259,9 @@ image
 imago
 immutable-struct
 incf-cl
+incless
+incless-extrinsic
+incless-native
 incongruent-methods
 inferior-shell
 infix-dollar-reader
@@ -1270,6 +1275,11 @@ in-nomine
 inotify
 input-event-codes
 inquisitor
+inravina
+inravina-examples
+inravina-extrinsic
+inravina-native
+inravina-shim
 instance-tracking
 integral
 integral-rest
@@ -1277,6 +1287,9 @@ intel-hex
 intercom
 interface
 introspect-environment
+invistra
+invistra-extrinsic
+invistra-numeral
 iolib
 iolib.asdf
 iolib.common-lisp
@@ -1928,6 +1941,7 @@ restas.file-publisher
 restful
 restricted-functions
 retrospectiff
+rexxparse
 rfc2109
 rfc2388
 rfc2388-binary
