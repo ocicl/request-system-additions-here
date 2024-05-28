@@ -276,6 +276,7 @@ cl-aristid
 cl-arxiv-api
 cl-ascii-art
 cl-ascii-table
+cl-aseprite
 cl-association-rules
 classowary
 cl-async
@@ -1184,6 +1185,7 @@ grovel-locally
 grph
 gsll
 gt
+gtfl
 gtwiwtg
 gtype
 gute
