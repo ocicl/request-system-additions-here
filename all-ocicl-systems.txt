@@ -36,6 +36,18 @@ alexandria
 alexandria_plus
 algebraic-data-library
 allioli
+alloy
+alloy-animation
+alloy-constraint
+alloy-examples
+alloy-markless
+alloy-opengl
+alloy-opengl-fond
+alloy-opengl-msdf
+alloy-opengl-png
+alloy-simple
+alloy-simple-presentations
+alloy-windowing
 also-alsa
 alternate-asdf-system-connections
 amazon-ecs
@@ -656,6 +668,7 @@ cl-project
 cl-prolog2
 cl-punch
 clpython
+cl-qoa
 cl-qprint
 cl-qrencode
 cl-quickcheck
@@ -1108,6 +1121,7 @@ fork-future
 format-string-builder
 form-fiddle
 formlets
+fosc
 fprog
 fred
 freesound
@@ -1171,6 +1185,7 @@ glsl-packing
 glsl-toolkit
 glu-tessellate
 glyphs
+golden-utils
 gooptest
 graph
 gravatar
@@ -1208,6 +1223,7 @@ hl7-parser
 horner
 horse-html
 house
+hsx
 html-encode
 html-entities
 html-template
@@ -1842,6 +1858,7 @@ pounds
 ppath
 pp-toml
 prbs
+precise-time
 pregexp
 prepl
 prettier-builtins
@@ -1983,6 +2000,7 @@ scriba
 scribble
 scriptl
 scriptl-util
+sdf
 sdl2
 sdl2-image
 sdl2kit
@@ -2222,6 +2240,7 @@ trivial-http
 trivialib.bdd
 trivialib.type-unify
 trivial-indent
+trivial-inspect
 trivial-inspector-hook
 trivial-irc
 trivial-json-codec
