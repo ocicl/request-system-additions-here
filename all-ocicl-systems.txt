@@ -186,6 +186,7 @@ check-bnf
 check-it
 checkl
 chillax
+chipi
 chipz
 chirp
 chlorophyll
@@ -407,6 +408,7 @@ cl-fluiddb
 cl-fond
 cl-forms
 cl-form-types
+cl-forward-diff
 cl-freetype2
 cl-fsnotify
 clfswm
@@ -844,6 +846,7 @@ com.clearly-useful.generic-collection-interface
 com.clearly-useful.iterate_plus
 com.clearly-useful.iterator-protocol
 com.clearly-useful.protocols
+com.danielkeogh.graph
 com.djhaskin.nrdl
 com.elbeno.curve
 com.elbeno.vector
@@ -1142,6 +1145,7 @@ fuzzy-dates
 fuzzy-match
 fxml
 gadgets
+gapi
 garbage-pools
 gcm
 geco
@@ -1165,6 +1169,7 @@ generic-sequences
 geneva
 genhash
 geodesic
+geonames
 geowkt
 getopt
 gettext
@@ -1226,6 +1231,7 @@ house
 hsx
 html-encode
 html-entities
+html-inspector-views
 html-template
 ht-simple-ajax
 http2
@@ -1351,6 +1357,7 @@ khazern-extrinsic
 khazern-intrinsic
 khazern-sequence-intrinsic
 kl-verify
+knx-conn
 kons-9
 laap
 lack
@@ -1620,6 +1627,7 @@ moptilities
 mop-utils
 more-cffi
 more-conditions
+more-docstrings
 mp3-duration
 mpc
 mra-wavelet-plot
@@ -1769,6 +1777,7 @@ parachute
 parameterized-function
 paren6
 paren-files
+paren-jquery
 parenml
 parenscript
 paren-test
@@ -1796,6 +1805,7 @@ patron
 pcall
 pcall-queue
 peltadot
+pem
 peppol
 percent-encoding
 perceptual-hashes
@@ -1820,6 +1830,7 @@ physical-dimension
 physical-quantities
 piccolo
 picl
+picolens
 piggyback-parameters
 pileup
 piping
@@ -2204,6 +2215,7 @@ trivia
 trivia.balland2006
 trivia.cffi
 trivia.fset
+trivial-adjust-simple-array
 trivial-arguments
 trivial-backtrace
 trivial-battery
