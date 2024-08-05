@@ -24,6 +24,7 @@ acclimation
 a-cl-logger
 action-list
 adhoc
+adjuvant
 adopt
 adp
 adp-github
@@ -292,6 +293,7 @@ cl-ascii-table
 cl-aseprite
 cl-association-rules
 classowary
+cl-astar
 cl-async
 cl-async-await
 cl-async-future
@@ -625,6 +627,7 @@ cl-opengl
 cl-opensearch-query-builder
 cl-opentelemetry
 cl-opsresearch
+cl-optim
 cl-opus
 cl-org-mode
 clos-diff
@@ -690,6 +693,8 @@ cl-rfc2047
 cl-rfc4251
 cl-riff
 cl-rlimit
+cl-robdd
+cl-rocksdb
 cl-rrt
 cl-rules
 cl-s3
@@ -960,6 +965,10 @@ defvariant
 delorean
 delta-debug
 de-mock-racy
+dense-arrays
+dense-arrays-plus
+dense-arrays-plus-lite
+dense-numericals
 deoxybyte-gzip
 deoxybyte-io
 deoxybyte-systems
@@ -973,6 +982,7 @@ destructuring-bind-star
 dexador
 dfio
 diff
+dispatch
 disposable
 dissect
 distributions
@@ -1505,6 +1515,7 @@ lisp-pay
 lisp-preprocessor
 lispqr
 lisp-stat
+lisp-types
 lisp-unit
 lisp-unit2
 list-named-class
@@ -1655,6 +1666,7 @@ native-lazy-seq
 nbd
 nclasses
 ndebug
+ndfa
 net.didierverna.asdf-flv
 net.didierverna.clon
 net.didierverna.focus
@@ -1688,6 +1700,7 @@ nsymbols
 nuclblog
 null-package
 numcl
+numericals
 numpy-file-format
 num-utils
 nxt
@@ -1708,6 +1721,7 @@ one-more-re-nightmare
 ook
 oook
 openai
+openai-openapi-client
 openapi-generator
 openapi-parser
 openid-key
@@ -1905,6 +1919,7 @@ puri
 purl
 pvars
 py4cl
+py4cl2
 py4cl2-cffi
 py-configparser
 pythonic-string-reader
@@ -1952,6 +1967,7 @@ ratmath
 re
 read-as-string
 read-csv
+reader
 reader-interception
 read-number
 rectangle-packing
@@ -1984,6 +2000,8 @@ rpm
 rs-colors
 rs-json
 rt
+rte
+rte-regexp
 rt-events
 rucksack
 rutils
@@ -2011,6 +2029,7 @@ scriba
 scribble
 scriptl
 scriptl-util
+scrutiny
 sdf
 sdl2
 sdl2-image
