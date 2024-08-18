@@ -76,6 +76,7 @@ array-utils
 arrival
 arrow-macros
 arrows
+asdf
 asdf-dependency-graph
 asdf-dependency-grovel
 asdf-encodings
@@ -219,6 +220,7 @@ clack-static-asset-middleware
 cl-acronyms
 cl-actors
 cl-advice
+cl-airtable
 cl-algebraic-data-type
 cl-all
 cl-ana
@@ -1936,6 +1938,7 @@ quad-tree
 quadtree
 quantile-estimator
 quasiquote-2.0
+quaviver
 queen
 query-fs
 query-repl
@@ -2116,6 +2119,7 @@ softdrink
 software-evolution-library
 solid-engine
 south
+sparser
 sparse-set
 spatial-trees
 special-functions
