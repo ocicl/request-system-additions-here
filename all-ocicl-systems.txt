@@ -836,6 +836,7 @@ cl-yahoo-finance
 cl-yaml
 cl-yesql
 cl-zipper
+cm
 cmake-parser
 cmark
 cmd
@@ -2098,6 +2099,7 @@ sketch-examples
 skippy
 skippy-renderer
 slack-client
+slippery-chicken
 slite
 slot-extra-options
 slot-map
