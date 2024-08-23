@@ -152,6 +152,7 @@ bytecurry.asdf-ext
 bytecurry.mocks
 cache-while
 cacle
+calendar-times
 calispel
 calm
 cambl
@@ -551,6 +552,7 @@ cl-mediawiki
 cl-memcached
 cl-messagepack
 cl-messagepack-rpc
+cl-midictl
 cl-migemo
 cl-migratum
 cl-mime
@@ -611,6 +613,7 @@ clods-export
 clog
 clog-ace
 clog-collection
+clog-dsp-widgets
 clog-plotly
 clog_slash_tools
 clog-terminal
@@ -687,6 +690,7 @@ cl-readline
 cl-reddit
 cl-redis
 cl-reexport
+cl-refs
 cl-replica
 cl-resect
 cl-resvg
@@ -840,6 +844,7 @@ cm
 cmake-parser
 cmark
 cmd
+cm-fomus
 cmu-infix
 coalton
 cocoas
@@ -912,6 +917,7 @@ csv-parser
 csv-validator
 ctype
 cubic-bezier
+cudere-clm
 cue-parser
 curly
 curry-compose-reader-macros
@@ -1130,6 +1136,7 @@ fn
 fof
 folio
 folio2
+fomus
 font-discovery
 for
 foreign-array
@@ -1300,6 +1307,11 @@ incless
 incless-extrinsic
 incless-native
 incongruent-methods
+incudine
+incudine-fluidsynth
+incudine-ladspa
+incudine-lv2
+incudine-snd
 inferior-shell
 infix-dollar-reader
 infix-math
@@ -1774,6 +1786,7 @@ org.tfeb.tools.install-providers
 org.tfeb.tools.require-module
 origin
 orizuru-orm
+orm-utils
 osc
 osh-autodoc-base
 osh-autodoc-pdf
@@ -2167,6 +2180,7 @@ stumpwm
 stumpwm-dynamic-float
 stumpwm-sndioctl
 s-utils
+svg-import-export
 swank
 swank-client
 swank-crew
