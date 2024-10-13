@@ -413,6 +413,7 @@ cl-fluiddb
 cl-fond
 cl-forms
 cl-form-types
+cl-forth
 cl-forward-diff
 cl-freetype2
 cl-fsnotify
@@ -732,6 +733,7 @@ cl-slugify
 cl-smt-lib
 cl-smtp
 cl-soloud
+cl-source-map
 cl-spark
 cl-sparql
 cl-speedy-queue
@@ -885,6 +887,7 @@ common-tones
 com-on
 compiler-macro-notes
 completions
+compression-cache
 computable-reals
 concrete-syntax-tree
 concrete-syntax-tree-base
@@ -1071,6 +1074,7 @@ event-glue
 everblocking-stream
 evol
 exit-hooks
+expanders
 exponential-backoff
 ext-blog
 extended-comma
@@ -1103,6 +1107,7 @@ ffa
 fft
 fiasco
 file-attributes
+file-finder
 file-local-variable
 file-lock
 file-notify
@@ -1128,6 +1133,7 @@ floating-point
 floating-point-contractions
 flow
 flute
+flx
 fmarshal
 fmcs
 fmt
@@ -1387,9 +1393,11 @@ kons-9
 laap
 lack
 lack-component
+lack-compression-cache
 lack-middleware-backtrace
 lack-middleware-mount
 lack-request
+lack-rerouter
 lack-response
 lack-util
 lake
@@ -1541,6 +1549,7 @@ literate-lisp
 litterae
 livesupport
 lla
+llama
 l-math
 lmdb
 local-package-aliases
@@ -1745,6 +1754,7 @@ openrpc-client
 openrpc-server
 open-vrp
 open-vrp-lib
+open-with
 ops5
 opticl
 opticl-core
@@ -2015,6 +2025,7 @@ routes
 rove
 rpm
 rs-colors
+rs-dlx
 rs-json
 rt
 rte
@@ -2387,6 +2398,7 @@ uuid
 vacietis
 vacietis.vcc
 validate-list
+valtan
 vas-string-metrics
 vecto
 vectors
