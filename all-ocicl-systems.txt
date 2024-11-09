@@ -389,6 +389,7 @@ cl-durian
 cl-earley-parser
 cl-egl
 cl-elastic
+cl-electron
 clem
 cl-emacs-if
 cl-emb
@@ -525,6 +526,7 @@ cl-lex
 cl-lexer
 cl-liballegro
 cl-liballegro-nuklear
+cl-libre-translate
 cl-libsvm-format
 cl-libuv
 cl-libuv-config
@@ -707,6 +709,7 @@ cl-rules
 cl-s3
 cl-sam
 cl-sandbox
+cl-sasl
 cl-sat
 cl-sat.glucose
 cl-sat.minisat
@@ -837,6 +840,7 @@ cl-xdg
 cl-xkb
 cl-xkeysym
 cl-xmlspam
+cl-xmpp
 cl-xul
 cl-yahoo-finance
 cl-yaml
@@ -904,6 +908,7 @@ convex-covering
 convolution-kernel
 copy-directory
 core-reader
+cosmo-pagination
 cover
 cqlcl
 crane
@@ -1693,6 +1698,7 @@ ndebug
 ndfa
 net.didierverna.asdf-flv
 net.didierverna.clon
+net.didierverna.clon.core
 net.didierverna.focus
 net.didierverna.focus.core
 net.didierverna.focus.demos.quotation
@@ -2130,6 +2136,7 @@ slot-map
 slynk
 slynk-asdf
 smackjack
+smallnet
 smart-buffer
 smoothers
 smug
@@ -2232,8 +2239,10 @@ testbild
 testiere
 test-utils
 texp
+text-draw
 textery
 text-splitter
+tftp
 the-cost-of-nothing
 thorn
 thread.comm.rendezvous
