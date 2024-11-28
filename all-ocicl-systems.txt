@@ -689,6 +689,7 @@ cl-randist
 cl-random-forest
 cl-raylib
 cl-rdfxml
+cl-rdkafka
 cl-readline
 cl-reddit
 cl-redis
@@ -1510,6 +1511,7 @@ lfarm-gss
 lfarm-launcher
 lfarm-server
 lfarm-ssl
+lftp-wrapper
 lhstats
 lib-helper
 liblmdb
@@ -2234,6 +2236,7 @@ temporal-functions
 temporary-file
 ten
 terminfo
+termp
 terrable
 testbild
 testiere
