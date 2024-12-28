@@ -144,6 +144,7 @@ bobbin
 bodge-memory
 bodge-utilities
 bordeaux-threads
+brake
 bst
 btrie
 bt-semaphore
@@ -340,6 +341,7 @@ cl-cffi-gtk
 cl-change-case
 cl-charms
 cl-cheshire-cat
+cl-chise
 cl-clblas
 cl-cli
 cl-cognito
@@ -371,6 +373,7 @@ cl-darksky
 cl-data-structures
 cl-date-time-parser
 cl-dbi
+cl-dbi-connection-pool
 cl-debug-print
 cl-dejavu
 cl-diceware
@@ -424,6 +427,7 @@ cl-fuse-meta-fs
 cl-fuzz
 cl-fxml
 cl-gamepad
+cl-ganzhi
 cl-gap-buffer
 cl-gbm
 cl-gcrypt
@@ -542,6 +546,11 @@ cl-m4
 cl-mango
 cl-markdown
 cl-markless
+cl-markless-epub
+cl-markless-latex
+cl-markless-markdown
+cl-markless-plump
+cl-markless-standalone
 cl-marklogic
 cl-markup
 cl-match
@@ -867,6 +876,7 @@ com.clearly-useful.iterate_plus
 com.clearly-useful.iterator-protocol
 com.clearly-useful.protocols
 com.danielkeogh.graph
+com.djhaskin.cliff
 com.djhaskin.nrdl
 com.elbeno.curve
 com.elbeno.vector
@@ -1014,6 +1024,7 @@ docs-builder
 docs-config
 documentation-utils
 documentation-utils-extensions
+docutils
 donuts
 dotenv
 doubly-linked-list
@@ -1130,6 +1141,7 @@ fiveam-asdf
 fiveam-matchers
 fixed
 flac-metadata
+flac-metadata-bindings
 flare
 flat-tree
 flexichain
@@ -2116,6 +2128,7 @@ simple-date
 simple-date-time
 simple-finalizer
 simple-inferiors
+simple-matrix
 simple-neural-network
 simple-parallel-tasks
 simple-rgb
@@ -2174,7 +2187,14 @@ sse-server
 s-sql
 s-sysdeps
 staple
+staple-code-parser
+staple-markdown
+staple-markless
+staple-package-recording
+staple-restructured-text
+staple-server
 stars
+stateless-iterators
 static-dispatch
 static-vectors
 statistics
