@@ -378,6 +378,8 @@ cl-debug-print
 cl-dejavu
 cl-diceware
 cl-difflib
+cl-digraph
+cl-digraph.dot
 cl-diskspace
 cl-disque
 cl-djula-svg
@@ -1730,6 +1732,7 @@ nhooks
 nibbles
 nibbles-streams
 ningle
+ningle-fbr
 njson
 nkeymaps
 nodgui
