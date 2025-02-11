@@ -321,6 +321,7 @@ cl-base64
 cl-bayesnet
 cl-bcrypt
 cl-beanstalk
+cl-binary-store
 cl-bip39
 cl-bloggy
 cl-bloom
@@ -507,6 +508,7 @@ clj
 clj-arrows
 clj-con
 cl-jpeg
+cl-jquants-api
 clj-re
 cl-js
 cl-json
@@ -1594,6 +1596,7 @@ ltk
 luckless
 lw-compat
 lzlib
+machine-measurements
 machine-state
 macrodynamics
 macro-html
