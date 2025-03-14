@@ -318,6 +318,7 @@ cl-base16
 cl-base32
 cl-base58
 cl-base64
+cl-batis
 cl-bayesnet
 cl-bcrypt
 cl-beanstalk
@@ -350,6 +351,7 @@ cl-coinpayments
 cl-collider
 cl-colors
 cl-colors2
+cl-colors-ng
 cl-concord
 cl-conspack
 cl-cont
@@ -1515,6 +1517,7 @@ lem-welcome
 lem-xml-mode
 lem-yaml-mode
 lense
+lesspass
 let-over-lambda
 let-plus
 letrec
@@ -1560,6 +1563,7 @@ lisp-namespace
 lisp-pay
 lisp-preprocessor
 lispqr
+lisp-sentry
 lisp-stat
 lisp-types
 lisp-unit
@@ -1647,6 +1651,7 @@ mgl
 mgl-mat
 mgl-pax
 mgl-pax.asdf
+mgl-pax-bootstrap
 mgrs
 micmac
 micros
