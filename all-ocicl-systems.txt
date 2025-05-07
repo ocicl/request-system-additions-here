@@ -15,6 +15,7 @@
 40ants-asdf-system
 40ants-ci
 40ants-doc
+40ants-routes
 able
 abnf
 abstract-arrays
@@ -30,6 +31,7 @@ adp
 adp-github
 adp-plain
 advanced-readtable
+affinity
 agnostic-lizard
 agutil
 ahungry-fleece
@@ -295,6 +297,7 @@ cl-arxiv-api
 cl-ascii-art
 cl-ascii-table
 cl-aseprite
+classimp
 cl-association-rules
 classowary
 cl-astar
@@ -1148,6 +1151,7 @@ fiveam-matchers
 fixed
 flac-metadata
 flac-metadata-bindings
+flamegraph
 flare
 flat-tree
 flexichain
@@ -1399,6 +1403,7 @@ json-streams
 jsown
 jsown-utils
 js-parser
+jupyter-lab-extension
 just-getopt-parser
 jwacs
 kanren-trs
@@ -1598,6 +1603,7 @@ lsx
 l-system
 ltk
 luckless
+lunamech-matrix-api
 lw-compat
 lzlib
 machine-measurements
@@ -1720,6 +1726,7 @@ nbd
 nclasses
 ndebug
 ndfa
+netaddr
 net.didierverna.asdf-flv
 net.didierverna.clon
 net.didierverna.clon.core
@@ -1736,6 +1743,7 @@ network-addresses
 neural-classifier
 new-op
 nfiles
+ngl-clj
 nhooks
 nibbles
 nibbles-streams
@@ -1780,6 +1788,7 @@ openai-openapi-client
 openapi-generator
 openapi-parser
 openid-key
+openldk
 open-location-code
 openrpc-client
 openrpc-server
@@ -1846,6 +1855,7 @@ pango-markup
 papyrus
 parachute
 parameterized-function
+parcom
 paren6
 paren-files
 paren-jquery
@@ -2095,6 +2105,7 @@ sdl2-image
 sdl2kit
 sdl2-mixer
 sdl2-ttf
+sdl3
 s-dot2
 sealable-metaobjects
 secp256k1
@@ -2106,6 +2117,7 @@ select-file
 selenium
 semantic-spinneret
 semz.decompress
+semz.minisign-verify
 sendgrid
 sento
 sentry-client
