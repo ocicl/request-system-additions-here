@@ -1654,6 +1654,7 @@ method-hooks
 mexpr
 mfiano-utils
 mgl
+mgl-gpr
 mgl-mat
 mgl-pax
 mgl-pax.asdf
@@ -1946,6 +1947,7 @@ posix-shm
 postmodern
 postmodernity
 postmodern-localtime
+postmodern-passenger-pigeon
 pounds
 ppath
 pp-toml
@@ -2144,6 +2146,7 @@ s-http-client
 s-http-server
 shuffletron
 si-kanren
+simpbin
 simple-actors
 simple-config
 simple-currency
