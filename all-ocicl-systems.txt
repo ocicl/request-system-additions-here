@@ -1643,6 +1643,8 @@ messagebox
 message-oo
 meta
 metabang-bind
+metacopy
+metacopy-with-contextl
 metalock
 metap
 meta-sexp
@@ -2027,6 +2029,7 @@ quux-time
 rail
 random
 random-access-lists
+random-noise
 random-sample
 random-sampling
 random-state
@@ -2040,6 +2043,7 @@ read-csv
 reader
 reader-interception
 read-number
+reblocks
 rectangle-packing
 recur
 recursive-regex
