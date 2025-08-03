@@ -15,6 +15,7 @@
 40ants-asdf-system
 40ants-ci
 40ants-doc
+40ants-mcp
 40ants-routes
 able
 abnf
@@ -38,6 +39,7 @@ ahungry-fleece
 alexandria
 alexandria_plus
 algebraic-data-library
+alien-ring
 allioli
 alloy
 alloy-animation
@@ -202,6 +204,7 @@ chronicity
 chtml-matcher
 chunga
 ciao
+ciel
 circular-streams
 city-hash
 ci-utils
@@ -342,7 +345,14 @@ cl-cache-tables
 cl-cairo2
 cl-case-control
 cl-catmull-rom-spline
+cl-cffi-cairo
+cl-cffi-gdk-pixbuf
+cl-cffi-glib
+cl-cffi-glib-init
+cl-cffi-graphene
 cl-cffi-gtk
+cl-cffi-gtk3
+cl-cffi-pango
 cl-change-case
 cl-charms
 cl-cheshire-cat
@@ -430,6 +440,7 @@ cl-forward-diff
 cl-freetype2
 cl-fsnotify
 clfswm
+cl-ftp
 cl-fuse
 cl-fuse-meta-fs
 cl-fuzz
@@ -742,6 +753,7 @@ cl-semver
 cl-sentiment
 cl-ses4
 cl-setlocale
+cl-sf3
 cl-sha1
 cl-shellwords
 cl-simple-concurrent-jobs
@@ -1190,6 +1202,7 @@ fset
 fsocket
 fsvd
 fs-watcher
+ftp
 functional-trees
 function-cache
 f-underscore
@@ -1247,6 +1260,7 @@ glyphs
 golden-utils
 gooptest
 graph
+graph-db
 gravatar
 graven-image
 graylex
@@ -1413,9 +1427,14 @@ kdtree-jk
 kebab
 kekule-clj
 kenzo
+khazern
+khazern-extension
+khazern-extension-extrinsic
+khazern-extension-intrinsic
 khazern-extrinsic
 khazern-intrinsic
 khazern-sequence-intrinsic
+kiln
 kl-verify
 knx-conn
 kons-9
@@ -1460,6 +1479,7 @@ lem-elisp-mode
 lem-elixir-mode
 lem-encodings
 lem-encodings-table
+lem-extension-manager
 lem/extensions
 lem-fake-interface
 lem-fbar
@@ -1733,6 +1753,9 @@ netaddr
 net.didierverna.asdf-flv
 net.didierverna.clon
 net.didierverna.clon.core
+net.didierverna.declt
+net.didierverna.declt.core
+net.didierverna.declt.setup
 net.didierverna.focus
 net.didierverna.focus.core
 net.didierverna.focus.demos.quotation
@@ -1774,6 +1797,7 @@ nxt-proxy
 nyaml
 nytpu.lisp-utils
 nyxt
+ocicl
 ocicl-manage
 ocicl-sandbox
 oclcl
@@ -1967,6 +1991,7 @@ priority-queue
 privacy-output-stream
 proc-parse
 progressons
+pro-lisp-critic
 prometheus
 prometheus.collectors.process
 prometheus.collectors.sbcl
@@ -2026,6 +2051,8 @@ quickutil
 quri
 quux-hunchentoot
 quux-time
+radiance
+radiance-core
 rail
 random
 random-access-lists
@@ -2044,6 +2071,8 @@ reader
 reader-interception
 read-number
 reblocks
+reblocks-parenscript
+reblocks-websocket
 rectangle-packing
 recur
 recursive-regex
@@ -2081,6 +2110,7 @@ rt-events
 rucksack
 rutils
 rutilsx
+rwlock
 rw-ut
 safe-queue
 safe-read
@@ -2099,6 +2129,7 @@ sc-extensions
 schannel
 scheduler
 science-data
+scrapycl
 screamer
 scriba
 scribble
@@ -2430,6 +2461,7 @@ uax-14
 uax-15
 uax-9
 ubiquitous
+ubiquitous-concurrent
 ucons
 ucw
 ucw-core
@@ -2474,6 +2506,7 @@ verbose
 vernacular
 verrazano
 verrazano-runtime
+version-string
 vertex
 vgplot
 vivid-colors
