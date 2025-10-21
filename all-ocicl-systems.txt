@@ -897,6 +897,7 @@ com.clearly-useful.iterate_plus
 com.clearly-useful.iterator-protocol
 com.clearly-useful.protocols
 com.danielkeogh.graph
+com.dieggsy.f-string
 com.djhaskin.cliff
 com.djhaskin.nrdl
 com.elbeno.curve
@@ -1599,9 +1600,11 @@ listoflist
 listopia
 literate-lisp
 litterae
+live-cells
 livesupport
 lla
 llama
+llog
 l-math
 lmdb
 local-package-aliases
@@ -2024,7 +2027,6 @@ pzmq
 qbase64
 qbook
 ql-checkout
-qlot
 qmynd
 qoi
 qt-libs
@@ -2354,6 +2356,7 @@ trestrul
 trial
 trial-assets
 trial-workbench
+trinsic
 trivia
 trivia.balland2006
 trivia.cffi
@@ -2389,6 +2392,7 @@ trivial-extract
 trivial-features
 trivial-file-size
 trivial-garbage
+trivial-glob
 trivial-gray-streams
 trivial-hashtable-serialize
 trivial-http
@@ -2452,6 +2456,7 @@ truetype-clx
 try
 tsqueue
 ttt
+tuition
 twfy
 type-i
 type-r
@@ -2528,6 +2533,7 @@ web-chat
 websocket-driver
 websocket-driver-client
 websocket-driver-server
+webview
 weft
 westbrook
 what3words
