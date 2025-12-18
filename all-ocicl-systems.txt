@@ -313,6 +313,7 @@ cl-autorepo
 cl-autowrap
 clavatar
 clavier
+cl-avro
 claw
 clawk
 claw-olm
@@ -402,6 +403,7 @@ cl-djula-svg
 cl-djula-tailwind
 cl-dot
 cl-dotenv
+cl-double-metaphone
 cl-drawille
 cl-drm
 cl-dropbox
@@ -417,6 +419,7 @@ cl-emb
 cl-emoji
 cl-env
 cl-environments
+cleopter
 clerk
 clesh
 cl-etcd
@@ -437,6 +440,7 @@ cl-forms
 cl-form-types
 cl-forth
 cl-forward-diff
+cl-freelock
 cl-freetype2
 cl-fsnotify
 clfswm
@@ -506,6 +510,7 @@ cl-influxdb
 cl-info
 clingon
 cl-ini
+cl-inix
 cl-inotify
 cl-intbytes
 cl-interpol
@@ -574,6 +579,7 @@ cl-markless-standalone
 cl-marklogic
 cl-markup
 cl-match
+cl-match-patterns
 cl-mathstats
 cl-maxminddb
 cl-maxsat
@@ -590,6 +596,7 @@ cl-migratum
 cl-mime
 cl-mime-from-string
 cl-mimeparse
+cl-minifloats
 cl-minify-css
 cl-mixed
 clml
@@ -808,6 +815,7 @@ cl-tasukete
 cltcl
 cl-telebot
 cl-telegram-bot
+cl-telegram-bot-media
 cl-template
 cl-termbox
 cl-tetris3d
@@ -861,6 +869,7 @@ cl-webdriver-client
 cl-webkit2
 cl-who
 cl-why
+cl-win32-errors
 cl-with
 cl-wol.cli
 cl-wol.core
@@ -1349,6 +1358,7 @@ ieee-floats
 illogical-pathnames
 illusion
 image
+imagine
 imago
 immutable-struct
 incf-cl
@@ -1845,9 +1855,11 @@ org.tfeb.hax.cs-forms
 org.tfeb.hax.define-functions
 org.tfeb.hax.dynamic-state
 org.tfeb.hax.iterate
+org.tfeb.hax.let-values
 org.tfeb.hax.memoize
 org.tfeb.hax.metatronic
 org.tfeb.hax.object-accessors
+org.tfeb.hax.process-declarations
 org.tfeb.hax.read-package
 org.tfeb.hax.simple-loops
 org.tfeb.hax.singleton-classes
@@ -1855,8 +1867,10 @@ org.tfeb.hax.slog
 org.tfeb.hax.spam
 org.tfeb.hax.stringtable
 org.tfeb.hax.trace-macroexpand
+org.tfeb.hax.types
 org.tfeb.hax.utilities
 org.tfeb.hax.wrapping-standard
+org.tfeb.star
 org.tfeb.tools
 org.tfeb.tools.asdf-module-sysdcls
 org.tfeb.tools.build-modules
@@ -2121,6 +2135,7 @@ salza
 salza2
 sandalphon.lambda-list
 sanitize
+sanitize-html
 sanity-clause
 s-base64
 sb-cga
