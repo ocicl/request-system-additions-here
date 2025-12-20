@@ -28,6 +28,7 @@ action-list
 adhoc
 adjuvant
 adopt
+adopt-subcommands
 adp
 adp-github
 adp-plain
@@ -36,6 +37,7 @@ affinity
 agnostic-lizard
 agutil
 ahungry-fleece
+alexa
 alexandria
 alexandria_plus
 algebraic-data-library
@@ -161,6 +163,7 @@ calendar-times
 calispel
 calm
 cambl
+can
 cardiogram
 cari3s
 carrier
@@ -178,6 +181,7 @@ ceramic
 cerberus
 cf
 cffi
+cffi-c-ref
 cffi-grovel
 cffi-libffi
 cffi-object
@@ -190,6 +194,7 @@ changed-stream
 chanl
 charje.documentation
 chat
+cheat-js
 check-bnf
 check-it
 checkl
@@ -230,6 +235,7 @@ cl-advice
 cl-airtable
 cl-algebraic-data-type
 cl-all
+cl-amqp
 cl-ana
 cl-ana.array-utils
 cl-ana.binary-tree
@@ -480,6 +486,7 @@ cl-gopher
 cl-gpio
 clgplot
 cl-graph
+clgrep
 cl-grip
 cl-grnm
 cl-growl
@@ -664,6 +671,7 @@ cl-oneliner
 cl-one-time-passwords
 cl-online-learning
 clonsigna
+clop
 cl-openal
 cl-opencl
 cl-opencl-utils
@@ -948,6 +956,7 @@ contextl
 context-lite
 convex-covering
 convolution-kernel
+copimap
 copy-directory
 core-reader
 cosmo-pagination
@@ -1009,6 +1018,7 @@ decimals
 deeds
 defclass-std
 defconfig
+defenum
 deferred
 define-json-expander
 definer
@@ -1101,6 +1111,7 @@ elf
 embeddings
 enchant
 enhanced-unwind-protect
+enumerations
 envy
 eos
 epigraph
@@ -1190,6 +1201,7 @@ fmt
 fmt-time
 fn
 fof
+fold
 folio
 folio2
 fomus
@@ -1264,6 +1276,7 @@ global-vars
 glop
 glsl-metadata
 glsl-packing
+glsl-spec
 glsl-toolkit
 glu-tessellate
 glyphs
@@ -1517,6 +1530,8 @@ lem-markdown-mode
 lem-migemo
 lem-modeline-battery
 lem-mouse-sgr1006
+lemmy-api
+lemmy-api_slash_base
 lem-ncurses
 lem-nim-mode
 lem-ocaml-mode
@@ -2087,7 +2102,15 @@ reader
 reader-interception
 read-number
 reblocks
+reblocks-auth
+reblocks-file-server
+reblocks-lass
+reblocks-navigation-widget
 reblocks-parenscript
+reblocks-prometheus
+reblocks-typeahead
+reblocks-ui
+reblocks-ui2
 reblocks-websocket
 rectangle-packing
 recur
@@ -2249,6 +2272,7 @@ sparser
 sparse-set
 spatial-trees
 special-functions
+specialization-store
 specialized-function
 speechless
 spell
@@ -2285,6 +2309,7 @@ stem
 stepster
 st-json
 stl
+stmx
 stopclock
 str
 strict-function
@@ -2437,6 +2462,7 @@ trivial-package-local-nicknames
 trivial-package-locks
 trivial-package-manager
 trivial-pooled-database
+trivial-project
 trivial-raw-io
 trivial-rfc-1123
 trivial-sanitize
@@ -2457,6 +2483,7 @@ trivial-update
 trivial-utf-8
 trivial-utilities
 trivial-variable-bindings
+trivial-with
 trivial-with-current-source-form
 trivial-ws
 trivial-yenc
@@ -2543,6 +2570,8 @@ vp-trees
 wallstreetflets
 wasm-encoder
 water
+wayflan
+wayflan-client
 webapi
 web-chat
 websocket-driver
