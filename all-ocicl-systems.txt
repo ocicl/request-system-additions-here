@@ -154,6 +154,7 @@ brake
 bst
 btrie
 bt-semaphore
+buffered-streams
 buildnode
 bytecurry.asdf-ext
 bytecurry.mocks
@@ -856,6 +857,7 @@ cl-unification
 cl-union-find
 clunit
 clunit2
+cl-unum
 clustered-intset
 clusters
 cl-utilities
@@ -1937,6 +1939,8 @@ parser.common-rules
 parser.common-rules.operators
 parser.ini
 parsnip
+parsonic
+parsonic.stream
 patchwork
 pathnames
 pathname-utils
@@ -2621,6 +2625,10 @@ xuriella
 yacc
 yaclml
 yah
+yamson
+yamson.base
+yamson.json
+yamson.yaml
 yason
 youtube
 yxorp
