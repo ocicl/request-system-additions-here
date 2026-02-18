@@ -1776,6 +1776,7 @@ named-readtables
 napa-fft3
 narrowed-types
 native-lazy-seq
+native-repl
 nbd
 nclasses
 ndebug
