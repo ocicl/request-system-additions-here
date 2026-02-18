@@ -840,7 +840,6 @@ cl-toml
 cl-tqdm
 cl-transit
 cl-transmission
-cl-treesitter
 cl-trie
 cl-tui
 cl-tulip-graph
@@ -1047,7 +1046,6 @@ deoxybyte-systems
 deoxybyte-unix
 deoxybyte-utilities
 deploy
-deploy-command-line
 depot
 deptree
 descriptions
@@ -1777,7 +1775,6 @@ named-readtables
 napa-fft3
 narrowed-types
 native-lazy-seq
-native-repl
 nbd
 nclasses
 ndebug
@@ -2346,7 +2343,6 @@ symath
 symbol-munger
 synonyms
 sysexits
-system-auth
 system-locale
 tagger
 taglib
