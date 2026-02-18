@@ -1047,6 +1047,7 @@ deoxybyte-systems
 deoxybyte-unix
 deoxybyte-utilities
 deploy
+deploy-command-line
 depot
 deptree
 descriptions
@@ -2345,6 +2346,7 @@ symath
 symbol-munger
 synonyms
 sysexits
+system-auth
 system-locale
 tagger
 taglib
