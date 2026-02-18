@@ -16,6 +16,7 @@
 40ants-ci
 40ants-doc
 40ants-mcp
+40ants-plantuml
 40ants-routes
 able
 abnf
@@ -24,6 +25,7 @@ abstract-classes
 access
 acclimation
 a-cl-logger
+acm-random
 action-list
 adhoc
 adjuvant
@@ -34,7 +36,12 @@ adp-github
 adp-plain
 advanced-readtable
 affinity
+ag-grpc
+ag-grpc-all
+ag-http2
 agnostic-lizard
+ag-proto
+ag-proto-cli
 agutil
 ahungry-fleece
 alexa
@@ -59,6 +66,7 @@ also-alsa
 alternate-asdf-system-connections
 amazon-ecs
 amb
+anansi
 anaphora
 ansi-escape
 ansi-test-harness
@@ -134,6 +142,7 @@ binfix
 binomial-heap
 binpack
 birch
+bitcoin-core-rpc
 bitcoin-rpc
 bitfield
 bitfield-schema
@@ -147,7 +156,16 @@ black-tie
 bmas
 bnf
 bobbin
+bodge-blobs-support
+bodge-chipmunk
+bodge-chipmunk-bindings
+bodge-glad
+bodge-heap
+bodge-libc-essentials
 bodge-memory
+bodge-nanovg
+bodge-ode
+bodge-queue
 bodge-utilities
 bordeaux-threads
 brake
@@ -194,6 +212,7 @@ chameleon
 changed-stream
 chanl
 charje.documentation
+charje.loop
 chat
 cheat-js
 check-bnf
@@ -201,6 +220,7 @@ check-it
 checkl
 chillax
 chipi
+chipmunk-blob
 chipz
 chirp
 chlorophyll
@@ -316,6 +336,7 @@ cl-async-await
 cl-async-future
 cl-async-ssl
 clath
+clatter-irc
 cl-autorepo
 cl-autowrap
 clavatar
@@ -324,6 +345,7 @@ cl-avro
 claw
 clawk
 claw-olm
+claw-support
 claw-utils
 claxy
 cl-azure
@@ -351,6 +373,7 @@ cl-bus
 cl-ca
 cl-cache-tables
 cl-cairo2
+cl-cancel
 cl-case-control
 cl-catmull-rom-spline
 cl-cffi-cairo
@@ -377,6 +400,7 @@ cl-concord
 cl-conspack
 cl-cont
 cl-containers
+cl-context
 cl-cookie
 cl-coroutine
 cl-coveralls
@@ -442,6 +466,7 @@ cl-flac
 cl-flowd
 cl-fluent-logger
 cl-fluiddb
+cl-fluidinfo
 cl-fond
 cl-forms
 cl-form-types
@@ -502,6 +527,7 @@ cl-html5-parser
 cl-html-diff
 cl-html-parse
 cl-htmlprag
+cl-html-readme
 cl-httpsqs
 cl-hue
 cl-i18n
@@ -557,6 +583,8 @@ cl-l10n
 cl-l10n-cldr
 cl-lambdacalc
 cl-las
+cl-lastfm
+cl-lastfm-test
 cl-lc
 cl-ledger
 cl-lex
@@ -569,6 +597,7 @@ cl-libuv
 cl-libuv-config
 cl-libxml2
 cl-libyaml
+cl-llm-provider
 cl-locale
 cl-locatives
 cl-log
@@ -591,6 +620,7 @@ cl-match-patterns
 cl-mathstats
 cl-maxminddb
 cl-maxsat
+cl-mcp-server
 cl-mdb
 cl-mecab
 cl-mechanize
@@ -635,18 +665,21 @@ cl-moneris
 cl-mongo-id
 cl-monitors
 cl-mop
+cl-morse
 cl-moss
 cl-mount-info
 cl-mpg123
 cl-mtgnet
 cl-murmurhash
 cl-mustache
+cl-muth
 cl-myriam
 cl-mysql
 cl-naive-deprecation
 cl-naive-ptrees
 cl-naive-store
 cl-naive-tests
+cl-neo4j
 cl-neovim
 cl-netstring_plus
 cl-netstrings
@@ -710,6 +743,7 @@ cl-plumbing
 cl-plus-c
 cl-plus-ssl
 cl_plus_ssl
+cl-plus-ssl-osx-fix
 cl-ply
 cl-poker-eval
 cl-postgres
@@ -736,6 +770,7 @@ cl-raylib
 cl-rdfxml
 cl-rdkafka
 cl-readline
+cl-recaptcha
 cl-reddit
 cl-redis
 cl-reexport
@@ -765,6 +800,9 @@ cl-scribd
 cl-scrobbler
 cl-scsu
 cl-selenium
+cl-selfupdate
+cl-selfupdate_slash_dexador
+cl-selfupdate_slash_drakma
 cl-semver
 cl-sentiment
 cl-ses4
@@ -782,6 +820,7 @@ cl-slug
 cl-slugify
 cl-smt-lib
 cl-smtp
+cl-soil
 cl-soloud
 cl-source-map
 cl-spark
@@ -831,6 +870,7 @@ cl-tetris3d
 cl-textmagic
 cl-tga
 cl-theora
+cl-threadpool
 cl-tidy
 cl-tiled
 cl-tk
@@ -869,6 +909,7 @@ cl-vorbis
 cl-voxelize
 cl-wadler-pprint
 cl-wav
+cl-wave-file-writer
 cl-wavefront
 cl-wavelets
 cl-wayland
@@ -886,6 +927,7 @@ cl-wol.core
 cl-wordcut
 clws
 clx
+cl-x509
 cl-xdg
 cl-xkb
 cl-xkeysym
@@ -1069,6 +1111,7 @@ documentation-utils
 documentation-utils-extensions
 docutils
 donuts
+doplus
 dotenv
 doubly-linked-list
 do-urlencode
@@ -1157,6 +1200,7 @@ fare-quasiquote
 fare-quasiquote-extras
 fare-quasiquote-readtable
 fare-utils
+fast-csv
 fast-generic-functions
 fast-http
 fast-io
@@ -1269,9 +1313,11 @@ git-file-history
 githappy
 github-api-cl
 glacier
+glad-blob
 glass
 glaw
 glfw
+glfw-blob
 glisph
 glkit
 global-vars
@@ -1299,6 +1345,7 @@ grph
 gsll
 gt
 gtfl
+gtk-tagged-streams
 gtwiwtg
 gtype
 gute
@@ -1345,11 +1392,17 @@ hu.dwim.def_plus_contextl
 hu.dwim.def_plus_hu.dwim.common
 hu.dwim.def_plus_swank
 hu.dwim.delico
+hu.dwim.logger
+hu.dwim.quasi-quote
+hu.dwim.reiterate
+hu.dwim.sdl
 hu.dwim.stefil
 hu.dwim.syntax-sugar
+hu.dwim.uri
 hu.dwim.util
 hu.dwim.util_plus_iolib
 hu.dwim.walker
+hu.dwim.zlib
 huffman
 humbler
 hunchensocket
@@ -1417,6 +1470,7 @@ iolib
 iolib.asdf
 iolib.common-lisp
 iolib.conf
+iparse
 ip-management
 ironclad
 ironclad-text
@@ -1600,6 +1654,10 @@ lime
 linear-algebra
 linear-programming
 linedit
+line-readtable
+line-readtable_slash_slynk
+line-readtable_slash_swank
+line-readtable_slash_tests
 lineva
 linewise-template
 linux-packaging
@@ -1772,6 +1830,7 @@ nail
 named-closure
 named-read-macros
 named-readtables
+nanovg-blob
 napa-fft3
 narrowed-types
 native-lazy-seq
@@ -1817,6 +1876,8 @@ north-drakma
 nsort
 nsymbols
 nuclblog
+nuklear-blob
+nuklear-renderer-blob
 null-package
 numcl
 numericals
@@ -2046,6 +2107,7 @@ pseudonyms
 psychiq
 ptc
 punycode
+pure-tls
 purgatory
 puri
 purl
@@ -2078,6 +2140,7 @@ queues.simple-cqueue
 queues.simple-queue
 quickapp
 quickhull
+quicklisp-https
 quicklisp-stats
 quick-patch
 quickproject
@@ -2133,6 +2196,7 @@ restas.file-publisher
 restful
 restricted-functions
 retrospectiff
+rewrite-cl
 rexxparse
 rfc2109
 rfc2388
@@ -2142,6 +2206,8 @@ rock
 romreader
 routes
 rove
+rpcq
+rpcq-tests
 rpm
 rs-colors
 rs-dlx
@@ -2182,6 +2248,7 @@ scriptl-util
 scrutiny
 sdf
 sdl2
+sdl2-game-controller-db
 sdl2-image
 sdl2kit
 sdl2-mixer
@@ -2232,6 +2299,7 @@ simple-currency
 simple-date
 simple-date-time
 simple-finalizer
+simple-flow-dispatcher
 simple-inferiors
 simple-matrix
 simple-neural-network
@@ -2261,12 +2329,14 @@ smart-buffer
 smoothers
 smug
 snakes
+snappy
 snark-auxiliary-packages
 snark-dpll
 snark-implementation
 snark-infix-reader
 snark-loads
 snark-pkg
+sndfile-blob
 snooze
 softdrink
 software-evolution-library
@@ -2347,6 +2417,7 @@ system-locale
 tagger
 taglib
 tailrec
+tailwind-merge
 talcl
 tap-unit-test
 tar
@@ -2359,6 +2430,8 @@ teddy
 teepeedee2
 telnetlib
 template
+template-function
+template-function-tests
 temporal-functions
 temporary-file
 ten
@@ -2468,6 +2541,7 @@ trivial-package-manager
 trivial-pooled-database
 trivial-project
 trivial-raw-io
+trivial-renamer
 trivial-rfc-1123
 trivial-sanitize
 trivial-shell
@@ -2487,6 +2561,7 @@ trivial-update
 trivial-utf-8
 trivial-utilities
 trivial-variable-bindings
+trivial-wish
 trivial-with
 trivial-with-current-source-form
 trivial-ws
@@ -2544,6 +2619,7 @@ vacietis
 vacietis.vcc
 validate-list
 valtan
+varint
 vas-string-metrics
 vecto
 vectors
@@ -2598,6 +2674,7 @@ with-cached-reader-conditionals
 with-contexts
 with-c-syntax
 with-output-to-stream
+with-setf
 with-user-abort
 woo
 wookie
