@@ -839,6 +839,7 @@ cl-toml
 cl-tqdm
 cl-transit
 cl-transmission
+cl-treesitter
 cl-trie
 cl-tui
 cl-tulip-graph
