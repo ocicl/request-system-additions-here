@@ -2664,6 +2664,8 @@ what3words
 whereiseveryone.command-line-args
 which
 whirlog
+whistler
+whistler/loader
 whofields
 wilbur
 wild-package-inferred-system
