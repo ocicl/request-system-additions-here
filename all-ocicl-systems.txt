@@ -2146,6 +2146,7 @@ quick-patch
 quickproject
 quicksearch
 quickutil
+quid-pro-quo
 quri
 quux-hunchentoot
 quux-time
