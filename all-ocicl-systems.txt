@@ -1916,6 +1916,9 @@ open-vrp
 open-vrp-lib
 open-with
 ops5
+opsis
+opsis/conditions
+opsis/vigil
 opticl
 opticl-core
 optima
