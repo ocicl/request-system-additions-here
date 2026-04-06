@@ -2432,6 +2432,7 @@ tclcs-code
 teddy
 teepeedee2
 telnetlib
+telos
 template
 template-function
 template-function-tests
