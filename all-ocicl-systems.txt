@@ -1202,6 +1202,7 @@ fare-quasiquote-extras
 fare-quasiquote-readtable
 fare-utils
 fast-csv
+faster
 fast-generic-functions
 fast-http
 fast-io
