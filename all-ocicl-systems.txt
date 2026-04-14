@@ -993,6 +993,7 @@ concrete-syntax-tree-lambda-list
 conf
 configuration.options
 conium
+conserve
 consix
 console
 constantfold
