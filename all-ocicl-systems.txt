@@ -392,6 +392,7 @@ cl-ctrnn
 cl-cuda
 cl-custom-hash-table
 cl-darksky
+cl-dasl
 cl-data-structures
 cl-date-time-parser
 cl-dbi
