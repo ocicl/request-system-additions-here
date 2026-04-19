@@ -113,6 +113,8 @@ audio-tag
 authenticated-encryption
 auto-restart
 autoexport
+autoload
+autoload-doc
 automaton
 auxin
 avatar-api
