@@ -1665,6 +1665,7 @@ line-readtable_slash_swank
 line-readtable_slash_tests
 linear-algebra
 linear-programming
+linear-programming-scip
 linedit
 lineva
 linewise-template
