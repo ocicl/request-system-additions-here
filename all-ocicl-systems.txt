@@ -819,6 +819,8 @@ cl-webkit2
 cl-who
 cl-why
 cl-win32-errors
+cl-win32-types
+cl-win32-types/benchmarks
 cl-with
 cl-wol.cli
 cl-wol.core
