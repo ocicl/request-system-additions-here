@@ -331,6 +331,8 @@ cl-base32
 cl-base58
 cl-base64
 cl-batis
+cl-battlesnake
+cl-battlesnake/examples
 cl-bayesnet
 cl-bcrypt
 cl-beanstalk
