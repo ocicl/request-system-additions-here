@@ -850,6 +850,7 @@ clack-pretend
 clack-prometheus
 clack-socket
 clack-static-asset-middleware
+clam
 classimp
 classowary
 clath
