@@ -614,6 +614,7 @@ cl-naive-deprecation
 cl-naive-ptrees
 cl-naive-store
 cl-naive-tests
+cl-nbt
 cl-neo4j
 cl-neovim
 cl-netstring_plus
