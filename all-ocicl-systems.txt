@@ -197,6 +197,7 @@ ccl-compat
 ccldoc
 ceigen-lite
 cells
+celosia
 cephes
 ceramic
 cerberus
