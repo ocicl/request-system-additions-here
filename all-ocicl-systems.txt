@@ -355,6 +355,8 @@ cl-cairo2
 cl-cancel
 cl-case-control
 cl-catmull-rom-spline
+cl-cdp
+cl-cdp/codegen
 cl-cffi-cairo
 cl-cffi-gdk-pixbuf
 cl-cffi-glib
