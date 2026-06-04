@@ -1006,6 +1006,7 @@ conf
 configuration.options
 conium
 conserve
+consfigurator
 consix
 console
 constantfold
