@@ -744,6 +744,7 @@ cl-spark
 cl-sparql
 cl-speedy-queue
 cl-spidev
+cl-squirrel
 cl-ssdb
 cl-ssh-keys
 cl-statsd
