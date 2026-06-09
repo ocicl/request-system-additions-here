@@ -1293,6 +1293,8 @@ fsvd
 ftp
 ftw
 function-cache
+functional-json
+functional-json.test
 functional-trees
 funds
 future
