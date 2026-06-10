@@ -879,6 +879,7 @@ clgplot
 clgrep
 cli-parser
 clickr
+cliif
 clim-lisp
 clim-widgets
 climacs
