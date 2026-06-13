@@ -1888,6 +1888,7 @@ nhooks
 nibbles
 nibbles-streams
 ningle
+ningle-actions
 ningle-fbr
 njson
 nkeymaps
