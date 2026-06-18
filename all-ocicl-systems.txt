@@ -1066,6 +1066,16 @@ database-migrations
 datafly
 dataloader
 datamuse
+datastar-cl
+datastar-cl/brotli
+datastar-cl/clack
+datastar-cl/core
+datastar-cl/hunchentoot
+datastar-cl/profile
+datastar-cl/registry
+datastar-cl/snooze
+datastar-cl/snooze-doc
+datastar-cl/woo
 date-calc
 datum-comments
 db3
@@ -1343,6 +1353,10 @@ glaw
 glfw
 glfw-blob
 glisph
+glitch-demo
+glitch-demo/clack
+glitch-demo/hunchentoot
+glitch-simple-demo
 glkit
 global-vars
 glop
@@ -1389,6 +1403,7 @@ hiccl
 history-tree
 hl7-client
 hl7-parser
+horizons-demo
 horner
 horse-html
 house
@@ -2226,6 +2241,9 @@ red-black-tree
 redirect-stream
 regex
 remote-js
+rep-detect-demo
+rep-detect-demo/clack
+rep-detect-demo/hunchentoot
 repl-utilities
 replic
 resignal-bind
