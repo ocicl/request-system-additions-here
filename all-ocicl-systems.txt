@@ -2554,6 +2554,7 @@ trivial-channels
 trivial-clipboard
 trivial-clock
 trivial-cltl2
+trivial-compile-file
 trivial-compress
 trivial-continuation
 trivial-coverage
