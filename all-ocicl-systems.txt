@@ -1865,6 +1865,7 @@ mssql
 mstrings
 mt19937
 mtif
+mu-json
 multilang-documentation
 multiposter
 multival-plist
