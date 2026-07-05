@@ -1961,6 +1961,7 @@ openai
 openai-openapi-client
 openapi-generator
 openapi-parser
+opendaq
 openid-key
 openldk
 openrpc-client
