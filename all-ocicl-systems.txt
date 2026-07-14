@@ -2476,6 +2476,7 @@ sysexits
 system-locale
 tagger
 taglib
+taglib-bindings
 tailrec
 tailwind-merge
 talcl
