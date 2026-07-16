@@ -143,6 +143,7 @@ binding-arrows
 binfix
 binomial-heap
 binpack
+binstruct
 birch
 bit-ops
 bit-smasher
