@@ -1941,6 +1941,7 @@ nxt-proxy
 nyaml
 nytpu.lisp-utils
 nyxt
+observables
 ocicl
 ocicl-manage
 ocicl-sandbox
