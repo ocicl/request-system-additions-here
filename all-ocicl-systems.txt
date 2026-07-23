@@ -1753,6 +1753,8 @@ logv
 loop-continue
 lorem-ipsum
 lowlight
+lp-hash-table
+lp-hash-table/benchmark
 lparallel
 lqn
 lquery
