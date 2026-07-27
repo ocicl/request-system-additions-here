@@ -1135,6 +1135,7 @@ dns-client
 do-urlencode
 docbrowser
 docparser
+docs
 docs-builder
 docs-config
 documentation-utils
@@ -1157,6 +1158,7 @@ dynamic-array
 dynamic-classes
 dynamic-collect
 dynamic-mixins
+dynamic-routes
 eager-future2
 easing
 easter-gauss
@@ -1395,6 +1397,7 @@ hash-table-ext
 hashtrie
 hdf5-cffi
 heap
+hello-world
 hermetic
 herodotus
 hh-aws
@@ -2430,6 +2433,7 @@ srfi-98
 sse-client
 sse-server
 st-json
+sta6
 staple
 staple-code-parser
 staple-markdown
