@@ -2755,6 +2755,7 @@ woo
 wookie
 wordnet
 workout-timer
+wscli
 wu-decimal
 wu-sugar
 x.let-star
