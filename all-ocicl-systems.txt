@@ -417,6 +417,7 @@ cl-diskspace
 cl-disque
 cl-djula-svg
 cl-djula-tailwind
+cl-docx
 cl-dot
 cl-dotenv
 cl-double-metaphone
