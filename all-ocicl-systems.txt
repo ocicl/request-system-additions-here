@@ -73,6 +73,8 @@ ansi-test-harness
 antik
 antik-base
 anypool
+apple-binary-plist
+apple-binary-plist/cli
 apply-argv
 april
 arc-compat
