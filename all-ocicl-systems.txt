@@ -245,6 +245,7 @@ cl-aa
 cl-aa-misc
 cl-acronyms
 cl-actors
+cl-adoc
 cl-advice
 cl-airtable
 cl-algebraic-data-type
