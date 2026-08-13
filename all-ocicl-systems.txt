@@ -987,6 +987,8 @@ com.danielkeogh.graph
 com.dieggsy.f-string
 com.djhaskin.cliff
 com.djhaskin.nrdl
+com.djhaskin.svers
+com.djhaskin.zick
 com.elbeno.curve
 com.elbeno.vector
 com.gigamonkeys.binary-data
