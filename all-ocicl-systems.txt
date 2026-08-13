@@ -2250,6 +2250,7 @@ reblocks-typeahead
 reblocks-ui
 reblocks-ui2
 reblocks-websocket
+reckless-utf8
 rectangle-packing
 recur
 recursive-regex
