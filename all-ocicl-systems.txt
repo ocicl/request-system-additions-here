@@ -1023,6 +1023,9 @@ conium
 conserve
 consfigurator
 consix
+conskivi-core
+conskivi-fileonly
+conskivi-inmemory
 console
 constantfold
 context-lite
