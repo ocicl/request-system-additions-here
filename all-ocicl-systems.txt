@@ -674,6 +674,7 @@ cl-plus-ssl-osx-fix
 cl-ply
 cl-poker-eval
 cl-postgres
+cl-postgres-client
 cl-postgres-datetime
 cl-postgres-plus-uuid
 cl-ppcre
