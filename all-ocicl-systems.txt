@@ -2462,6 +2462,7 @@ staple-package-recording
 staple-restructured-text
 staple-server
 stars
+stat-generics
 stateless-iterators
 static-dispatch
 static-vectors
