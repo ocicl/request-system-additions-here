@@ -159,6 +159,8 @@ bk-tree
 bknr.datastore
 black-tie
 blackbird
+ble
+ble/core
 bmas
 bnf
 bobbin
@@ -2685,6 +2687,10 @@ uclp
 ucons
 ucw
 ucw-core
+ud18
+ud18/ble
+ud18/cli
+ud18/core
 uffi
 ufo
 ugly-tiny-infix-macro
