@@ -1,4 +1,6 @@
 -depends-on
+0conf
+0conf/cli
 1am
 3b-bmfont
 3b-hdr
