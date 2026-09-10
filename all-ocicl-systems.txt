@@ -102,6 +102,7 @@ asdf-dependency-grovel
 asdf-encodings
 asdf-finalizers
 asdf-linguist
+asdf-macos-app
 asdf-manager
 asdf-package-system
 asdf-release-ops
