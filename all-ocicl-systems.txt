@@ -137,6 +137,14 @@ basic-binary-ipc
 bdef
 bencode
 bert
+bgapi
+bgapi/cli
+bgapi/core
+bgapi/cpc
+bgapi/def
+bgapi/nus
+bgapi/sim
+bgapi/xapi
 bibtex
 big-string
 binary-io
