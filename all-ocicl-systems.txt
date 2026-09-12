@@ -140,7 +140,6 @@ bert
 bgapi
 bgapi/cli
 bgapi/core
-bgapi/cpc
 bgapi/def
 bgapi/nus
 bgapi/sim
