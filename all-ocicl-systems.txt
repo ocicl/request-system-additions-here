@@ -2501,6 +2501,8 @@ studio-client
 stumpwm
 stumpwm-dynamic-float
 stumpwm-sndioctl
+sunny-side
+sunny-side/docs
 svg-import-export
 swank
 swank-client
