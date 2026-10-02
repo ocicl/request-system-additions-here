@@ -1581,6 +1581,7 @@ kdtree-jk
 kebab
 kekule-clj
 kenzo
+keynub-licdongle
 khazern
 khazern-extension
 khazern-extension-extrinsic
