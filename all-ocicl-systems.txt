@@ -47,6 +47,8 @@ ag-proto-cli
 agnostic-lizard
 agutil
 ahungry-fleece
+akshara
+akshara/pdf
 alexa
 alexandria
 alexandria_plus
