@@ -2438,6 +2438,11 @@ smackjack
 smallnet
 smart-buffer
 smoothers
+smtp
+smtp/core
+smtp/delivery
+smtp/dkim
+smtp/pure-tls
 smug
 snakes
 snappy
