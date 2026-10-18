@@ -398,6 +398,7 @@ cl-colors
 cl-colors-ng
 cl-colors2
 cl-commonmark
+cl-commonmark-gfm
 cl-concord
 cl-conspack
 cl-cont
