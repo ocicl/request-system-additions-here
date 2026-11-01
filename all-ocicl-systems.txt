@@ -587,6 +587,7 @@ cl-locatives
 cl-log
 cl-logic
 cl-ltsv
+cl-lustre-tests
 cl-lzma
 cl-m4
 cl-mango
@@ -1729,6 +1730,9 @@ lfarm-ssl
 lftp-wrapper
 lhstats
 lib-helper
+libarchive
+libarchive/cli
+libarchive/ffi
 liblmdb
 lichat-ldap
 lichat-protocol
