@@ -1182,6 +1182,7 @@ doubly-linked-list
 drakma
 drakma-async
 draw-cons-tree
+dsl-quote
 duckdb
 dufy
 dungen
