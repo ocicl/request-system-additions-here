@@ -414,6 +414,7 @@ cl-cram
 cl-crc64
 cl-creditcard
 cl-cron
+cl-cronexpr
 cl-css
 cl-csv
 cl-csv-clsql
