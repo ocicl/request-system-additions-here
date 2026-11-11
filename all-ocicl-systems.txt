@@ -436,6 +436,7 @@ cl-diskspace
 cl-disque
 cl-djula-svg
 cl-djula-tailwind
+cl-dns-proxy
 cl-docx
 cl-dot
 cl-dotenv
@@ -711,6 +712,7 @@ cl-random-forest
 cl-raylib
 cl-rdfxml
 cl-rdkafka
+cl-re2
 cl-readline
 cl-recaptcha
 cl-reddit
@@ -730,6 +732,7 @@ cl-rocksdb
 cl-rrt
 cl-rules
 cl-s3
+cl-safe-yaml
 cl-sandbox
 cl-sasl
 cl-sat
@@ -857,6 +860,7 @@ cl-with
 cl-wol.cli
 cl-wol.core
 cl-wordcut
+cl-work-queue
 cl-x509
 cl-xdg
 cl-xkb
