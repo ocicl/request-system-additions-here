@@ -863,6 +863,7 @@ cl-why
 cl-win32-errors
 cl-win32-types
 cl-win32-types/benchmarks
+cl-wireguard-overlay
 cl-with
 cl-wol.cli
 cl-wol.core
