@@ -377,6 +377,7 @@ cl-case-control
 cl-catmull-rom-spline
 cl-cdp
 cl-cdp/codegen
+cl-cel
 cl-cffi-cairo
 cl-cffi-gdk-pixbuf
 cl-cffi-glib
@@ -815,6 +816,11 @@ cl-tk
 cl-tld
 cl-tls
 cl-toml
+cl-torrent
+cl-torrent/ag-grpc
+cl-torrent/tcp
+cl-torrent/tls
+cl-torrent/tracker-http
 cl-tqdm
 cl-transit
 cl-transmission
