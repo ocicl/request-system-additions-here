@@ -42,6 +42,8 @@ affinity
 ag-grpc
 ag-grpc-all
 ag-http2
+ag-prolog
+ag-prolog/syntax
 ag-proto
 ag-proto-cli
 agnostic-lizard
